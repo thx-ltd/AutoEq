@@ -10,10 +10,11 @@ from PIL import Image, ImageDraw
 import colorsys
 import numpy as np
 import shutil
+from tqdm.auto import tqdm
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from autoeq.frequency_response import FrequencyResponse
-from autoeq.utils import make_file_name_allowed, is_file_name_allowed
+from autoeq.utils import make_file_name_allowed
 ROOT_PATH = Path(__file__).parent.parent
 if str(ROOT_PATH) not in sys.path:
     sys.path.insert(1, str(ROOT_PATH))
@@ -50,15 +51,16 @@ class Oratory1990Crawler(Crawler):
                 print(f'Failed to download {item.url}')
                 return
         image_path = self.image_path(item)
-        # Convert to image with ghostscript
-        # Using temporary paths with Ghostscript because it seems to be unable to work with non-ascii characters
-        tmp_in = Path(tempfile.gettempdir()).joinpath('__tmp.pdf')
-        tmp_out = Path(tempfile.gettempdir()).joinpath('__tmp.png')
-        shutil.copy(pdf_path, tmp_in)
-        Ghostscript(
-            b'pdf2png', b'-dNOPAUSE', b'-sDEVICE=png16m', b'-dBATCH', b'-r600', b'-dUseCropBox',
-            f'-sOutputFile={tmp_out}'.encode('utf-8'), str(tmp_in).encode('utf-8')).exit()
-        shutil.copy(tmp_out, image_path)
+        if not image_path.exists():
+            # Convert to image with ghostscript
+            # Using temporary paths with Ghostscript because it seems to be unable to work with non-ascii characters
+            tmp_in = Path(tempfile.gettempdir()).joinpath('__tmp.pdf')
+            tmp_out = Path(tempfile.gettempdir()).joinpath('__tmp.png')
+            shutil.copy(pdf_path, tmp_in)
+            Ghostscript(
+                b'pdf2png', b'-dNOPAUSE', b'-sDEVICE=png16m', b'-dBATCH', b'-r600', b'-dUseCropBox',
+                f'-sOutputFile={tmp_out}'.encode('utf-8'), str(tmp_in).encode('utf-8')).exit()
+            shutil.copy(tmp_out, image_path)
         return image_path
 
     def read_pdf_text(self, item):
@@ -150,6 +152,11 @@ class Oratory1990Crawler(Crawler):
                     item.rig = known_item.rig
             if not self.crawl_index.find(source_name=source_name):
                 self.crawl_index.add(item)
+
+        for item in tqdm(self.crawl_index.items):
+            # Parse PDF
+            self.parse_pdf(item)
+
         return self.crawl_index
 
     @staticmethod
@@ -235,7 +242,7 @@ class Oratory1990Crawler(Crawler):
         avg_fr = FrequencyResponse(items[0].name)
         avg_fr.raw = np.zeros(avg_fr.frequency.shape)
         for item in items:
-            image_path = self.parse_pdf(item)
+            image_path = self.image_path(item)
             if image_path is None:
                 return
             fr, inspection = Oratory1990Crawler.parse_image(image_path)

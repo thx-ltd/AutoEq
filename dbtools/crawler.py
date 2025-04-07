@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-
 import sys
 import urllib
 from pathlib import Path
 import numpy as np
 import pandas as pd
+from icrawler.builtin import GoogleImageCrawler
 from rapidfuzz import fuzz
 import requests
 from tqdm.auto import tqdm
@@ -57,7 +57,7 @@ class Crawler(ABC):
         self.redownload = redownload
         # UI
         self.prompts = []
-        self.prompt_list = self.prompt_list = widgets.VBox(
+        self.prompt_list = widgets.VBox(
             [], layout=widgets.Layout(max_height='600px', overflow='auto', width='324px'))
         self.active_list_item_container = widgets.VBox([])
         self.active_list_item = None
@@ -263,12 +263,29 @@ class Crawler(ABC):
             name = item.source_name or urllib.parse.unquote(item.url.split('/')[-1])
             if self.manufacturers.find(name)[0] is None:
                 print(f'Cannot detect manufacturer for: {name}')
-            self.prompts.append(PromptListItem(NamePrompt(item, self.prompt_callback), self.switch_prompt))
+            self.prompts.append(
+                PromptListItem(
+                    NamePrompt(item, self.prompt_callback, manufacturers=self.manufacturers),
+                    self.switch_prompt))
             if len(self.prompts) >= max_prompts:
                 break
         self.prompt_list.children = [prompt.widget for prompt in self.prompts]
 
     # Crawler methods
+
+    def normalize_file_name(self, file_name):
+        """Normalizes file name and removes phohibited characters
+
+        Args:
+            file_name:
+
+        Returns:
+            Normalized file name
+        """
+        file_name = urllib.parse.unquote(file_name)
+        file_name = re.sub(r'[<>:"/\\|?*]', '', file_name)
+        file_name = re.sub(r'\s{2,}', ' ', file_name)
+        return file_name
 
     def download(self, url, file_path, **req_kwargs):
         """Downloads a file from a URL
@@ -310,6 +327,18 @@ class Crawler(ABC):
             NameIndex with the crawled items
         """
         pass
+
+    def search_images(self, source_name):
+        dir_name = self.normalize_file_name(source_name)
+        img_dir = ROOT_PATH.joinpath('dbtools', 'google-image-search', dir_name)
+        if not img_dir.exists():
+            #img_dir.mkdir(parents=True, exist_ok=True)
+            google_crawler = GoogleImageCrawler(storage={'root_dir': img_dir})
+            google_crawler.crawl(keyword=source_name, max_num=3)
+
+    def search_all_images(self):
+        for item in self.crawl_index.items:
+            self.search_images(item.source_name)
 
     # Processing methods
 
@@ -442,9 +471,11 @@ class Crawler(ABC):
             self.active_list_item.name_prompt.name_proposals = self.get_name_proposals(
                 self.active_list_item.name_prompt.guessed_name, n=5, threshold=10, require_manufacturer_match=False)
             self.active_list_item.name_prompt.similar_names = [
-                    item.name for item in self.get_name_proposals(
-                        self.active_list_item.name_prompt.guessed_name, n=6, normalize_digits=True,
-                        normalize_extras=True, threshold=0, require_manufacturer_match=False).items]
+                item.name for item in self.get_name_proposals(
+                    self.active_list_item.name_prompt.guessed_name, n=6, normalize_digits=True,
+                    normalize_extras=True, threshold=0, require_manufacturer_match=False
+                ).items
+            ]
             if self.active_list_item.name_prompt.item.name is not None and self.active_list_item.name_prompt.item.form is not None:
                 # Prompting can resolve AutoEq name and the headphone form, both got resolved here, no need to prompt
                 self.prompt_callback(self.active_list_item.name_prompt.item)

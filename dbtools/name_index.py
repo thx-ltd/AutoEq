@@ -163,13 +163,21 @@ class NameIndex:
         if item.url is not None and item.url in self._by_url:
             del self._by_url[item.url]
         if item.source_name is not None and item.source_name in self._by_source_name:
-            del self._by_source_name[item.source_name]
+            self._by_source_name[item.source_name] = [
+                it for it in self._by_source_name[item.source_name] if hash(it) != hash(item)
+            ]
         if item.name is not None and item.name in self._by_name:
-            del self._by_name[item.name]
+            self._by_name[item.name] = [
+                it for it in self._by_name[item.name] if hash(it) != hash(item)
+            ]
         if item.form is not None and item.form in self._by_form:
-            del self._by_form[item.form]
+            self._by_form[item.form] = [
+                it for it in self._by_form[item.form] if hash(it) != hash(item)
+            ]
         if item.rig is not None and item.rig in self._by_rig:
-            del self._by_rig[item.rig]
+            self._by_rig[item.rig] = [
+                it for it in self._by_rig[item.rig] if hash(it) != hash(item)
+            ]
 
     def find(self, url=None, source_name=None, name=None, form=None, rig=None):
         """Finds all items which match the given query parameters.
