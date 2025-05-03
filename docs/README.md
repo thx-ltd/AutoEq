@@ -1,10 +1,8 @@
 # THX Spatial Audio+ Enhancements for AutoEq
 
-## Overview
+ACCESS: branch of public fork of Jaakko Pasanen's [AutoEq](https://github.com/jaakkopasanen/AutoEq.git), available under an [MIT license](https://github.com/jaakkopasanen/AutoEq/blob/master/LICENSE).
 
-This repository is a public fork of Jaakko Pasanen's [AutoEq](https://github.com/jaakkopasanen/AutoEq.git), available under an [MIT license](https://github.com/jaakkopasanen/AutoEq/blob/master/LICENSE).
-
-## THX APO 4
+## THX Spatial Audio+
 
 [THX Spatial Audio+](https://www.thx.com/spatial-audio/) is a re-write of audio processing technologies designed to enhance stereo and surround sound, to deliver next-generation audio that intensifies 3D soundscapes in all forms of entertainment.
 
@@ -18,7 +16,7 @@ Stereo headphones and gaming headsets directly supported by **THX APO 4** on Win
 
 THX has standardized upon the **Harman AE/OE 2018 Target** curve as described in the follow-up research paper, [A Statistical Model that Predicts Listeners’ Preference Ratings of Around-Ear and On-Ear Headphones](https://aes2.org/publications/elibrary-page/?id=19436), by **Sean E. Olive**, **Todd Welti**, and **Omid Khonsaripour**.
 
-_TODO - with an additional 6 dB bass boost at 105 Hz, implemented as a low-shelf filter, for a total of 10 dB bass boost._
+>TODO - clarify level of additional bass boost in dB, noting that the AutoEq default is +6.0 dB at 105 Hz, implemented as a low-shelf filter, for a total of 10 dB bass boost.
 
 The ability to configure the available filter bands largely matches those available in other enthusiast audio equalization applications, such as Jonas Dahlinger's [EqualizerAPO](https://sourceforge.net/projects/equalizerapo/), or John Mulcahy's [Room EQ Wizard](https://www.roomeqwizard.com/), constrained for our purposes as follows:
 
@@ -26,9 +24,7 @@ The ability to configure the available filter bands largely matches those availa
 - eight (8) `PEAK`ing bands
 - one (1) `HIGH_SHELF` band
 
----
-
-TODO
+>NOTE: To protect the confidentiality of our partners' as-yet unreleased products, the `../measurements/THX/` and `../results/THX/` paths are submoduled as internal repositories with private access for THX internal use.
 
 ---
 `./docs/README.md`
