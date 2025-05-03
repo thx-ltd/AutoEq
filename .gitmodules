@@ -1,0 +1,6 @@
+[submodule "measurements/THX"]
+	path = measurements/THX
+	url = git@github.com:thx-ltd/headphone-measure-csv
+[submodule "results/THX"]
+	path = results/THX
+	url = git@github.com:thx-ltd/autoeq-results
