@@ -26,5 +26,71 @@ The ability to configure the available filter bands largely matches those availa
 
 >NOTE: To protect the confidentiality of our partners' as-yet unreleased products, the `../measurements/THX/` and `../results/THX/` paths are submoduled as internal repositories with private access for THX internal use.
 
+## Usage
+
+It is _highly_ recommended to use the [uv](https://github.com/astral-sh/uv) Python package and project manager, which replaces `pip`, `pip-tools`, `pipx`, `poetry`, `pyenv`, `twine`, `virtualenv`, and others.
+
+### Installation using `uv`
+
+macOS development environment is shown in the examples below.
+
+- Go to **AutoEq** location, i.e., the root of this repository, and create a Python virtual environment:
+
+```shell
+cd AutoEq && uv venv venv
+```
+
+```shell
+Using CPython 3.9.6 interpreter at: /Library/Developer/CommandLineTools/usr/bin/python3
+Creating virtual environment at: venv
+Activate with: source venv/bin/activate
+```
+
+- Install project dependencies:
+
+```shell
+uv pip install -U -e .
+```
+
+```shell
+Using Python 3.9.6 environment at: venv
+Resolved 21 packages in 486ms
+      Built autoeq @ file:///Users/david/src/github.com/thx-ltd/AutoEq
+Prepared 21 packages in 2.36s
+Installed 21 packages in 26ms
+ + autoeq==4.1.2 (from file:///Users/david/src/github.com/thx-ltd/AutoEq)
+ + cffi==1.17.1
+ + contourpy==1.3.0
+ + cycler==0.12.1
+ + fonttools==4.57.0
+ + importlib-resources==6.5.2
+ + kiwisolver==1.4.7
+ + matplotlib==3.7.5
+ + numpy==1.24.4
+ + packaging==25.0
+ + pillow==10.0.1
+ + pycparser==2.22
+ + pyparsing==3.2.3
+ + python-dateutil==2.9.0.post0
+ + pyyaml==6.0.2
+ + scipy==1.10.1
+ + six==1.17.0
+ + soundfile==0.12.1
+ + tabulate==0.9.0
+ + tqdm==4.66.6
+ + zipp==3.21.0
+```
+
+- Verify installation. If everything went well, you'll see the list of command line parameters AutoEq accepts.
+
+```shell
+uv run --active autoeq --help
+```
+
+```shell
+usage: autoeq [-h] [--input-file INPUT_FILE] [--input-dir INPUT_DIR] --output-dir OUTPUT_DIR [--standardize-input] [--new-only] [--target TARGET] [--equalize] [--parametric-eq] [--fixed-band-eq] [--ten-band-eq] [--parametric-eq-config PARAMETRIC_EQ_CONFIG]
+...
+```
+
 ---
 `./docs/README.md`
