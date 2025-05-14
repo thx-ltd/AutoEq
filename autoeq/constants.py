@@ -319,3 +319,15 @@ PEQ_CONFIGS = {
         }] * 8
     },
 }
+
+DEFAULT_BASS_BOOST_GAINS = {
+    'AutoEq in-ear': 8.0,
+    'crinacle EARS + 711 Harman over-ear 2018 without bass': 6.0,
+    'Harman in-ear 2019 without bass': 9.5,
+    'Harman over-ear 2018 without bass': 6.0,
+    'HMS II.3 AutoEq in-ear': 8.0,
+    'HMS II.3 Harman in-ear 2019 without bass': 9.5,
+    'HMS II.3 Harman over-ear 2018 without bass': 6.0,
+    'JM-1 with Harman treble filter': 6.5,
+    'LMG 5128 0.6 without bass': 6,
+}

@@ -33,6 +33,7 @@ class HypetheSonicsCrawler(CrinacleCrawlerBase):
     def crawl(self):
         self.name_index = self.read_name_index()
         self.crawl_index = NameIndex()
+        # 711 measurements
         raw = self.download(
             'https://www.hypethesonics.com/dbc/SPLdata/phone_book.json',
             self.measurements_path.joinpath('phone_book_iemdbc.json'))
@@ -44,6 +45,7 @@ class HypetheSonicsCrawler(CrinacleCrawlerBase):
             self.crawl_index.add(NameItem(
                 source_name=source_name, form='in-ear', rig='GRAS RA0045',
                 url=f'https://www.hypethesonics.com/dbc/SPLdata/{file_name} R.txt'))
+        # B&K 5128 measurements
         raw = self.download(
             'https://www.hypethesonics.com/hatsdbc/SPLdata/phone_book.json',
             self.measurements_path.joinpath('phone_book_iemhatsdbc.json'))
