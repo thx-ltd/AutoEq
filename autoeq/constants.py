@@ -318,4 +318,28 @@ PEQ_CONFIGS = {
             'max_fc': 10000.0,
         }] * 8
     },
+    'THX_DEVICE_PRESET': {
+        'optimizer': {
+            'min_std': 0.008
+        },
+        'filter_defaults': {
+            'min_gain': -12.0,
+            'max_gain': 12.0,
+        },
+        'filters': [{
+            'type': 'LOW_SHELF',
+            'fc': 105.0,
+            'q': 0.7
+        }, {
+            'type': 'HIGH_SHELF',
+            'fc': 10000.0,
+            'q': 0.7
+        }] + [{
+            'type': 'PEAKING',
+            'min_q': 0.1,
+            'max_q': 10.0,
+            'min_fc': 20.0,
+            'max_fc': 10000.0,
+        }] * 8
+    },
 }

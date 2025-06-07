@@ -181,7 +181,12 @@ def process_file(
     if parametric_eq:
         parametric_peqs = fr.optimize_parametric_eq(
             parametric_eq_config, fs[0], preamp=preamp) if parametric_eq else None
-        fr.write_eqapo_parametric_eq(output_file_path.replace('.csv', ' ParametricEQ.txt'), parametric_peqs)
+
+        # THX APO 4 device_preset
+        prefix = 'device'
+        file_path = ' thx_' + prefix + '_preset.json'
+
+        fr.write_parametric_eq_json(output_file_path.replace('.csv', file_path), parametric_peqs, prefix)
     else:
         parametric_peqs = None
 
