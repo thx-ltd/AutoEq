@@ -1,6 +1,6 @@
 [submodule "measurements/THX"]
 	path = measurements/THX
-	url = git@github.com:thx-ltd/headphone-measure-csv
+	url = git@github.com:thx-ltd/thx-csv-measurements
 	branch = main
 [submodule "results/THX"]
 	path = results/THX
