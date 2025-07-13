@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+import re
 import webbrowser
 import ipywidgets as widgets
 import urllib.parse
@@ -32,7 +32,6 @@ class NamePrompt:
             self.form_buttons.append(btn)
         self._imgs = widgets.HBox([])
         self.widget = None
-        self.search_images()
         self.reload_ui()
 
     def reload_ui(self):
@@ -45,7 +44,7 @@ class NamePrompt:
                       f'{urllib.parse.unquote(self.item.url) or self.item.source_name}</i>'),
             *self._name_proposal_buttons,  # Name suggestions
             widgets.HTML(
-                f'<h4 style="margin: 0;text-align: center; line-height: 1.7">{self.name}</h4>',
+                f'<h4 style="margin: 0; text-align: center; line-height: 1.7; font-size: 24px">{self.name}</h4>',
             layout=widgets.Layout(width='400px')),
             self.text_field,
             widgets.HBox([*self.form_buttons]),
@@ -87,7 +86,6 @@ class NamePrompt:
         # Add button for each name proposal
         self._name_proposal_buttons = []
         if self._name_proposals is not None:
-            print(f'{self.guessed_name} --> {self._manufacturers.replace(self.guessed_name.lower())}')
             for item in name_proposals.items:
                 btn = widgets.Button(
                     description=f'{item.name}',
@@ -120,7 +118,9 @@ class NamePrompt:
         webbrowser.open(url)
 
     def search_images(self):
-        img_dir = ROOT_PATH.joinpath('dbtools', 'google-image-search', self.text_field.value)
+        if not self.text_field.value:
+            return
+        img_dir = ROOT_PATH.joinpath('dbtools', 'google-image-search', re.sub(r'\(.*\)$', '', self.text_field.value).strip())
         if not img_dir.exists():
             google_crawler = GoogleImageCrawler(storage={'root_dir': img_dir})
             google_crawler.crawl(keyword=self.text_field.value, max_num=4)

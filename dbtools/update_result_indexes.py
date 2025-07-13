@@ -29,20 +29,22 @@ name_indexes['Innerfidelity'] = InnerfidelityCrawler().name_index
 class ResultPath:
     priorities = [  # Higher index means higher priority
         ('Headphone.com Legacy', 'earbud'),
-        ('Rtings', 'earbud'),
+        ('Rtings', 'HMS II.3 earbud'),
         ('Innerfidelity', 'earbud'),
         ('Kazi', 'earbud'),
         ('Regan Cipher', 'earbud'),
         ('kr0mka', 'earbud'),
         ('Super Review', 'earbud'),
+        ('Rtings', 'Bruel & Kjaer 5128 earbud'),
         ('HypetheSonics', 'earbud'),
         ('oratory1990', 'earbud'),
 
         ('Headphone.com Legacy', 'in-ear'),  # STD 1.05 (small sample)
-        ('Rtings', 'in-ear'),  # STD 2.09
         ('Innerfidelity', 'in-ear'),  # STD 1.96
+        ('Rtings', 'HMS II.3 in-ear'),  # STD 2.09
         ('HypetheSonics', 'Bruel & Kjaer 5128 in-ear'),
         ('crinacle', 'Bruel & Kjaer 4620 in-ear'),
+        ('Rtings', 'Bruel & Kjaer 5128 in-ear'),  # STD 2.09
         ('Filk', 'in-ear'),  # No calibration
         ('DHRME', 'in-ear'),  # No calibration
         ('Jaytiss', 'in-ear'),  # No calibration
@@ -66,8 +68,9 @@ class ResultPath:
         ('crinacle', 'EARS + 711 over-ear'),
         ('Headphone.com Legacy', 'over-ear'),  # STD 2.77
         ('Innerfidelity', 'over-ear'),  # STD 1.92
-        ('Rtings', 'over-ear'),  # STD 1.62
+        ('Rtings', 'HMS II.3 over-ear'),  # STD 1.62
         ('HypetheSonics', 'over-ear'),  # Bruel & Kjaer 5128
+        ('Rtings', 'Bruel & Kjaer 5128 over-ear'),
         ('Regan Cipher', 'over-ear'),  # No calibration
         ('RikudouGoku', 'over-ear'),  # No calibration
         ('Filk', 'over-ear'),  # STD 2.04 (small sample)
@@ -398,7 +401,7 @@ def write_webapp_entries_and_measurements(paths):
 
 def update_all_indexes():
     paths = [ResultPath(readme_path.parent) for readme_path in Path(RESULTS_PATH).glob('*/*/**/*.md')]
-    write_ranking_table(paths)
+    #write_ranking_table(paths)
     write_recommendations(paths)
     write_full_index(paths)
     write_source_indexes(paths)
