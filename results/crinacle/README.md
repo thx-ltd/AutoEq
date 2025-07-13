@@ -822,7 +822,6 @@
 - [HarmonicDyne P.D.1](./Bruel%20&%20Kjaer%204620%20in-ear/HarmonicDyne%20P.D.1) on Bruel & Kjaer 4620
 - [HarmonicDyne Poseidon](./GRAS%2043AG-7%20over-ear/HarmonicDyne%20Poseidon) on GRAS 43AG-7
 - [HarmonicDyne Zeus](./GRAS%2043AG-7%20over-ear/HarmonicDyne%20Zeus) on GRAS 43AG-7
-- [Heartfield Acoustic Deer](./711%20in-ear/Heartfield%20Acoustic%20Deer) on 711
 - [HEDD HEDDphone](./GRAS%2043AG-7%20over-ear/HEDD%20HEDDphone) on GRAS 43AG-7
 - [HEDD HEDDphone](./EARS%20+%20711%20over-ear/HEDD%20HEDDphone) on EARS + 711
 - [Heir Audio Tzar 350](./711%20in-ear/Heir%20Audio%20Tzar%20350) on 711
@@ -1252,8 +1251,6 @@
 - [Neumann NDH20](./EARS%20+%20711%20over-ear/Neumann%20NDH20) on EARS + 711
 - [Neusonik direm E3](./711%20in-ear/Neusonik%20direm%20E3) on 711
 - [Neusonik direm PRO](./711%20in-ear/Neusonik%20direm%20PRO) on 711
-- [NF Audio NF2u](./Bruel%20&%20Kjaer%204620%20in-ear/NF%20Audio%20NF2u) on Bruel & Kjaer 4620
-- [NF Audio NM2+](./711%20in-ear/NF%20Audio%20NM2+) on 711
 - [NF Audio NM2+](./Bruel%20&%20Kjaer%204620%20in-ear/NF%20Audio%20NM2+) on Bruel & Kjaer 4620
 - [NiceHCK NX7 Mk3 (black)](./711%20in-ear/NiceHCK%20NX7%20Mk3%20(black)) on 711
 - [NiceHCK NX7 Mk3 (blue)](./711%20in-ear/NiceHCK%20NX7%20Mk3%20(blue)) on 711

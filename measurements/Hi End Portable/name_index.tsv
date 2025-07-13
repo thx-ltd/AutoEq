@@ -1,12 +1,24 @@
 url	source_name	name	form	rig
+https://cqtek.squig.link/data/7HZ%20G1%20L.txt	7Hz G1	7Hz G1	in-ear	711
+https://cqtek.squig.link/data/7HZ%20G1%20R.txt	7Hz G1	7Hz G1	in-ear	711
 https://cqtek.squig.link/data/7Hz%20Legato%20L.txt	7Hz Legato	7Hz Legato	in-ear	711
 https://cqtek.squig.link/data/7Hz%20Legato%20R.txt	7Hz Legato	7Hz Legato	in-ear	711
 https://cqtek.squig.link/data/7Hz%20Sonus%20L.txt	7Hz Sonus	7Hz Sonus	in-ear	711
 https://cqtek.squig.link/data/7Hz%20Sonus%20R.txt	7Hz Sonus	7Hz Sonus	in-ear	711
+https://cqtek.squig.link/data/7Hz%20Timeless%20II%20Bullet%20Gold%20L.txt	7Hz Timeless II Bullet Gold (Bullet Gold)	7Hz Timeless II (bullet gold nozzle)	in-ear	711
+https://cqtek.squig.link/data/7Hz%20Timeless%20II%20Bullet%20Gold%20R.txt	7Hz Timeless II Bullet Gold (Bullet Gold)	7Hz Timeless II (bullet gold nozzle)	in-ear	711
+https://cqtek.squig.link/data/7Hz%20Timeless%20II%20Bullet%20Silver%20L.txt	7Hz Timeless II Bullet Silver (Bullet Silver)	7Hz Timeless II (bullet silver nozzle)	in-ear	711
+https://cqtek.squig.link/data/7Hz%20Timeless%20II%20Bullet%20Silver%20R.txt	7Hz Timeless II Bullet Silver (Bullet Silver)	7Hz Timeless II (bullet silver nozzle)	in-ear	711
+https://cqtek.squig.link/data/7Hz%20Timeless%20II%20Flat%20Gold%20L.txt	7Hz Timeless II Flat Gold (Flat Gold)	7Hz Timeless II (flat gold nozzle)	in-ear	711
+https://cqtek.squig.link/data/7Hz%20Timeless%20II%20Flat%20Gold%20R.txt	7Hz Timeless II Flat Gold (Flat Gold)	7Hz Timeless II (flat gold nozzle)	in-ear	711
+https://cqtek.squig.link/data/7Hz%20Timeless%20II%20Flat%20Silver%20L.txt	7Hz Timeless II Flat Silver (Flat Silver)	7Hz Timeless II (flat silver nozzle)	in-ear	711
+https://cqtek.squig.link/data/7Hz%20Timeless%20II%20Flat%20Silver%20R.txt	7Hz Timeless II Flat Silver (Flat Silver)	7Hz Timeless II (flat silver nozzle)	in-ear	711
 https://cqtek.squig.link/data/7HZ%20Crinacle%20Zero%202%20L.txt	7Hz Crinacle Zero 2	7Hz x Crinacle Zero 2	in-ear	711
 https://cqtek.squig.link/data/7HZ%20Crinacle%20Zero%202%20R.txt	7Hz Crinacle Zero 2	7Hz x Crinacle Zero 2	in-ear	711
 https://cqtek.squig.link/data/Anew%20U1%20L.txt	Anew U1	Anew U1	in-ear	711
 https://cqtek.squig.link/data/Anew%20U1%20R.txt	Anew U1	Anew U1	in-ear	711
+https://cqtek.squig.link/data/Apevoix%20Grit%20L.txt	Apevoix Grit	Apevoix Grit	in-ear	711
+https://cqtek.squig.link/data/Apevoix%20Grit%20R.txt	Apevoix Grit	Apevoix Grit	in-ear	711
 https://cqtek.squig.link/data/Auglamour%20RT-3%20L.txt	Auglamour RT-3	AuGlamour RT-3	in-ear	711
 https://cqtek.squig.link/data/Auglamour%20RT-3%20R.txt	Auglamour RT-3	AuGlamour RT-3	in-ear	711
 https://cqtek.squig.link/data/Auglamour%20T100%20L.txt	Auglamour T100	AuGlamour T100	in-ear	711
@@ -33,6 +45,10 @@ https://cqtek.squig.link/data/BQEYZ%20Autumn%20(normal)%20L.txt	BQEYZ Autumn nor
 https://cqtek.squig.link/data/BQEYZ%20Autumn%20(normal)%20R.txt	BQEYZ Autumn normal (normal)	BQEYZ Autumn (normal filter)	in-ear	711
 https://cqtek.squig.link/data/BQEYZ%20Autumn%20Treble%20L.txt	BQEYZ Autumn Treble (Treble)	BQEYZ Autumn (treble filter)	in-ear	711
 https://cqtek.squig.link/data/BQEYZ%20Autumn%20Treble%20R.txt	BQEYZ Autumn Treble (Treble)	BQEYZ Autumn (treble filter)	in-ear	711
+https://cqtek.squig.link/data/BQEYZ%20Cloud%20L.txt	BQEYZ Cloud	BQEYZ Cloud	in-ear	711
+https://cqtek.squig.link/data/BQEYZ%20Cloud%20R.txt	BQEYZ Cloud	BQEYZ Cloud	in-ear	711
+https://cqtek.squig.link/data/BQEYZ%20Frost%20L.txt	BQEYZ Frost	BQEYZ Frost	in-ear	711
+https://cqtek.squig.link/data/BQEYZ%20Frost%20R.txt	BQEYZ Frost	BQEYZ Frost	in-ear	711
 https://cqtek.squig.link/data/BQEYZ%20K1%20L.txt	BQEYZ K1	BQEYZ K1	in-ear	711
 https://cqtek.squig.link/data/BQEYZ%20K1%20R.txt	BQEYZ K1	BQEYZ K1	in-ear	711
 https://cqtek.squig.link/data/BQEYZ%20KB100%20L.txt	BQEYZ KB100	BQEYZ KB100	in-ear	711
@@ -77,6 +93,8 @@ https://cqtek.squig.link/data/EPZ%20Q5%20L.txt	EPZ Q5	EPZ Q5	in-ear	711
 https://cqtek.squig.link/data/EPZ%20Q5%20R.txt	EPZ Q5	EPZ Q5	in-ear	711
 https://cqtek.squig.link/data/Faaeal%20Hibiscus%20L.txt	Faaeal Hibiscus	FAAEAL Hibiscus	in-ear	711
 https://cqtek.squig.link/data/Faaeal%20Hibiscus%20R.txt	Faaeal Hibiscus	FAAEAL Hibiscus	in-ear	711
+https://cqtek.squig.link/data/FatFreq%20Scarlet%20Mini%20L.txt	FatFreq Scarlet Mini	Fatfreq Scarlet Mini	in-ear	711
+https://cqtek.squig.link/data/FatFreq%20Scarlet%20Mini%20R.txt	FatFreq Scarlet Mini	Fatfreq Scarlet Mini	in-ear	711
 https://cqtek.squig.link/data/FiiO%20FH1%20L.txt	FiiO FH1	FiiO FH1	in-ear	711
 https://cqtek.squig.link/data/FiiO%20FH1%20R.txt	FiiO FH1	FiiO FH1	in-ear	711
 https://cqtek.squig.link/data/Geek%20Wold%20GK80%20MIC%20L.txt	Geek Wold GK80 MIC	Geek Wold GK80 (microphone cable)	in-ear	711
@@ -98,10 +116,24 @@ https://cqtek.squig.link/data/Hidizs%20MD4%20Balanced%20L.txt	Hidizs MD4 Balance
 https://cqtek.squig.link/data/Hidizs%20MD4%20Balanced%20R.txt	Hidizs MD4 Balanced (10)	Hidizs MD4 (on-off)	in-ear	711
 https://cqtek.squig.link/data/Hidizs%20MD4%20Bass%20L.txt	Hidizs MD4 Bass (11)	Hidizs MD4 (on-on)	in-ear	711
 https://cqtek.squig.link/data/Hidizs%20MD4%20Bass%20R.txt	Hidizs MD4 Bass (11)	Hidizs MD4 (on-on)	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20MP143%20Gold%20L.txt	Hidizs MP143 Balanced (Gold)	Hidizs MP143 (gold nozzle)	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20MP143%20Gold%20R.txt	Hidizs MP143 Balanced (Gold)	Hidizs MP143 (gold nozzle)	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20MP143%20Red%20L.txt	Hidizs MP143 Bass (Red)	Hidizs MP143 (red nozzle)	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20MP143%20Red%20R.txt	Hidizs MP143 Bass (Red)	Hidizs MP143 (red nozzle)	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20MP143%20Silver%20L.txt	Hidizs MP143 Treble (Silver)	Hidizs MP143 (silver nozzle)	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20MP143%20Silver%20R.txt	Hidizs MP143 Treble (Silver)	Hidizs MP143 (silver nozzle)	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20MP143%20TE%20Gold%20L.txt	Hidizs MP143 Golden Titanium Balanced (Gold)	Hidizs MP143 Golden Titanium (gold nozzle)	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20MP143%20TE%20Gold%20R.txt	Hidizs MP143 Golden Titanium Balanced (Gold)	Hidizs MP143 Golden Titanium (gold nozzle)	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20MP143%20TE%20Red%20L.txt	Hidizs MP143 Golden Titanium Bass (Red)	Hidizs MP143 Golden Titanium (red nozzle)	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20MP143%20TE%20Red%20R.txt	Hidizs MP143 Golden Titanium Bass (Red)	Hidizs MP143 Golden Titanium (red nozzle)	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20MP143%20TE%20Silver%20L.txt	Hidizs MP143 Golden Titanium Treble (Silver)	Hidizs MP143 Golden Titanium (silver nozzle)	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20MP143%20TE%20Silver%20R.txt	Hidizs MP143 Golden Titanium Treble (Silver)	Hidizs MP143 Golden Titanium (silver nozzle)	in-ear	711
 https://cqtek.squig.link/data/Hidizs%20MP145%20Red%20L.txt	Hidizs MP145 Bass	Hidizs MP145 (red nozzle)	in-ear	711
 https://cqtek.squig.link/data/Hidizs%20MP145%20Red%20R.txt	Hidizs MP145 Bass	Hidizs MP145 (red nozzle)	in-ear	711
 https://cqtek.squig.link/data/Hidizs%20MP145%20Silver%20L.txt	Hidizs MP145 Treble	Hidizs MP145 (silver nozzle)	in-ear	711
 https://cqtek.squig.link/data/Hidizs%20MP145%20Silver%20R.txt	Hidizs MP145 Treble	Hidizs MP145 (silver nozzle)	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20MP145%20Gold%20New%20Batch%20R.txt	Hidizs MP145 Balanced New Batch (Gold)	Hidizs MP145 Balanced New Batch (Gold)	ignore	711
+https://cqtek.squig.link/data/Hidizs%20MP145%20Gold%20Burn%20Batch%202%20R.txt	Hidizs MP145 Balanced New Batch After Burn (Gold)	Hidizs MP145 Balanced New Batch After Burn (Gold)	ignore	711
 https://cqtek.squig.link/data/Hidizs%20MP145%20Golden%20Titanium%20Bass%20L.txt	Hidizs MP145 Golden Titanium Bass (Red)	Hidizs MP145 Golden Titanium Edition (red nozzle)	in-ear	711
 https://cqtek.squig.link/data/Hidizs%20MP145%20Golden%20Titanium%20Bass%20R.txt	Hidizs MP145 Golden Titanium Bass (Red)	Hidizs MP145 Golden Titanium Edition (red nozzle)	in-ear	711
 https://cqtek.squig.link/data/Hidizs%20MP145%20Golden%20Titanium%20Balanced%20L.txt	Hidizs MP145 Golden Titanium Balanced (Gold)	Hidizs MP145 Golden Titanium Edition (rosegold nozzle)	in-ear	711
@@ -132,12 +164,18 @@ https://cqtek.squig.link/data/Hidizs%20MM2%20Treble%20L.txt	Hidizs MM2 Treble	Hi
 https://cqtek.squig.link/data/Hidizs%20MM2%20Treble%20R.txt	Hidizs MM2 Treble	Hidizs Mermaid MM2 (treble filter)	in-ear	711
 https://cqtek.squig.link/data/Hidizs%20MS1%20L.txt	Hidizs MS1	Hidizs Mermaid MS1	in-ear	711
 https://cqtek.squig.link/data/Hidizs%20MS1%20R.txt	Hidizs MS1	Hidizs Mermaid MS1	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20ST2%20Pro%20L.txt	Hidizs ST2 Pro	Hidizs ST2 Pro	in-ear	711
+https://cqtek.squig.link/data/Hidizs%20ST2%20Pro%20R.txt	Hidizs ST2 Pro	Hidizs ST2 Pro	in-ear	711
 https://cqtek.squig.link/data/Ikko%20OH10%20L.txt	Ikko OH10	IKKO OH10	in-ear	711
 https://cqtek.squig.link/data/Ikko%20OH10%20R.txt	Ikko OH10	IKKO OH10	in-ear	711
 https://cqtek.squig.link/data/Ikko%20OH1s%20L.txt	Ikko OH1s	IKKO OH1S	in-ear	711
 https://cqtek.squig.link/data/Ikko%20OH1s%20R.txt	Ikko OH1s	IKKO OH1S	in-ear	711
 https://cqtek.squig.link/data/Ikko%20OH2%20L.txt	Ikko OH2	IKKO OH2	in-ear	711
 https://cqtek.squig.link/data/Ikko%20OH2%20R.txt	Ikko OH2	IKKO OH2	in-ear	711
+https://cqtek.squig.link/data/INTUAURA%20Reference%202019%20Cable%20DAC%20L.txt	INTUAURA Reference 2019 DSP (Type-C DSP Decoding Amplifier Cable)	INTUAURA Reference 2019	in-ear	711
+https://cqtek.squig.link/data/INTUAURA%20Reference%202019%20Cable%20DAC%20R.txt	INTUAURA Reference 2019 DSP (Type-C DSP Decoding Amplifier Cable)	INTUAURA Reference 2019	in-ear	711
+https://cqtek.squig.link/data/INTUAURA%20Reference%202019%20L.txt	INTUAURA Reference 2019 (Other Cable)	INTUAURA Reference 2019 (Other Cable)	ignore	711
+https://cqtek.squig.link/data/INTUAURA%20Reference%202019%20R.txt	INTUAURA Reference 2019 (Other Cable)	INTUAURA Reference 2019 (Other Cable)	ignore	711
 https://cqtek.squig.link/data/ISN%20H40%20L.txt	ISN H40	ISN AUDIO H40	in-ear	711
 https://cqtek.squig.link/data/ISN%20H40%20R.txt	ISN H40	ISN AUDIO H40	in-ear	711
 https://cqtek.squig.link/data/ISN%20Rambo%20II%20L.txt	ISN Rambo II	ISN AUDIO Rambo II	in-ear	711
@@ -166,6 +204,8 @@ https://cqtek.squig.link/data/Joyodio%20Shine%201110%20L.txt	Joyodio Shine Bass-
 https://cqtek.squig.link/data/Joyodio%20Shine%201110%20R.txt	Joyodio Shine Bass-Mids-Highs (1110)	Joyodio Shine (on-on-on-off)	in-ear	711
 https://cqtek.squig.link/data/Joyodio%20Shine%201111%20L.txt	Joyodio Shine POP (1111)	Joyodio Shine (on-on-on-on)	in-ear	711
 https://cqtek.squig.link/data/Joyodio%20Shine%201111%20R.txt	Joyodio Shine POP (1111)	Joyodio Shine (on-on-on-on)	in-ear	711
+https://cqtek.squig.link/data/KBear%20KB02%20L.txt	KBEAR KB02	KBEAR KB02	in-ear	711
+https://cqtek.squig.link/data/KBear%20KB02%20R.txt	KBEAR KB02	KBEAR KB02	in-ear	711
 https://cqtek.squig.link/data/KBEAR%20KB04%20L.txt	KBEAR KB04	KBEAR KB04	in-ear	711
 https://cqtek.squig.link/data/KBEAR%20KB04%20R.txt	KBEAR KB04	KBEAR KB04	in-ear	711
 https://cqtek.squig.link/data/KBEAR%20KS2%20L.txt	KBEAR KS2	KBEAR KS2	in-ear	711
@@ -180,6 +220,34 @@ https://cqtek.squig.link/data/KBEAR%20Stellar%20L.txt	KBEAR Stellar	KBEAR Stella
 https://cqtek.squig.link/data/KBEAR%20Stellar%20R.txt	KBEAR Stellar	KBEAR Stellar	in-ear	711
 https://cqtek.squig.link/data/Kefine%20Delci%20L.txt	Kefine Delci	KEFINE Delci	in-ear	711
 https://cqtek.squig.link/data/Kefine%20Delci%20R.txt	Kefine Delci	KEFINE Delci	in-ear	711
+https://cqtek.squig.link/data/Kefine%20Klean%20Black%20L.txt	Kefine Klean Black (Black filter)	KEFINE Klean (black filter)	in-ear	711
+https://cqtek.squig.link/data/Kefine%20Klean%20Black%20R.txt	Kefine Klean Black (Black filter)	KEFINE Klean (black filter)	in-ear	711
+https://cqtek.squig.link/data/Kefine%20Klean%20Silver%20L.txt	Kefine Klean Silver (Silver filter)	KEFINE Klean (silver filter)	in-ear	711
+https://cqtek.squig.link/data/Kefine%20Klean%20Silver%20R.txt	Kefine Klean Silver (Silver filter)	KEFINE Klean (silver filter)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZA12%200000%20L.txt	KZ ZA12 0000 (0000)	KZ ZA12 (off-off-off-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZA12%200000%20R.txt	KZ ZA12 0000 (0000)	KZ ZA12 (off-off-off-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZA12%200010%20L.txt	KZ ZA12 0010 (0010)	KZ ZA12 (off-off-on-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZA12%200010%20R.txt	KZ ZA12 0010 (0010)	KZ ZA12 (off-off-on-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZA12%200011%20L.txt	KZ ZA12 0011 (0011)	KZ ZA12 (off-off-on-on)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZA12%200011%20R.txt	KZ ZA12 0011 (0011)	KZ ZA12 (off-off-on-on)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZA12%201000%20L.txt	KZ ZA12 1000 (1000)	KZ ZA12 (on-off-off-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZA12%201000%20R.txt	KZ ZA12 1000 (1000)	KZ ZA12 (on-off-off-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZA12%201100%20L.txt	KZ ZA12 1100 (1100)	KZ ZA12 (on-on-off-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZA12%201100%20R.txt	KZ ZA12 1100 (1100)	KZ ZA12 (on-on-off-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZA12%201111%20L.txt	KZ ZA12 1111 (1111)	KZ ZA12 (on-on-on-on)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZA12%201111%20R.txt	KZ ZA12 1111 (1111)	KZ ZA12 (on-on-on-on)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZS10%20Pro%202%200000%20L.txt	KZ ZS10 Pro 2 0000 (0000)	KZ ZS10 Pro 2 (off-off-off-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZS10%20Pro%202%200000%20R.txt	KZ ZS10 Pro 2 0000 (0000)	KZ ZS10 Pro 2 (off-off-off-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZS10%20Pro%202%200001%20L.txt	KZ ZS10 Pro 2 0001 (0001)	KZ ZS10 Pro 2 (off-off-off-on)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZS10%20Pro%202%200001%20R.txt	KZ ZS10 Pro 2 0001 (0001)	KZ ZS10 Pro 2 (off-off-off-on)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZS10%20Pro%202%201000%20L.txt	KZ ZS10 Pro 2 1000 (1000)	KZ ZS10 Pro 2 (on-off-off-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZS10%20Pro%202%201000%20R.txt	KZ ZS10 Pro 2 1000 (1000)	KZ ZS10 Pro 2 (on-off-off-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZS10%20Pro%202%201100%20L.txt	KZ ZS10 Pro 2 1100 (1100)	KZ ZS10 Pro 2 (on-on-off-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZS10%20Pro%202%201100%20R.txt	KZ ZS10 Pro 2 1100 (1100)	KZ ZS10 Pro 2 (on-on-off-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZS10%20Pro%202%201110%20L.txt	KZ ZS10 Pro 2 1110 (1110)	KZ ZS10 Pro 2 (on-on-on-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZS10%20Pro%202%201110%20R.txt	KZ ZS10 Pro 2 1110 (1110)	KZ ZS10 Pro 2 (on-on-on-off)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZS10%20Pro%202%201111%20L.txt	KZ ZS10 Pro 2 1111 (1111)	KZ ZS10 Pro 2 (on-on-on-on)	in-ear	711
+https://cqtek.squig.link/data/KZ%20ZS10%20Pro%202%201111%20R.txt	KZ ZS10 Pro 2 1111 (1111)	KZ ZS10 Pro 2 (on-on-on-on)	in-ear	711
 https://cqtek.squig.link/data/Kefine%20Klanar%20L.txt	Kefine Klanar	Kefine Klanar	in-ear	711
 https://cqtek.squig.link/data/Kefine%20Klanar%20R.txt	Kefine Klanar	Kefine Klanar	in-ear	711
 https://cqtek.squig.link/data/KiiBOOM%20Allure%20L.txt	KiiBOOM Allure	KiiBOOM Allure	in-ear	711
@@ -190,8 +258,18 @@ https://cqtek.squig.link/data/Kinera%20Celest%20Gumiho%20L.txt	Kinera Celest Gum
 https://cqtek.squig.link/data/Kinera%20Celest%20Gumiho%20R.txt	Kinera Celest Gumiho	Kinera Celest Gumiho	in-ear	711
 https://cqtek.squig.link/data/Kinera%20Celest%20Pandamon%20L.txt	Kinera Celest Pandamon	Kinera Celest Pandamon	in-ear	711
 https://cqtek.squig.link/data/Kinera%20Celest%20Pandamon%20R.txt	Kinera Celest Pandamon	Kinera Celest Pandamon	in-ear	711
+https://cqtek.squig.link/data/Kiwi%20Ears%20Aether%20L.txt	Kiwi Ears Aether	Kiwi Ears Aether	in-ear	711
+https://cqtek.squig.link/data/Kiwi%20Ears%20Aether%20R.txt	Kiwi Ears Aether	Kiwi Ears Aether	in-ear	711
+https://cqtek.squig.link/data/Kiwi%20Ears%20Airoso%20L.txt	Kiwi Ears Airoso	Kiwi Ears Airoso	in-ear	711
+https://cqtek.squig.link/data/Kiwi%20Ears%20Airoso%20R.txt	Kiwi Ears Airoso	Kiwi Ears Airoso	in-ear	711
+https://cqtek.squig.link/data/Kiwi%20Ears%20Canta%20L.txt	Kiwi Ears Canta	Kiwi Ears Canta	in-ear	711
+https://cqtek.squig.link/data/Kiwi%20Ears%20Canta%20R.txt	Kiwi Ears Canta	Kiwi Ears Canta	in-ear	711
+https://cqtek.squig.link/data/Kiwi%20Ears%20Canta%20L%20ago%2028.txt		Kiwi Ears Canta L ago 28	ignore	711
+https://cqtek.squig.link/data/Kiwi%20Ears%20Canta%20R%20ago%2028.txt		Kiwi Ears Canta R ago 28	ignore	711
 https://cqtek.squig.link/data/Kiwi%20Ears%20Dolce%20L.txt	Kiwi Ears Dolce	Kiwi Ears Dolce	in-ear	711
 https://cqtek.squig.link/data/Kiwi%20Ears%20Dolce%20R.txt	Kiwi Ears Dolce	Kiwi Ears Dolce	in-ear	711
+https://cqtek.squig.link/data/Kiwi%20Ears%20KE4%20L.txt	Kiwi Ears KE4	Kiwi Ears KE4	in-ear	711
+https://cqtek.squig.link/data/Kiwi%20Ears%20KE4%20R.txt	Kiwi Ears KE4	Kiwi Ears KE4	in-ear	711
 https://cqtek.squig.link/data/Kiwi%20Ears%20Melody%20L.txt	Kiwi Ears Melody	Kiwi Ears Melody	in-ear	711
 https://cqtek.squig.link/data/Kiwi%20Ears%20Melody%20R.txt	Kiwi Ears Melody	Kiwi Ears Melody	in-ear	711
 https://cqtek.squig.link/data/Kiwi%20Ears%20Quartet%2000%20L.txt	Kiwi Ears Quartet 00	Kiwi Ears Quartet (off-off)	in-ear	711
@@ -202,6 +280,10 @@ https://cqtek.squig.link/data/Kiwi%20Ears%20Quartet%2010%20L.txt	Kiwi Ears Quart
 https://cqtek.squig.link/data/Kiwi%20Ears%20Quartet%2010%20R.txt	Kiwi Ears Quartet 10	Kiwi Ears Quartet (on-off)	in-ear	711
 https://cqtek.squig.link/data/Kiwi%20Ears%20Quartet%2011%20L.txt	Kiwi Ears Quartet 11	Kiwi Ears Quartet (on-on)	in-ear	711
 https://cqtek.squig.link/data/Kiwi%20Ears%20Quartet%2011%20R.txt	Kiwi Ears Quartet 11	Kiwi Ears Quartet (on-on)	in-ear	711
+https://cqtek.squig.link/data/Kiwi%20Ears%20Quintet%20L.txt	Kiwi Ears Quintet	Kiwi Ears Quintet	in-ear	711
+https://cqtek.squig.link/data/Kiwi%20Ears%20Quintet%20R.txt	Kiwi Ears Quintet	Kiwi Ears Quintet	in-ear	711
+https://cqtek.squig.link/data/Kiwi%20Ears%20Singolo%20L.txt	Kiwi Ears Singolo	Kiwi Ears x Crinacle Singolo	in-ear	711
+https://cqtek.squig.link/data/Kiwi%20Ears%20Singolo%20R.txt	Kiwi Ears Singolo	Kiwi Ears x Crinacle Singolo	in-ear	711
 https://cqtek.squig.link/data/LZ%20A2%20PRO%20L.txt	LZ A2 PRO	LZ Hi-Fi Audio A2 Pro	in-ear	711
 https://cqtek.squig.link/data/LZ%20A2%20PRO%20R.txt	LZ A2 PRO	LZ Hi-Fi Audio A2 Pro	in-ear	711
 https://cqtek.squig.link/data/LZ%20A4%20Pro%20Black-Black%20L.txt	LZ A4 PRO Black-Black (Black-Black)	LZ Hi-Fi Audio A4 Pro (black nozzle, black vent)	in-ear	711
@@ -221,15 +303,21 @@ https://cqtek.squig.link/data/Moondrop%20SSR%20L.txt	Moondrop SSR	Moondrop SSR	i
 https://cqtek.squig.link/data/Moondrop%20SSR%20R.txt	Moondrop SSR	Moondrop SSR	in-ear	711
 https://cqtek.squig.link/data/Moondrop%20Blessing%202%20Dusk%20L.txt	Moondrop Blessing 2: Dusk	Moondrop x Crinacle Blessing2 Dusk	in-ear	711
 https://cqtek.squig.link/data/Moondrop%20Blessing%202%20Dusk%20R.txt	Moondrop Blessing 2: Dusk	Moondrop x Crinacle Blessing2 Dusk	in-ear	711
-https://cqtek.squig.link/data/NF%20AUDIO%20NA1%20L.txt	NF AUDIO NA1	NF Audio NA1	in-ear	711
+https://cqtek.squig.link/data/NF%20AUDIO%20NA1%20L.txt	NF AUDIO NA1	NF ACOUS NA1	in-ear	711
+https://cqtek.squig.link/data/NF%20AUDIO%20NA2+%20L.txt	NF AUDIO NA2+	NF ACOUS NA2+	in-ear	711
+https://cqtek.squig.link/data/NF%20AUDIO%20NA2+%20R.txt	NF AUDIO NA2+	NF ACOUS NA2+	in-ear	711
+https://cqtek.squig.link/data/NF%20AUDIO%20NM2%20L.txt	NF AUDIO NM2	NF ACOUS NM2	in-ear	711
+https://cqtek.squig.link/data/NF%20AUDIO%20NM2%20R.txt	NF AUDIO NM2	NF ACOUS NM2	in-ear	711
+https://cqtek.squig.link/data/NF%20AUDIO%20NM2+%20L.txt	NF AUDIO NM2+	NF ACOUS NM2	in-ear	711
+https://cqtek.squig.link/data/NF%20AUDIO%20NM2+%20R.txt	NF AUDIO NM2+	NF ACOUS NM2	in-ear	711
+https://cqtek.squig.link/data/NFAcous%20NM20%20L.txt	NF ACOUS NM20	NF ACOUS NM20	in-ear	711
+https://cqtek.squig.link/data/NFAcous%20NM20%20R.txt	NF ACOUS NM20	NF ACOUS NM20	in-ear	711
 https://cqtek.squig.link/data/NF%20AUDIO%20NA2%20L.txt	NF AUDIO NA2	NF Audio NA2	in-ear	711
 https://cqtek.squig.link/data/NF%20AUDIO%20NA2%20R.txt	NF AUDIO NA2	NF Audio NA2	in-ear	711
-https://cqtek.squig.link/data/NF%20AUDIO%20NA2+%20L.txt	NF AUDIO NA2+	NF Audio NA2+	in-ear	711
-https://cqtek.squig.link/data/NF%20AUDIO%20NA2+%20R.txt	NF AUDIO NA2+	NF Audio NA2+	in-ear	711
-https://cqtek.squig.link/data/NF%20AUDIO%20NM2%20L.txt	NF AUDIO NM2	NF Audio NM2	in-ear	711
-https://cqtek.squig.link/data/NF%20AUDIO%20NM2%20R.txt	NF AUDIO NM2	NF Audio NM2	in-ear	711
-https://cqtek.squig.link/data/NF%20AUDIO%20NM2+%20L.txt	NF AUDIO NM2+	NF Audio NM2+	in-ear	711
-https://cqtek.squig.link/data/NF%20AUDIO%20NM2+%20R.txt	NF AUDIO NM2+	NF Audio NM2+	in-ear	711
+https://cqtek.squig.link/data/NF%20Audio%20RA15%20Gold%20L.txt	NF AUDIO RA15 Gold (Balanced)	NF Audio RA15 (gold nozzle)	in-ear	711
+https://cqtek.squig.link/data/NF%20Audio%20RA15%20Gold%20R.txt	NF AUDIO RA15 Gold (Balanced)	NF Audio RA15 (gold nozzle)	in-ear	711
+https://cqtek.squig.link/data/NF%20Audio%20RA15%20Silver%20L.txt	NF AUDIO RA15 Silver (High Frequency)	NF Audio RA15 (silver nozzle)	in-ear	711
+https://cqtek.squig.link/data/NF%20Audio%20RA15%20Silver%20R.txt	NF AUDIO RA15 Silver (High Frequency)	NF Audio RA15 (silver nozzle)	in-ear	711
 https://cqtek.squig.link/data/NS%20Audio%20NS3%20L.txt	NS Audio NS3	NS Audio NS3	in-ear	711
 https://cqtek.squig.link/data/NS%20Audio%20NS3%20R.txt	NS Audio NS3	NS Audio NS3	in-ear	711
 https://cqtek.squig.link/data/NS%20Audio%20NS5MKII%20Bass%20L.txt	NS Audio NS5MKII Bass	NS Audio NS5 MKII Extra Bass	in-ear	711
@@ -256,6 +344,18 @@ https://cqtek.squig.link/data/NiceHCK%20Himalaya%20Gold%20L.txt	NiceHCK Himalaya
 https://cqtek.squig.link/data/NiceHCK%20Himalaya%20Gold%20R.txt	NiceHCK Himalaya Gold (Balanced)	NiceHCK Himalaya (gold filter)	in-ear	711
 https://cqtek.squig.link/data/NiceHCK%20Himalaya%20Grey%20L.txt	NiceHCK Himalaya Grey (High Frequency Style)	NiceHCK Himalaya (grey filter)	in-ear	711
 https://cqtek.squig.link/data/NiceHCK%20Himalaya%20Grey%20R.txt	NiceHCK Himalaya Grey (High Frequency Style)	NiceHCK Himalaya (grey filter)	in-ear	711
+https://cqtek.squig.link/data/NiceHCK%20Himalaya%20EA1000%20Black%20L.txt	NiceHCK Himalaya EA1000 Black (Simgot EA1000 Black Filters)	NiceHCK Himalaya EA1000 Black (Simgot EA1000 Black Filters)	ignore	711
+https://cqtek.squig.link/data/NiceHCK%20Himalaya%20EA1000%20Black%20R.txt	NiceHCK Himalaya EA1000 Black (Simgot EA1000 Black Filters)	NiceHCK Himalaya EA1000 Black (Simgot EA1000 Black Filters)	ignore	711
+https://cqtek.squig.link/data/NiceHCK%20Himalaya%20EA1000%20Gold%20L.txt	NiceHCK Himalaya EA1000 Gold (Simgot EA1000 Gold Filters)	NiceHCK Himalaya EA1000 Gold (Simgot EA1000 Gold Filters)	ignore	711
+https://cqtek.squig.link/data/NiceHCK%20Himalaya%20EA1000%20Gold%20R.txt	NiceHCK Himalaya EA1000 Gold (Simgot EA1000 Gold Filters)	NiceHCK Himalaya EA1000 Gold (Simgot EA1000 Gold Filters)	ignore	711
+https://cqtek.squig.link/data/NiceHCK%20Himalaya%20EA1000%20Red%20L.txt	NiceHCK Himalaya EA1000 Red (Simgot EA1000 Red Filters)	NiceHCK Himalaya EA1000 Red (Simgot EA1000 Red Filters)	ignore	711
+https://cqtek.squig.link/data/NiceHCK%20Himalaya%20EA1000%20Red%20R.txt	NiceHCK Himalaya EA1000 Red (Simgot EA1000 Red Filters)	NiceHCK Himalaya EA1000 Red (Simgot EA1000 Red Filters)	ignore	711
+https://cqtek.squig.link/data/NiceHCK%20Himalaya%20EA500LM%20Black%20L.txt	NiceHCK Himalaya EA500LM Black (Simgot EA500LM Black Filters)	NiceHCK Himalaya EA500LM Black (Simgot EA500LM Black Filters)	ignore	711
+https://cqtek.squig.link/data/NiceHCK%20Himalaya%20EA500LM%20Black%20R.txt	NiceHCK Himalaya EA500LM Black (Simgot EA500LM Black Filters)	NiceHCK Himalaya EA500LM Black (Simgot EA500LM Black Filters)	ignore	711
+https://cqtek.squig.link/data/NiceHCK%20Himalaya%20EA500LM%20Gold%20L.txt	NiceHCK Himalaya EA500LM Gold (Simgot EA500LM Gold Filters)	NiceHCK Himalaya EA500LM Gold (Simgot EA500LM Gold Filters)	ignore	711
+https://cqtek.squig.link/data/NiceHCK%20Himalaya%20EA500LM%20Gold%20R.txt	NiceHCK Himalaya EA500LM Gold (Simgot EA500LM Gold Filters)	NiceHCK Himalaya EA500LM Gold (Simgot EA500LM Gold Filters)	ignore	711
+https://cqtek.squig.link/data/NiceHCK%20Himalaya%20EA500LM%20Red%20L.txt	NiceHCK Himalaya EA500LM Red (Simgot EA500LM Red Filters)	NiceHCK Himalaya EA500LM Red (Simgot EA500LM Red Filters)	ignore	711
+https://cqtek.squig.link/data/NiceHCK%20Himalaya%20EA500LM%20Red%20R.txt	NiceHCK Himalaya EA500LM Red (Simgot EA500LM Red Filters)	NiceHCK Himalaya EA500LM Red (Simgot EA500LM Red Filters)	ignore	711
 https://cqtek.squig.link/data/JIALAI%20Carat%20L.txt	JIALAI Carat	NiceHCK JIALAI Carat	in-ear	711
 https://cqtek.squig.link/data/JIALAI%20Carat%20R.txt	JIALAI Carat	NiceHCK JIALAI Carat	in-ear	711
 https://cqtek.squig.link/data/NiceHCK%20Lofty%20L.txt	NiceHCK Lofty	NiceHCK Lofty	in-ear	711
@@ -272,6 +372,8 @@ https://cqtek.squig.link/data/NiceHCK%20NX7%20MK4%20Gold%20L.txt	NiceHCK NX7 MK4
 https://cqtek.squig.link/data/NiceHCK%20NX7%20MK4%20Gold%20R.txt	NiceHCK NX7 MK4 Gold (Balanced)	NiceHCK NX7 MK4 (gold filter)	in-ear	711
 https://cqtek.squig.link/data/NiceHCK%20NX7%20MK4%20Red%20L.txt	NiceHCK NX7 MK4 Red (Mid-High)	NiceHCK NX7 MK4 (red filter)	in-ear	711
 https://cqtek.squig.link/data/NiceHCK%20NX7%20MK4%20Red%20R.txt	NiceHCK NX7 MK4 Red (Mid-High)	NiceHCK NX7 MK4 (red filter)	in-ear	711
+https://cqtek.squig.link/data/NiceHCK%20NX8%20L.txt	NiceHCK NX8	NiceHCK NX8	in-ear	711
+https://cqtek.squig.link/data/NiceHCK%20NX8%20R.txt	NiceHCK NX8	NiceHCK NX8	in-ear	711
 https://cqtek.squig.link/data/NiceHCK%20Topguy%20L.txt	NiceHCK Topguy	NiceHCK Topguy	in-ear	711
 https://cqtek.squig.link/data/NiceHCK%20Topguy%20R.txt	NiceHCK Topguy	NiceHCK Topguy	in-ear	711
 https://cqtek.squig.link/data/NiceHCK%20Traceless%20L.txt	NiceHCK Traceless	NiceHCK Traceless	in-ear	711
@@ -311,12 +413,28 @@ https://cqtek.squig.link/data/Rose%20Ceramics%20R.txt	Rose Ceramics	Rose Ceramic
 https://cqtek.squig.link/data/Rose%20Ceramics%20HiFi%20R.txt	Rose Ceramics HiFi	Rose Ceramics (HiFi)	in-ear	711
 https://cqtek.squig.link/data/Rose%20Ceramics%20Pop%20R.txt	Rose Ceramics Pop	Rose Ceramics (Pop)	in-ear	711
 https://cqtek.squig.link/data/Rose%20Ceramics%20Rock%20R.txt	Rose Ceramics Rock	Rose Ceramics (Rock)	in-ear	711
+https://cqtek.squig.link/data/Rose%20Ceramics%20X%20HiFi%20L.txt	Rose Ceramics X HiFi	Rose Ceramics X (HiFi)	in-ear	711
+https://cqtek.squig.link/data/Rose%20Ceramics%20X%20HiFi%20R.txt	Rose Ceramics X HiFi	Rose Ceramics X (HiFi)	in-ear	711
+https://cqtek.squig.link/data/Rose%20Ceramics%20X%20Pop%20L.txt	Rose Ceramics X Pop	Rose Ceramics X (Pop)	ignore	711
+https://cqtek.squig.link/data/Rose%20Ceramics%20X%20Rock%20L.txt	Rose Ceramics X Rock	Rose Ceramics X (Rock)	ignore	711
+https://cqtek.squig.link/data/Rose%20Ceramics%20X%20Pop%20R.txt	Rose Ceramics X Pop	Rose Ceramics X Pop	ignore	711
+https://cqtek.squig.link/data/Rose%20Ceramics%20X%20Rock%20R.txt	Rose Ceramics X Rock	Rose Ceramics X Rock	ignore	711
+https://cqtek.squig.link/data/Rose%20EARFREE-i5%20HiFi%20L.txt	Rose EARFREE-i5 HiFi	Rose EARFREE-i5 (HiFi)	in-ear	711
+https://cqtek.squig.link/data/Rose%20EARFREE-i5%20HiFi%20R.txt	Rose EARFREE-i5 HiFi	Rose EARFREE-i5 (HiFi)	in-ear	711
+https://cqtek.squig.link/data/Rose%20EARFREE-i5%20Light%20L.txt	Rose EARFREE-i5 Light	Rose EARFREE-i5 Light	ignore	711
+https://cqtek.squig.link/data/Rose%20EARFREE-i5%20Light%20R.txt	Rose EARFREE-i5 Light	Rose EARFREE-i5 Light	ignore	711
+https://cqtek.squig.link/data/Rose%20EARFREE-i5%20Pop%20L.txt	Rose EARFREE-i5 Pop	Rose EARFREE-i5 Pop	ignore	711
+https://cqtek.squig.link/data/Rose%20EARFREE-i5%20Pop%20R.txt	Rose EARFREE-i5 Pop	Rose EARFREE-i5 Pop	ignore	711
+https://cqtek.squig.link/data/Rose%20EARFREE-i5%20Rock%20L.txt	Rose EARFREE-i5 Rock	Rose EARFREE-i5 Rock	ignore	711
+https://cqtek.squig.link/data/Rose%20EARFREE-i5%20Rock%20R.txt	Rose EARFREE-i5 Rock	Rose EARFREE-i5 Rock	ignore	711
 https://cqtek.squig.link/data/Rose%20Mini2%20MKII%202.0%20L.txt	Rose Mini2 MKII 2.0	Rose Mini2 MKII 2.0	in-ear	711
 https://cqtek.squig.link/data/Rose%20Mini2%20MKII%202.0%20R.txt	Rose Mini2 MKII 2.0	Rose Mini2 MKII 2.0	in-ear	711
 https://cqtek.squig.link/data/Rose%20QT9%20MK2%20L.txt	Rose QT9 MK2	Rose QT9 MK2	in-ear	711
 https://cqtek.squig.link/data/Rose%20QT9%20MK2%20R.txt	Rose QT9 MK2	Rose QT9 MK2	in-ear	711
 https://cqtek.squig.link/data/Rose%20QT9%20MK2s%20L.txt	Rose QT9 MK2s	Rose QT9 MK2s	in-ear	711
 https://cqtek.squig.link/data/Rose%20QT9%20MK2s%20R.txt	Rose QT9 MK2s	Rose QT9 MK2s	in-ear	711
+https://cqtek.squig.link/data/Rose%20QT9%20MK3%20L.txt	Rose QT9 MK3	Rose QT9 MK3	in-ear	711
+https://cqtek.squig.link/data/Rose%20QT9%20MK3%20R.txt	Rose QT9 MK3	Rose QT9 MK3	in-ear	711
 https://cqtek.squig.link/data/Rose%20QuietSea%20L.txt	Rose QuietSea	Rose QuietSea	in-ear	711
 https://cqtek.squig.link/data/Rose%20QuietSea%20R.txt	Rose QuietSea	Rose QuietSea	in-ear	711
 https://cqtek.squig.link/data/Rose%20Star%20City%205%20Pro%20L.txt	Rose Star City 5 Pro	Rose Star City 5 Pro	in-ear	711
@@ -336,8 +454,14 @@ https://cqtek.squig.link/data/LetShuoer%20D13%20Silver%20L.txt	LetShuoer D13 Sil
 https://cqtek.squig.link/data/LetShuoer%20D13%20Silver%20R.txt	LetShuoer D13 Silver Filter (Silver)	Shuoer D13 (silver nozzle)	in-ear	711
 https://cqtek.squig.link/data/LetShuoer%20DZ4%20L.txt	LetShuoer DZ4	Shuoer DZ4	in-ear	711
 https://cqtek.squig.link/data/LetShuoer%20DZ4%20R.txt	LetShuoer DZ4	Shuoer DZ4	in-ear	711
+https://cqtek.squig.link/data/LetShuoer%20Mystic%208%20L.txt	LetShuoer Mystic 8	Shuoer Mystic 8	in-ear	711
+https://cqtek.squig.link/data/LetShuoer%20Mystic%208%20R.txt	LetShuoer Mystic 8	Shuoer Mystic 8	in-ear	711
+https://cqtek.squig.link/data/LetShuoer%20S08%20L.txt	LetShuoer S08	Shuoer S08	in-ear	711
+https://cqtek.squig.link/data/LetShuoer%20S08%20R.txt	LetShuoer S08	Shuoer S08	in-ear	711
 https://cqtek.squig.link/data/LetShuoer%20S12%20L.txt	LetShuoer S12	Shuoer S12	in-ear	711
 https://cqtek.squig.link/data/LetShuoer%20S12%20R.txt	LetShuoer S12	Shuoer S12	in-ear	711
+https://cqtek.squig.link/data/LetShuoer%20S12%202024%20L.txt	LetShuoer S12 2024	Shuoer S12 2024	in-ear	711
+https://cqtek.squig.link/data/LetShuoer%20S12%202024%20R.txt	LetShuoer S12 2024	Shuoer S12 2024	in-ear	711
 https://cqtek.squig.link/data/LetShuoer%20S12%20Pro%20L.txt	LetShuoer S12 Pro	Shuoer S12 Pro	in-ear	711
 https://cqtek.squig.link/data/LetShuoer%20S12%20Pro%20R.txt	LetShuoer S12 Pro	Shuoer S12 Pro	in-ear	711
 https://cqtek.squig.link/data/LetShuoer%20S15%20L.txt	LetShuoer S15	Shuoer S15	in-ear	711
@@ -352,12 +476,36 @@ https://cqtek.squig.link/data/Simgot%20EA500%20Black%20L.txt	Simgot EA500 Black 
 https://cqtek.squig.link/data/Simgot%20EA500%20Black%20R.txt	Simgot EA500 Black (Black)	Simgot Audio EA500 (black nozzle)	in-ear	711
 https://cqtek.squig.link/data/Simgot%20EA500%20Red%20L.txt	Simgot EA500 Red (Red)	Simgot Audio EA500 (red nozzle)	in-ear	711
 https://cqtek.squig.link/data/Simgot%20EA500%20Red%20R.txt	Simgot EA500 Red (Red)	Simgot Audio EA500 (red nozzle)	in-ear	711
+https://cqtek.squig.link/data/Simgot%20EA500%20LM%20Black%20L.txt	Simgot EA500 LM Black (Black)	Simgot Audio EA500LM (black nozzle)	in-ear	711
+https://cqtek.squig.link/data/Simgot%20EA500%20LM%20Black%20R.txt	Simgot EA500 LM Black (Black)	Simgot Audio EA500LM (black nozzle)	in-ear	711
+https://cqtek.squig.link/data/Simgot%20EA500%20LM%20Gold%20L.txt	Simgot EA500 LM Gold (Gold)	Simgot Audio EA500LM (gold nozzle)	in-ear	711
+https://cqtek.squig.link/data/Simgot%20EA500%20LM%20Gold%20R.txt	Simgot EA500 LM Gold (Gold)	Simgot Audio EA500LM (gold nozzle)	in-ear	711
+https://cqtek.squig.link/data/Simgot%20EA500%20LM%20Red%20L.txt	Simgot EA500 LM Red (Red)	Simgot Audio EA500LM (red nozzle)	in-ear	711
+https://cqtek.squig.link/data/Simgot%20EA500%20LM%20Red%20R.txt	Simgot EA500 LM Red (Red)	Simgot Audio EA500LM (red nozzle)	in-ear	711
 https://cqtek.squig.link/data/Simgot%20EM6L%20L.txt	Simgot EM6L	Simgot Audio EM6L	in-ear	711
 https://cqtek.squig.link/data/Simgot%20EM6L%20R.txt	Simgot EM6L	Simgot Audio EM6L	in-ear	711
+https://cqtek.squig.link/data/Simgot%20ET142%20Steel%20Black%20L.txt	Simgot ET142 Stainless Steel (Black)	Simgot Audio ET142 (black circle nozzle)	in-ear	711
+https://cqtek.squig.link/data/Simgot%20ET142%20Steel%20Black%20R.txt	Simgot ET142 Stainless Steel (Black)	Simgot Audio ET142 (black circle nozzle)	in-ear	711
+https://cqtek.squig.link/data/Simgot%20ET142%20Blazed%20L.txt	Simgot ET142 Blazed Titanium (Transparent)	Simgot Audio ET142 (blazed titanium transparent nozzle)	in-ear	711
+https://cqtek.squig.link/data/Simgot%20ET142%20Blazed%20R.txt	Simgot ET142 Blazed Titanium (Transparent)	Simgot Audio ET142 (blazed titanium transparent nozzle)	in-ear	711
+https://cqtek.squig.link/data/Simgot%20ET142%20Steel%20Red%20L.txt	Simgot ET142 Stainless Steel (Red)	Simgot Audio ET142 (red circle nozzle)	in-ear	711
+https://cqtek.squig.link/data/Simgot%20ET142%20Steel%20Red%20R.txt	Simgot ET142 Stainless Steel (Red)	Simgot Audio ET142 (red circle nozzle)	in-ear	711
+https://cqtek.squig.link/data/Simgot%20ET142%20Gold%20L.txt	Simgot ET142 Gold-Plated Copper (Yellow)	Simgot Audio ET142 (yellow ring nozzle)	in-ear	711
+https://cqtek.squig.link/data/Simgot%20ET142%20Gold%20R.txt	Simgot ET142 Gold-Plated Copper (Yellow)	Simgot Audio ET142 (yellow ring nozzle)	in-ear	711
 https://cqtek.squig.link/data/Simgot%20EW100P%20L.txt	Simgot EW100P	Simgot Audio EW100P	in-ear	711
 https://cqtek.squig.link/data/Simgot%20EW100P%20R.txt	Simgot EW100P	Simgot Audio EW100P	in-ear	711
 https://cqtek.squig.link/data/Simgot%20EW200%20L.txt	Simgot EW200	Simgot Audio EW200	in-ear	711
 https://cqtek.squig.link/data/Simgot%20EW200%20R.txt	Simgot EW200	Simgot Audio EW200	in-ear	711
+https://cqtek.squig.link/data/SIMGOT%20EW300%20Gold%20L.txt	Simgot EW300 Gold (Gold)	Simgot Audio EW300 (gold)	in-ear	711
+https://cqtek.squig.link/data/SIMGOT%20EW300%20Gold%20R.txt	Simgot EW300 Gold (Gold)	Simgot Audio EW300 (gold)	in-ear	711
+https://cqtek.squig.link/data/SIMGOT%20EW300%20Silver%20L.txt	Simgot EW300 Silver (Silver)	Simgot Audio EW300 (silver)	in-ear	711
+https://cqtek.squig.link/data/SIMGOT%20EW300%20Silver%20R.txt	Simgot EW300 Silver (Silver)	Simgot Audio EW300 (silver)	in-ear	711
+https://cqtek.squig.link/data/Simgot%20SuperMix%204%20L.txt	Simgot SuperMix 4	Simgot Audio SuperMix 4	in-ear	711
+https://cqtek.squig.link/data/Simgot%20SuperMix%204%20R.txt	Simgot SuperMix 4	Simgot Audio SuperMix 4	in-ear	711
+https://cqtek.squig.link/data/Simgot%20ET142%20Blazed%20Foam%20L.txt	Simgot ET142 Blazed Titanium Foam (Transparent Foam)	Simgot ET142 Blazed Titanium Foam (Transparent Foam)	ignore	711
+https://cqtek.squig.link/data/Simgot%20ET142%20Blazed%20Foam%20R.txt	Simgot ET142 Blazed Titanium Foam (Transparent Foam)	Simgot ET142 Blazed Titanium Foam (Transparent Foam)	ignore	711
+https://cqtek.squig.link/data/Simgot%20ET142%20Gold%20Foam%20L.txt	Simgot ET142 Gold-Plated Copper Foam (Yellow Foam)	Simgot ET142 Gold-Plated Copper Foam (Yellow Foam)	ignore	711
+https://cqtek.squig.link/data/Simgot%20ET142%20Gold%20Foam%20R.txt	Simgot ET142 Gold-Plated Copper Foam (Yellow Foam)	Simgot ET142 Gold-Plated Copper Foam (Yellow Foam)	ignore	711
 https://cqtek.squig.link/data/SIVGA%20Nightingale%20L.txt	SIVGA Nightingale	Sivga Nightingale	in-ear	711
 https://cqtek.squig.link/data/SIVGA%20Nightingale%20R.txt	SIVGA Nightingale	Sivga Nightingale	in-ear	711
 https://cqtek.squig.link/data/Smabat%20M0%20L.txt	Smabat M0	Smabat M0	in-ear	711
@@ -382,6 +530,8 @@ https://cqtek.squig.link/data/SoundMagic%20T60BT%20L.txt	SoundMagic T60BT	SoundM
 https://cqtek.squig.link/data/SoundMagic%20T60BT%20R.txt	SoundMagic T60BT	SoundMAGIC T60BT	in-ear	711
 https://cqtek.squig.link/data/Symphonium%20Audio%20Helios_r%20L.txt	Symphonium Audio Helios	Symphonium Audio Helios	in-ear	711
 https://cqtek.squig.link/data/Symphonium%20Audio%20Helios_r%20R.txt	Symphonium Audio Helios	Symphonium Audio Helios	in-ear	711
+https://cqtek.squig.link/data/TFZ%20Athena%20L.txt	TFZ Athena	TFZ Athena	in-ear	711
+https://cqtek.squig.link/data/TFZ%20Athena%20R.txt	TFZ Athena	TFZ Athena	in-ear	711
 https://cqtek.squig.link/data/SuperTFZ%20Force%20King%20L.txt	SuperTFZ Force King	TFZ Force King	in-ear	711
 https://cqtek.squig.link/data/SuperTFZ%20Force%20King%20R.txt	SuperTFZ Force King	TFZ Force King	in-ear	711
 https://cqtek.squig.link/data/SuperTFZ%20Force1%20L.txt	SuperTFZ Force1	TFZ Force1	in-ear	711
@@ -455,6 +605,8 @@ https://cqtek.squig.link/data/Tripowin%20x%20HBB%20Kailua%20L.txt	Tripowin x HBB
 https://cqtek.squig.link/data/Tripowin%20x%20HBB%20Kailua%20R.txt	Tripowin x HBB Kailua	Tripowin Kailua	in-ear	711
 https://cqtek.squig.link/data/Tripowin%20Piccolo%20L.txt	Tripowin Piccolo	Tripowin Piccolo	in-ear	711
 https://cqtek.squig.link/data/Tripowin%20Piccolo%20R.txt	Tripowin Piccolo	Tripowin Piccolo	in-ear	711
+https://cqtek.squig.link/data/Tripowin%20x%200diBi%20Vivace%20L.txt	Tripowin x 0diBi Vivace	Tripowin x 0diBi Vivace	in-ear	711
+https://cqtek.squig.link/data/Tripowin%20x%200diBi%20Vivace%20R.txt	Tripowin x 0diBi Vivace	Tripowin x 0diBi Vivace	in-ear	711
 https://cqtek.squig.link/data/Tronsmart%20Apollo%20Bold%20CLASSIC%20R.txt	Tronsmart Apollo Bold CLASSIC	Tronsmart Apollo Bold (classic)	in-ear	711
 https://cqtek.squig.link/data/Tronsmart%20Apollo%20Bold%20JAZZ%20R.txt	Tronsmart Apollo Bold JAZZ	Tronsmart Apollo Bold (jazz)	in-ear	711
 https://cqtek.squig.link/data/Tronsmart%20Apollo%20Bold%20L.txt	Tronsmart Apollo Bold NORMAL	Tronsmart Apollo Bold (normal)	in-ear	711
@@ -465,6 +617,14 @@ https://cqtek.squig.link/data/Tronsmart%20Onyx%20Prime%20L.txt	Tronsmart Onyx Pr
 https://cqtek.squig.link/data/Tronsmart%20Onyx%20Prime%20R.txt	Tronsmart Onyx Prime	Tronsmart Onyx Prime	in-ear	711
 https://cqtek.squig.link/data/Yanyin%20Aladdin%20L.txt	Yanyin Aladdin	Yanyin Aladdin	in-ear	711
 https://cqtek.squig.link/data/Yanyin%20Aladdin%20R.txt	Yanyin Aladdin	Yanyin Aladdin	in-ear	711
+https://cqtek.squig.link/data/Yanyin%20Canon%20Pro%2000%20L.txt	Yanyin Canon Pro 00 (00)	Yanyin Canon Pro (off-off)	in-ear	711
+https://cqtek.squig.link/data/Yanyin%20Canon%20Pro%2000%20R.txt	Yanyin Canon Pro 00 (00)	Yanyin Canon Pro (off-off)	in-ear	711
+https://cqtek.squig.link/data/Yanyin%20Canon%20Pro%2001%20L.txt	Yanyin Canon Pro 01 (01)	Yanyin Canon Pro (off-on)	in-ear	711
+https://cqtek.squig.link/data/Yanyin%20Canon%20Pro%2001%20R.txt	Yanyin Canon Pro 01 (01)	Yanyin Canon Pro (off-on)	in-ear	711
+https://cqtek.squig.link/data/Yanyin%20Canon%20Pro%2010%20L.txt	Yanyin Canon Pro 10 (10)	Yanyin Canon Pro (on-off)	in-ear	711
+https://cqtek.squig.link/data/Yanyin%20Canon%20Pro%2010%20R.txt	Yanyin Canon Pro 10 (10)	Yanyin Canon Pro (on-off)	in-ear	711
+https://cqtek.squig.link/data/Yanyin%20Canon%20Pro%2011%20L.txt	Yanyin Canon Pro 11 (11)	Yanyin Canon Pro (on-on)	in-ear	711
+https://cqtek.squig.link/data/Yanyin%20Canon%20Pro%2011%20R.txt	Yanyin Canon Pro 11 (11)	Yanyin Canon Pro (on-on)	in-ear	711
 https://cqtek.squig.link/data/ZiiGaat%20Cinno%20L.txt	ZiiGaat Cinno	ZiiGaat Cinno	in-ear	711
 https://cqtek.squig.link/data/ZiiGaat%20Cinno%20R.txt	ZiiGaat Cinno	ZiiGaat Cinno	in-ear	711
 https://cqtek.squig.link/data/ZiiGaat%20Cinno%20First%20Batch%20L.txt	ZiiGaat Cinno First Batch	ZiiGaat Cinno First Batch	ignore	711

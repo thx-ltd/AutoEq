@@ -145,7 +145,6 @@
 - [Moondrop Chu 2](./in-ear/Moondrop%20Chu%202)
 - [MYER-AUDIO CKLVX D41](./in-ear/MYER-AUDIO%20CKLVX%20D41)
 - [MYER-AUDIO SLIIVO SL41](./in-ear/MYER-AUDIO%20SLIIVO%20SL41)
-- [NF Audio NF2u](./in-ear/NF%20Audio%20NF2u)
 - [NiceHCK DB2](./in-ear/NiceHCK%20DB2)
 - [NiceHCK F1 Pro](./in-ear/NiceHCK%20F1%20Pro)
 - [Oriveti OD100](./in-ear/Oriveti%20OD100)

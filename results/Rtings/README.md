@@ -1,750 +1,797 @@
 # Rtings Results
 
-- [1MORE Piston Classic](./in-ear/1MORE%20Piston%20Classic)
-- [1MORE Piston Fit](./in-ear/1MORE%20Piston%20Fit)
-- [1MORE Quad Driver](./in-ear/1MORE%20Quad%20Driver)
-- [1MORE Triple Driver](./in-ear/1MORE%20Triple%20Driver)
-- [7Hz Timeless](./in-ear/7Hz%20Timeless)
-- [AfterShokz Aeropex](./earbud/AfterShokz%20Aeropex)
-- [AfterShokz Trekz Air](./earbud/AfterShokz%20Trekz%20Air)
-- [Aiaiai TMA-2 DJ](./over-ear/Aiaiai%20TMA-2%20DJ)
-- [AKG K240 MKII](./over-ear/AKG%20K240%20MKII)
-- [AKG K371](./over-ear/AKG%20K371)
-- [AKG K44](./over-ear/AKG%20K44)
-- [AKG K701](./over-ear/AKG%20K701)
-- [AKG K702](./over-ear/AKG%20K702)
-- [AKG K712 PRO](./over-ear/AKG%20K712%20PRO)
-- [AKG N200](./in-ear/AKG%20N200)
-- [AKG N60 NC Wireless](./over-ear/AKG%20N60%20NC%20Wireless)
-- [AKG N700NC](./over-ear/AKG%20N700NC)
-- [AKG N700NC M2](./over-ear/AKG%20N700NC%20M2)
-- [AKG Q701](./over-ear/AKG%20Q701)
-- [Altec Lansing True Evo](./in-ear/Altec%20Lansing%20True%20Evo)
-- [Amazon Echo Buds](./in-ear/Amazon%20Echo%20Buds)
-- [Amazon Echo Buds Gen 2](./in-ear/Amazon%20Echo%20Buds%20Gen%202)
-- [Amazon Echo Buds Gen 3](./in-ear/Amazon%20Echo%20Buds%20Gen%203)
-- [AmazonBasics Lightweight On Ear](./over-ear/AmazonBasics%20Lightweight%20On%20Ear)
-- [Anker SoundBuds Curve](./in-ear/Anker%20SoundBuds%20Curve)
-- [Anker SoundBuds Curve Upgraded 2019](./in-ear/Anker%20SoundBuds%20Curve%20Upgraded%202019)
-- [Anker SoundBuds Life](./in-ear/Anker%20SoundBuds%20Life)
-- [Anker SoundBuds Sport](./in-ear/Anker%20SoundBuds%20Sport)
-- [Anker Soundcore Liberty 2 Pro](./in-ear/Anker%20Soundcore%20Liberty%202%20Pro)
-- [Anker Soundcore Liberty 3 Pro](./in-ear/Anker%20Soundcore%20Liberty%203%20Pro)
-- [Anker Soundcore Liberty 4](./in-ear/Anker%20Soundcore%20Liberty%204)
-- [Anker Soundcore Liberty 4 NC](./in-ear/Anker%20Soundcore%20Liberty%204%20NC)
-- [Anker Soundcore Liberty Air](./in-ear/Anker%20Soundcore%20Liberty%20Air)
-- [Anker Soundcore Liberty Air 2](./in-ear/Anker%20Soundcore%20Liberty%20Air%202)
-- [Anker Soundcore Liberty Air 2 Pro](./in-ear/Anker%20Soundcore%20Liberty%20Air%202%20Pro)
-- [Anker Soundcore Liberty Lite](./in-ear/Anker%20Soundcore%20Liberty%20Lite)
-- [Anker Soundcore Life 2](./over-ear/Anker%20Soundcore%20Life%202)
-- [Anker Soundcore Life A2 NC](./in-ear/Anker%20Soundcore%20Life%20A2%20NC)
-- [Anker Soundcore Life Dot 2](./in-ear/Anker%20Soundcore%20Life%20Dot%202)
-- [Anker Soundcore Life P2](./in-ear/Anker%20Soundcore%20Life%20P2)
-- [Anker Soundcore Life P3](./in-ear/Anker%20Soundcore%20Life%20P3)
-- [Anker Soundcore Life Q20](./over-ear/Anker%20Soundcore%20Life%20Q20)
-- [Anker Soundcore Life Q30](./over-ear/Anker%20Soundcore%20Life%20Q30)
-- [Anker Soundcore Life Q35](./over-ear/Anker%20Soundcore%20Life%20Q35)
-- [Anker Soundcore P20i (P25i)](./in-ear/Anker%20Soundcore%20P20i%20(P25i))
-- [Anker Soundcore Space A40](./in-ear/Anker%20Soundcore%20Space%20A40)
-- [Anker Soundcore Space NC](./over-ear/Anker%20Soundcore%20Space%20NC)
-- [Anker Soundcore Space One](./over-ear/Anker%20Soundcore%20Space%20One)
-- [Anker Soundcore Space Q45](./over-ear/Anker%20Soundcore%20Space%20Q45)
-- [Anker Soundcore Spirit X](./in-ear/Anker%20Soundcore%20Spirit%20X)
-- [Anker Zolo Liberty+](./in-ear/Anker%20Zolo%20Liberty+)
-- [Apple AirPods (1st generation)](./earbud/Apple%20AirPods%20(1st%20generation))
-- [Apple AirPods (2nd generation)](./earbud/Apple%20AirPods%20(2nd%20generation))
-- [Apple AirPods (3rd generation)](./earbud/Apple%20AirPods%20(3rd%20generation))
-- [Apple AirPods Max](./over-ear/Apple%20AirPods%20Max)
-- [Apple AirPods Pro](./in-ear/Apple%20AirPods%20Pro)
-- [Apple AirPods Pro (2nd generation)](./in-ear/Apple%20AirPods%20Pro%20(2nd%20generation))
-- [Apple EarPods](./earbud/Apple%20EarPods)
-- [ASTRO Gaming A10](./over-ear/ASTRO%20Gaming%20A10)
-- [ASTRO Gaming A10 (Gen 2)](./over-ear/ASTRO%20Gaming%20A10%20(Gen%202))
-- [ASTRO Gaming A20](./over-ear/ASTRO%20Gaming%20A20)
-- [ASTRO Gaming A20 (Gen 2)](./over-ear/ASTRO%20Gaming%20A20%20(Gen%202))
-- [ASTRO Gaming A30](./over-ear/ASTRO%20Gaming%20A30)
-- [ASTRO Gaming A50 (Gen 3 2017)](./over-ear/ASTRO%20Gaming%20A50%20(Gen%203%202017))
-- [ASTRO Gaming A50 (Gen 4 2019)](./over-ear/ASTRO%20Gaming%20A50%20(Gen%204%202019))
-- [ASTRO Gaming A50 X](./over-ear/ASTRO%20Gaming%20A50%20X)
-- [Audeze LCD-1](./over-ear/Audeze%20LCD-1)
-- [Audeze LCD-2 Classic](./over-ear/Audeze%20LCD-2%20Classic)
-- [Audeze Maxwell](./over-ear/Audeze%20Maxwell)
-- [Audeze MM-100](./over-ear/Audeze%20MM-100)
-- [Audeze Mobius](./over-ear/Audeze%20Mobius)
-- [Audeze Penrose](./over-ear/Audeze%20Penrose)
-- [Audio-Technica ATH-AD700X (2013)](./over-ear/Audio-Technica%20ATH-AD700X%20(2013))
-- [Audio-Technica ATH-ANC23](./in-ear/Audio-Technica%20ATH-ANC23)
-- [Audio-Technica ATH-ANC33iS](./in-ear/Audio-Technica%20ATH-ANC33iS)
-- [Audio-Technica ATH-ANC70](./over-ear/Audio-Technica%20ATH-ANC70)
-- [Audio-Technica ATH-ANC7B](./over-ear/Audio-Technica%20ATH-ANC7B)
-- [Audio-Technica ATH-ANC9](./over-ear/Audio-Technica%20ATH-ANC9)
-- [Audio-Technica ATH-DSR9BT](./over-ear/Audio-Technica%20ATH-DSR9BT)
-- [Audio-Technica ATH-M20x](./over-ear/Audio-Technica%20ATH-M20x)
-- [Audio-Technica ATH-M30x](./over-ear/Audio-Technica%20ATH-M30x)
-- [Audio-Technica ATH-M40x](./over-ear/Audio-Technica%20ATH-M40x)
-- [Audio-Technica ATH-M50x](./over-ear/Audio-Technica%20ATH-M50x)
-- [Audio-Technica ATH-M50xBT](./over-ear/Audio-Technica%20ATH-M50xBT)
-- [Audio-Technica ATH-M50xBT2](./over-ear/Audio-Technica%20ATH-M50xBT2)
-- [Audio-Technica ATH-M60x](./over-ear/Audio-Technica%20ATH-M60x)
-- [Audio-Technica ATH-M70x](./over-ear/Audio-Technica%20ATH-M70x)
-- [Audio-Technica ATH-MSR7NC](./over-ear/Audio-Technica%20ATH-MSR7NC)
-- [Audio-Technica ATH-R70x](./over-ear/Audio-Technica%20ATH-R70x)
-- [AUKEY Latitude](./in-ear/AUKEY%20Latitude)
-- [Avantree HT5009](./over-ear/Avantree%20HT5009)
-- [Bang & Olufsen Beoplay E8](./in-ear/Bang%20&%20Olufsen%20Beoplay%20E8)
-- [Bang & Olufsen Beoplay E8 2.0](./in-ear/Bang%20&%20Olufsen%20Beoplay%20E8%202.0)
-- [Bang & Olufsen Beoplay Earset 3i](./earbud/Bang%20&%20Olufsen%20Beoplay%20Earset%203i)
-- [Bang & Olufsen Beoplay Earset Wireless](./earbud/Bang%20&%20Olufsen%20Beoplay%20Earset%20Wireless)
-- [Bang & Olufsen Beoplay H6 (2nd Gen)](./over-ear/Bang%20&%20Olufsen%20Beoplay%20H6%20(2nd%20Gen))
-- [Bang & Olufsen Beoplay H9 (Gen 1)](./over-ear/Bang%20&%20Olufsen%20Beoplay%20H9%20(Gen%201))
-- [Bang & Olufsen Beoplay H95](./over-ear/Bang%20&%20Olufsen%20Beoplay%20H95)
-- [Bang & Olufsen Beoplay H9i](./over-ear/Bang%20&%20Olufsen%20Beoplay%20H9i)
-- [Bang & Olufsen Beoplay Portal](./over-ear/Bang%20&%20Olufsen%20Beoplay%20Portal)
-- [Bang & Olufsen E8 3.0](./in-ear/Bang%20&%20Olufsen%20E8%203.0)
-- [Beats Beats Powerbeats 4](./in-ear/Beats%20Beats%20Powerbeats%204)
-- [Beats EP On-Ear](./over-ear/Beats%20EP%20On-Ear)
-- [Beats Fit Pro](./in-ear/Beats%20Fit%20Pro)
-- [Beats Flex](./in-ear/Beats%20Flex)
-- [Beats Powerbeats Pro](./in-ear/Beats%20Powerbeats%20Pro)
-- [Beats Powerbeats3 Wireless](./in-ear/Beats%20Powerbeats3%20Wireless)
-- [Beats Solo Pro](./over-ear/Beats%20Solo%20Pro)
-- [Beats Solo3 (wireless, 2019)](./over-ear/Beats%20Solo3%20(wireless,%202019))
-- [Beats Solo3 Wireless (2018)](./over-ear/Beats%20Solo3%20Wireless%20(2018))
-- [Beats Studio Buds](./in-ear/Beats%20Studio%20Buds)
-- [Beats Studio Buds +](./in-ear/Beats%20Studio%20Buds%20+)
-- [Beats Studio Pro](./over-ear/Beats%20Studio%20Pro)
-- [Beats Studio Wireless](./over-ear/Beats%20Studio%20Wireless)
-- [Beats Studio3 Wireless](./over-ear/Beats%20Studio3%20Wireless)
-- [Beats urBeats](./in-ear/Beats%20urBeats)
-- [Beats urBeats3](./in-ear/Beats%20urBeats3)
-- [Beats X](./in-ear/Beats%20X)
-- [Betron YSM1000](./in-ear/Betron%20YSM1000)
-- [Beyerdynamic Amiron Wireless](./over-ear/Beyerdynamic%20Amiron%20Wireless)
-- [Beyerdynamic DT 1770 (velour earpads)](./over-ear/Beyerdynamic%20DT%201770%20(velour%20earpads))
-- [Beyerdynamic DT 1990 (balanced earpads)](./over-ear/Beyerdynamic%20DT%201990%20(balanced%20earpads))
-- [Beyerdynamic DT 700 Pro X](./over-ear/Beyerdynamic%20DT%20700%20Pro%20X)
-- [Beyerdynamic DT 770 Pro](./over-ear/Beyerdynamic%20DT%20770%20Pro)
-- [Beyerdynamic DT 880](./over-ear/Beyerdynamic%20DT%20880)
-- [Beyerdynamic DT 900 Pro X](./over-ear/Beyerdynamic%20DT%20900%20Pro%20X)
-- [Beyerdynamic DT 990 Pro](./over-ear/Beyerdynamic%20DT%20990%20Pro)
-- [Beyerdynamic MMX 300 (2nd generation)](./over-ear/Beyerdynamic%20MMX%20300%20(2nd%20generation))
-- [Beyerdynamic T1 (2nd Gen)](./over-ear/Beyerdynamic%20T1%20(2nd%20Gen))
-- [BGVP DM6](./in-ear/BGVP%20DM6)
-- [Bluedio T2S](./over-ear/Bluedio%20T2S)
-- [Bluedio T3 Plus](./over-ear/Bluedio%20T3%20Plus)
-- [Bluedio T4 Turbine](./over-ear/Bluedio%20T4%20Turbine)
-- [Bluedio U Plus](./over-ear/Bluedio%20U%20Plus)
-- [BlueParrott B450-XT](./over-ear/BlueParrott%20B450-XT)
-- [Boltune BT-BH024](./in-ear/Boltune%20BT-BH024)
-- [Bose Hearphones](./in-ear/Bose%20Hearphones)
-- [Bose Noise Cancelling Headphones 700](./over-ear/Bose%20Noise%20Cancelling%20Headphones%20700)
-- [Bose QuietComfort](./over-ear/Bose%20QuietComfort)
-- [Bose QuietComfort 20](./in-ear/Bose%20QuietComfort%2020)
-- [Bose QuietComfort 25](./over-ear/Bose%20QuietComfort%2025)
-- [Bose QuietComfort 35](./over-ear/Bose%20QuietComfort%2035)
-- [Bose QuietComfort 35 II](./over-ear/Bose%20QuietComfort%2035%20II)
-- [Bose QuietComfort 35 II Gaming Headset​](./over-ear/Bose%20QuietComfort%2035%20II%20Gaming%20Headset%E2%80%8B)
-- [Bose QuietComfort 45](./over-ear/Bose%20QuietComfort%2045)
-- [Bose QuietComfort Earbuds](./in-ear/Bose%20QuietComfort%20Earbuds)
-- [Bose QuietComfort Earbuds II](./in-ear/Bose%20QuietComfort%20Earbuds%20II)
-- [Bose QuietComfort Ultra Earbuds](./in-ear/Bose%20QuietComfort%20Ultra%20Earbuds)
-- [Bose QuietComfort Ultra Headphones](./over-ear/Bose%20QuietComfort%20Ultra%20Headphones)
-- [Bose QuietControl 30](./over-ear/Bose%20QuietControl%2030)
-- [Bose SoundLink Around-Ear II](./over-ear/Bose%20SoundLink%20Around-Ear%20II)
-- [Bose SoundLink On-Ear](./over-ear/Bose%20SoundLink%20On-Ear)
-- [Bose SoundSport Free](./in-ear/Bose%20SoundSport%20Free)
-- [Bose SoundSport In-Ear](./in-ear/Bose%20SoundSport%20In-Ear)
-- [Bose SoundSport Wireless](./in-ear/Bose%20SoundSport%20Wireless)
-- [Bose SoundTrue Around-Ear II](./over-ear/Bose%20SoundTrue%20Around-Ear%20II)
-- [Bose SoundTrue Ultra In-Ear](./in-ear/Bose%20SoundTrue%20Ultra%20In-Ear)
-- [Bose Sport Earbuds](./in-ear/Bose%20Sport%20Earbuds)
-- [Bose Sport Open Earbuds](./earbud/Bose%20Sport%20Open%20Earbuds)
-- [Bose Ultra Open Earbuds](./earbud/Bose%20Ultra%20Open%20Earbuds)
-- [Bowers & Wilkins P5 Series 2](./over-ear/Bowers%20&%20Wilkins%20P5%20Series%202)
-- [Bowers & Wilkins P5 Wireless](./over-ear/Bowers%20&%20Wilkins%20P5%20Wireless)
-- [Bowers & Wilkins P7](./over-ear/Bowers%20&%20Wilkins%20P7)
-- [Bowers & Wilkins Pi7](./in-ear/Bowers%20&%20Wilkins%20Pi7)
-- [Bowers & Wilkins Pi7 S2](./in-ear/Bowers%20&%20Wilkins%20Pi7%20S2)
-- [Bowers & Wilkins PX](./over-ear/Bowers%20&%20Wilkins%20PX)
-- [Bowers & Wilkins PX5](./over-ear/Bowers%20&%20Wilkins%20PX5)
-- [Bowers & Wilkins PX7](./over-ear/Bowers%20&%20Wilkins%20PX7)
-- [Bowers & Wilkins Px7 S2](./over-ear/Bowers%20&%20Wilkins%20Px7%20S2)
-- [Bowers & Wilkins Px8](./over-ear/Bowers%20&%20Wilkins%20Px8)
-- [Brainwavz HM5](./over-ear/Brainwavz%20HM5)
-- [BÖHM B-66](./over-ear/B%C3%96HM%20B-66)
-- [Cambridge Audio Melomania 1](./in-ear/Cambridge%20Audio%20Melomania%201)
-- [Cambridge Audio Melomania 1+](./in-ear/Cambridge%20Audio%20Melomania%201+)
-- [Cooler Master MH630](./over-ear/Cooler%20Master%20MH630)
-- [Cooler Master MH751](./over-ear/Cooler%20Master%20MH751)
-- [Corsair HS35](./over-ear/Corsair%20HS35)
-- [Corsair HS50](./over-ear/Corsair%20HS50)
-- [Corsair HS60](./over-ear/Corsair%20HS60)
-- [Corsair HS60 HAPTIC](./over-ear/Corsair%20HS60%20HAPTIC)
-- [Corsair HS60 PRO SURROUND](./over-ear/Corsair%20HS60%20PRO%20SURROUND)
-- [Corsair HS70 Bluetooth](./over-ear/Corsair%20HS70%20Bluetooth)
-- [Corsair HS70 Wireless](./over-ear/Corsair%20HS70%20Wireless)
-- [Corsair HS75 XB WIRELESS](./over-ear/Corsair%20HS75%20XB%20WIRELESS)
-- [Corsair HS80 MAX WIRELESS](./over-ear/Corsair%20HS80%20MAX%20WIRELESS)
-- [Corsair HS80 RGB WIRELESS](./over-ear/Corsair%20HS80%20RGB%20WIRELESS)
-- [Corsair VIRTUOSO PRO](./over-ear/Corsair%20VIRTUOSO%20PRO)
-- [Corsair Virtuoso RGB Wireless SE](./over-ear/Corsair%20Virtuoso%20RGB%20Wireless%20SE)
-- [Corsair VIRTUOSO RGB Wireless XT](./over-ear/Corsair%20VIRTUOSO%20RGB%20Wireless%20XT)
-- [Corsair Void Elite](./over-ear/Corsair%20Void%20Elite)
-- [Corsair Void PRO RGB](./over-ear/Corsair%20Void%20PRO%20RGB)
-- [Cougar Immersa](./over-ear/Cougar%20Immersa)
-- [Cowin Apex Elite](./in-ear/Cowin%20Apex%20Elite)
-- [Cowin E7](./over-ear/Cowin%20E7)
-- [Cowin E7 Pro](./over-ear/Cowin%20E7%20Pro)
-- [Cowin E8](./over-ear/Cowin%20E8)
-- [Cowin SE7](./over-ear/Cowin%20SE7)
-- [Creative Aurvana Ace 2](./in-ear/Creative%20Aurvana%20Ace%202)
-- [Creative Aurvana Gold](./over-ear/Creative%20Aurvana%20Gold)
-- [Creative Outlier Air](./in-ear/Creative%20Outlier%20Air)
-- [Creative Outlier Air V2](./in-ear/Creative%20Outlier%20Air%20V2)
-- [Creative Sound Blaster EVO ZxR](./over-ear/Creative%20Sound%20Blaster%20EVO%20ZxR)
-- [Creative Sound BlasterX H5](./over-ear/Creative%20Sound%20BlasterX%20H5)
-- [Creative SXFI Air](./over-ear/Creative%20SXFI%20Air)
-- [Denon AHGC20 Globe Cruiser](./over-ear/Denon%20AHGC20%20Globe%20Cruiser)
-- [Denon PerL Pro](./in-ear/Denon%20PerL%20Pro)
-- [Devialet Gemini II](./in-ear/Devialet%20Gemini%20II)
-- [Diskin DH3](./over-ear/Diskin%20DH3)
-- [Dolby Dimension](./over-ear/Dolby%20Dimension)
-- [Dyson Zone](./over-ear/Dyson%20Zone)
-- [EarFun Air Pro](./in-ear/EarFun%20Air%20Pro)
-- [EarFun Air Pro 2 (2021)](./in-ear/EarFun%20Air%20Pro%202%20(2021))
-- [EarFun Air Pro 3](./in-ear/EarFun%20Air%20Pro%203)
-- [EarFun Free](./in-ear/EarFun%20Free)
-- [ENACFIRE E60](./in-ear/ENACFIRE%20E60)
-- [EPOS GTW 270 Hybrid](./in-ear/EPOS%20GTW%20270%20Hybrid)
-- [EPOS Sennheiser GSP 600](./over-ear/EPOS%20Sennheiser%20GSP%20600)
-- [Etymotic ER4XR](./in-ear/Etymotic%20ER4XR)
-- [Etymotic hf5](./in-ear/Etymotic%20hf5)
-- [FIIL T1X](./in-ear/FIIL%20T1X)
-- [Fitbit Flyer](./in-ear/Fitbit%20Flyer)
-- [Focal Bathys](./over-ear/Focal%20Bathys)
-- [Focal Celestee](./over-ear/Focal%20Celestee)
-- [Focal Clear Mg](./over-ear/Focal%20Clear%20Mg)
-- [Focal Elear](./over-ear/Focal%20Elear)
-- [Focal Elegia](./over-ear/Focal%20Elegia)
-- [Focal Stellia](./over-ear/Focal%20Stellia)
-- [Google Pixel Buds (2017)](./in-ear/Google%20Pixel%20Buds%20(2017))
-- [Google Pixel Buds (2020)](./in-ear/Google%20Pixel%20Buds%20(2020))
-- [Google Pixel Buds A-Series](./in-ear/Google%20Pixel%20Buds%20A-Series)
-- [Google Pixel Buds Pro](./in-ear/Google%20Pixel%20Buds%20Pro)
-- [Google Pixel USB-C Earbuds](./earbud/Google%20Pixel%20USB-C%20Earbuds)
-- [Grado GW100](./over-ear/Grado%20GW100)
-- [Grado SR125e](./over-ear/Grado%20SR125e)
-- [Grado SR225e](./over-ear/Grado%20SR225e)
-- [Grado SR325e](./over-ear/Grado%20SR325e)
-- [Grado SR60e](./over-ear/Grado%20SR60e)
-- [Grado SR80e](./over-ear/Grado%20SR80e)
-- [Grado The Hemp Headphone](./over-ear/Grado%20The%20Hemp%20Headphone)
-- [HIFIMAN Ananda](./over-ear/HIFIMAN%20Ananda)
-- [HIFIMAN Ananda BT](./over-ear/HIFIMAN%20Ananda%20BT)
-- [HIFIMAN Arya](./over-ear/HIFIMAN%20Arya)
-- [HIFIMAN Arya Stealth Magnet Version](./over-ear/HIFIMAN%20Arya%20Stealth%20Magnet%20Version)
-- [HIFIMAN Edition X](./over-ear/HIFIMAN%20Edition%20X)
-- [HIFIMAN Edition XS](./over-ear/HIFIMAN%20Edition%20XS)
-- [HIFIMAN HE400i](./over-ear/HIFIMAN%20HE400i)
-- [HIFIMAN HE400se](./over-ear/HIFIMAN%20HE400se)
-- [HIFIMAN Sundara (post-2020 earpads)](./over-ear/HIFIMAN%20Sundara%20(post-2020%20earpads))
-- [HIFIMAN Sundara (pre-2020 earpads)](./over-ear/HIFIMAN%20Sundara%20(pre-2020%20earpads))
-- [HyperX Cloud Alpha](./over-ear/HyperX%20Cloud%20Alpha)
-- [HyperX Cloud Alpha S](./over-ear/HyperX%20Cloud%20Alpha%20S)
-- [HyperX Cloud Alpha Wireless](./over-ear/HyperX%20Cloud%20Alpha%20Wireless)
-- [HyperX Cloud Core](./over-ear/HyperX%20Cloud%20Core)
-- [HyperX Cloud Flight](./over-ear/HyperX%20Cloud%20Flight)
-- [HyperX Cloud Flight S](./over-ear/HyperX%20Cloud%20Flight%20S)
-- [HyperX Cloud II](./over-ear/HyperX%20Cloud%20II)
-- [HyperX Cloud II Wireless](./over-ear/HyperX%20Cloud%20II%20Wireless)
-- [HyperX Cloud III](./over-ear/HyperX%20Cloud%20III)
-- [HyperX Cloud III Wireless](./over-ear/HyperX%20Cloud%20III%20Wireless)
-- [HyperX Cloud Mix](./over-ear/HyperX%20Cloud%20Mix)
-- [HyperX Cloud Revolver](./over-ear/HyperX%20Cloud%20Revolver)
-- [HyperX Cloud Revolver + 7.1](./over-ear/HyperX%20Cloud%20Revolver%20+%207.1)
-- [HyperX Cloud Stinger](./over-ear/HyperX%20Cloud%20Stinger)
-- [HyperX Cloud Stinger 2](./over-ear/HyperX%20Cloud%20Stinger%202)
-- [HyperX Cloud Stinger S](./over-ear/HyperX%20Cloud%20Stinger%20S)
-- [iClever Boostcare](./over-ear/iClever%20Boostcare)
-- [iClever BTH02](./over-ear/iClever%20BTH02)
-- [Insignia Digital Wireless Headphones](./over-ear/Insignia%20Digital%20Wireless%20Headphones)
-- [Jabra Elite 10](./in-ear/Jabra%20Elite%2010)
-- [Jabra Elite 25e](./in-ear/Jabra%20Elite%2025e)
-- [Jabra Elite 3](./in-ear/Jabra%20Elite%203)
-- [Jabra Elite 4](./in-ear/Jabra%20Elite%204)
-- [Jabra Elite 4 Active](./in-ear/Jabra%20Elite%204%20Active)
-- [Jabra Elite 45e](./in-ear/Jabra%20Elite%2045e)
-- [Jabra Elite 5](./in-ear/Jabra%20Elite%205)
-- [Jabra Elite 65e](./in-ear/Jabra%20Elite%2065e)
-- [Jabra Elite 65t](./in-ear/Jabra%20Elite%2065t)
-- [Jabra Elite 7 Active](./in-ear/Jabra%20Elite%207%20Active)
-- [Jabra Elite 7 Pro](./in-ear/Jabra%20Elite%207%20Pro)
-- [Jabra Elite 75t](./in-ear/Jabra%20Elite%2075t)
-- [Jabra Elite 8 Active](./in-ear/Jabra%20Elite%208%20Active)
-- [Jabra Elite 85h](./over-ear/Jabra%20Elite%2085h)
-- [Jabra Elite 85t](./in-ear/Jabra%20Elite%2085t)
-- [Jabra Elite Active 45e](./in-ear/Jabra%20Elite%20Active%2045e)
-- [Jabra Elite Active 65t](./in-ear/Jabra%20Elite%20Active%2065t)
-- [Jabra Elite Active 75t](./in-ear/Jabra%20Elite%20Active%2075t)
-- [Jabra Elite Sport](./in-ear/Jabra%20Elite%20Sport)
-- [Jabra Evolve 65t](./in-ear/Jabra%20Evolve%2065t)
-- [Jabra Evolve2 65](./over-ear/Jabra%20Evolve2%2065)
-- [Jabra Evolve2 85](./over-ear/Jabra%20Evolve2%2085)
-- [Jabra Steel](./earbud/Jabra%20Steel)
-- [Jabra Talk 45](./earbud/Jabra%20Talk%2045)
-- [Jaybird Freedom 2](./in-ear/Jaybird%20Freedom%202)
-- [Jaybird Freedom F5 (2016)](./in-ear/Jaybird%20Freedom%20F5%20(2016))
-- [Jaybird Run](./in-ear/Jaybird%20Run)
-- [Jaybird Run XT](./in-ear/Jaybird%20Run%20XT)
-- [Jaybird Tarah](./in-ear/Jaybird%20Tarah)
-- [Jaybird Tarah Pro](./in-ear/Jaybird%20Tarah%20Pro)
-- [Jaybird Vista](./in-ear/Jaybird%20Vista)
-- [Jaybird Vista 2](./in-ear/Jaybird%20Vista%202)
-- [Jaybird X2](./in-ear/Jaybird%20X2)
-- [Jaybird X3](./in-ear/Jaybird%20X3)
-- [Jaybird X4](./in-ear/Jaybird%20X4)
-- [JBL CLUB 700BT](./over-ear/JBL%20CLUB%20700BT)
-- [JBL CLUB 950NC](./over-ear/JBL%20CLUB%20950NC)
-- [JBL CLUB ONE](./over-ear/JBL%20CLUB%20ONE)
-- [JBL CLUB PRO Plus TWS](./in-ear/JBL%20CLUB%20PRO%20Plus%20TWS)
-- [JBL E25BT](./in-ear/JBL%20E25BT)
-- [JBL E45BT](./over-ear/JBL%20E45BT)
-- [JBL E55BT](./over-ear/JBL%20E55BT)
-- [JBL E65BTNC](./over-ear/JBL%20E65BTNC)
-- [JBL Endurance Dive](./in-ear/JBL%20Endurance%20Dive)
-- [JBL Endurance Peak](./in-ear/JBL%20Endurance%20Peak)
-- [JBL Endurance Peak 3](./in-ear/JBL%20Endurance%20Peak%203)
-- [JBL Endurance Peak II](./in-ear/JBL%20Endurance%20Peak%20II)
-- [JBL Endurance Sprint](./in-ear/JBL%20Endurance%20Sprint)
-- [JBL Everest 110](./in-ear/JBL%20Everest%20110)
-- [JBL Everest 310](./over-ear/JBL%20Everest%20310)
-- [JBL Everest 710](./over-ear/JBL%20Everest%20710)
-- [JBL Everest Elite 700](./over-ear/JBL%20Everest%20Elite%20700)
-- [JBL Free 2018](./in-ear/JBL%20Free%202018)
-- [JBL Free X](./in-ear/JBL%20Free%20X)
-- [JBL JR300BT](./over-ear/JBL%20JR300BT)
-- [JBL Live 200BT](./in-ear/JBL%20Live%20200BT)
-- [JBL Live 300TWS](./in-ear/JBL%20Live%20300TWS)
-- [JBL Live 400BT](./over-ear/JBL%20Live%20400BT)
-- [JBL Live 460NC](./over-ear/JBL%20Live%20460NC)
-- [JBL Live 500BT](./over-ear/JBL%20Live%20500BT)
-- [JBL Live 650BTNC](./over-ear/JBL%20Live%20650BTNC)
-- [JBL Live 660NC](./over-ear/JBL%20Live%20660NC)
-- [JBL Live Free NC+ TWS](./in-ear/JBL%20Live%20Free%20NC+%20TWS)
-- [JBL Live Pro 2 TWS](./in-ear/JBL%20Live%20Pro%202%20TWS)
-- [JBL Live Pro+ TWS](./in-ear/JBL%20Live%20Pro+%20TWS)
-- [JBL Quantum 100](./over-ear/JBL%20Quantum%20100)
-- [JBL Quantum 400](./over-ear/JBL%20Quantum%20400)
-- [JBL Quantum 800](./over-ear/JBL%20Quantum%20800)
-- [JBL Quantum ONE](./over-ear/JBL%20Quantum%20ONE)
-- [JBL Reflect Flow](./in-ear/JBL%20Reflect%20Flow)
-- [JBL Reflect Mini 2](./in-ear/JBL%20Reflect%20Mini%202)
-- [JBL Synchros E50BT](./over-ear/JBL%20Synchros%20E50BT)
-- [JBL T450BT](./over-ear/JBL%20T450BT)
-- [JBL Tour One](./over-ear/JBL%20Tour%20One)
-- [JBL Tour Pro+ TWS](./in-ear/JBL%20Tour%20Pro+%20TWS)
-- [JBL TUNE 120TWS](./in-ear/JBL%20TUNE%20120TWS)
-- [JBL Tune 125TWS](./in-ear/JBL%20Tune%20125TWS)
-- [JBL Tune 130NC TWS](./in-ear/JBL%20Tune%20130NC%20TWS)
-- [JBL TUNE 220TWS](./in-ear/JBL%20TUNE%20220TWS)
-- [JBL Tune 225TWS](./in-ear/JBL%20Tune%20225TWS)
-- [JBL Tune 230NC TWS](./in-ear/JBL%20Tune%20230NC%20TWS)
-- [JBL Tune 510BT](./over-ear/JBL%20Tune%20510BT)
-- [JBL Tune 660NC](./over-ear/JBL%20Tune%20660NC)
-- [JBL TUNE 750BTNC](./over-ear/JBL%20TUNE%20750BTNC)
-- [JBL Tune 760NC](./over-ear/JBL%20Tune%20760NC)
-- [JBL Tune Buds](./in-ear/JBL%20Tune%20Buds)
-- [JBL Tune Flex](./in-ear/JBL%20Tune%20Flex)
-- [JBL Vibe 100TWS](./in-ear/JBL%20Vibe%20100TWS)
-- [JBL Vibe Beam](./in-ear/JBL%20Vibe%20Beam)
-- [JBL Vibe Buds](./in-ear/JBL%20Vibe%20Buds)
-- [JLab Audio GO Air POP](./in-ear/JLab%20Audio%20GO%20Air%20POP)
-- [JLab Audio JBuds Air](./in-ear/JLab%20Audio%20JBuds%20Air)
-- [JLab Audio JBuds Air ANC](./in-ear/JLab%20Audio%20JBuds%20Air%20ANC)
-- [JLab Audio JBuds Air Executive](./in-ear/JLab%20Audio%20JBuds%20Air%20Executive)
-- [Klipsch T5 II True Wireless ANC](./in-ear/Klipsch%20T5%20II%20True%20Wireless%20ANC)
-- [Klipsch T5 II True Wireless Sport](./in-ear/Klipsch%20T5%20II%20True%20Wireless%20Sport)
-- [Klipsch T5 True Wireless](./in-ear/Klipsch%20T5%20True%20Wireless)
-- [Koss KSC75](./over-ear/Koss%20KSC75)
-- [Koss Porta Pro KTC](./over-ear/Koss%20Porta%20Pro%20KTC)
-- [Koss Porta Pro Wireless](./over-ear/Koss%20Porta%20Pro%20Wireless)
-- [Koss QZPro](./over-ear/Koss%20QZPro)
-- [Koss UR20](./over-ear/Koss%20UR20)
-- [KZ AS10](./in-ear/KZ%20AS10)
-- [KZ ZS10](./in-ear/KZ%20ZS10)
-- [KZ ZSN](./in-ear/KZ%20ZSN)
-- [KZ ZST](./in-ear/KZ%20ZST)
-- [Logitech G Pro Gaming Headset](./over-ear/Logitech%20G%20Pro%20Gaming%20Headset)
-- [Logitech G PRO X 2 LIGHTSPEED](./over-ear/Logitech%20G%20PRO%20X%202%20LIGHTSPEED)
-- [Logitech G Pro X Gaming Headset](./over-ear/Logitech%20G%20Pro%20X%20Gaming%20Headset)
-- [Logitech G PRO X LIGHTSPEED](./over-ear/Logitech%20G%20PRO%20X%20LIGHTSPEED)
-- [Logitech G333](./in-ear/Logitech%20G333)
-- [Logitech G335](./over-ear/Logitech%20G335)
-- [Logitech G430](./over-ear/Logitech%20G430)
-- [Logitech G432](./over-ear/Logitech%20G432)
-- [Logitech G433](./over-ear/Logitech%20G433)
-- [Logitech G435 LIGHTSPEED](./over-ear/Logitech%20G435%20LIGHTSPEED)
-- [Logitech G533](./over-ear/Logitech%20G533)
-- [Logitech G535 LIGHTSPEED](./over-ear/Logitech%20G535%20LIGHTSPEED)
-- [Logitech G635](./over-ear/Logitech%20G635)
-- [Logitech G733 LIGHTSPEED](./over-ear/Logitech%20G733%20LIGHTSPEED)
-- [Logitech G735](./over-ear/Logitech%20G735)
-- [Logitech G930](./over-ear/Logitech%20G930)
-- [Logitech G933](./over-ear/Logitech%20G933)
-- [Logitech G935](./over-ear/Logitech%20G935)
-- [Logitech Zone Wired](./over-ear/Logitech%20Zone%20Wired)
-- [LucidSound LS31](./over-ear/LucidSound%20LS31)
-- [Marshall Major II](./over-ear/Marshall%20Major%20II)
-- [Marshall MID ANC](./over-ear/Marshall%20MID%20ANC)
-- [Massdrop Panda](./over-ear/Massdrop%20Panda)
-- [MEE Audio M6 Pro](./in-ear/MEE%20Audio%20M6%20Pro)
-- [MEE Audio M9B](./in-ear/MEE%20Audio%20M9B)
-- [MEE Audio Sport-Fi M6](./in-ear/MEE%20Audio%20Sport-Fi%20M6)
-- [MEE Audio X6 Plus](./in-ear/MEE%20Audio%20X6%20Plus)
-- [MEE Audio X7](./in-ear/MEE%20Audio%20X7)
-- [Meze Empyrean](./over-ear/Meze%20Empyrean)
-- [Microsoft Surface Earbuds](./earbud/Microsoft%20Surface%20Earbuds)
-- [Microsoft Surface Headphones](./over-ear/Microsoft%20Surface%20Headphones)
-- [Microsoft Surface Headphones 2](./over-ear/Microsoft%20Surface%20Headphones%202)
-- [Mixcder E9](./over-ear/Mixcder%20E9)
-- [Monoprice 110010](./over-ear/Monoprice%20110010)
-- [Monster Clarity 101 AirLinks](./in-ear/Monster%20Clarity%20101%20AirLinks)
-- [Moondrop Aria](./in-ear/Moondrop%20Aria)
-- [Moondrop Blessing 3](./in-ear/Moondrop%20Blessing%203)
-- [Moondrop KATO](./in-ear/Moondrop%20KATO)
-- [Motorola Squads 200](./over-ear/Motorola%20Squads%20200)
-- [Mpow 059](./over-ear/Mpow%20059)
-- [Mpow CH1](./over-ear/Mpow%20CH1)
-- [Mpow CH6](./over-ear/Mpow%20CH6)
-- [Mpow CH9](./over-ear/Mpow%20CH9)
-- [Mpow EM12](./in-ear/Mpow%20EM12)
-- [Mpow Flame Pro](./in-ear/Mpow%20Flame%20Pro)
-- [Mpow H10](./over-ear/Mpow%20H10)
-- [Mpow H5](./over-ear/Mpow%20H5)
-- [Mpow Jaws (4.1)](./in-ear/Mpow%20Jaws%20(4.1))
-- [Mpow M30](./in-ear/Mpow%20M30)
-- [Mpow MDots](./in-ear/Mpow%20MDots)
-- [Mpow Pro Trucker](./over-ear/Mpow%20Pro%20Trucker)
-- [Mpow X3](./in-ear/Mpow%20X3)
-- [Mpow X5](./in-ear/Mpow%20X5)
-- [Mpow X6](./in-ear/Mpow%20X6)
-- [NAD VISO HP50](./over-ear/NAD%20VISO%20HP50)
-- [Nothing ear (1)](./in-ear/Nothing%20ear%20(1))
-- [Nothing ear (2)](./in-ear/Nothing%20ear%20(2))
-- [Nothing ear (stick)](./in-ear/Nothing%20ear%20(stick))
-- [Nura NuraLoop](./in-ear/Nura%20NuraLoop)
-- [Nura Nuraphone](./over-ear/Nura%20Nuraphone)
-- [OnePlus Buds](./in-ear/OnePlus%20Buds)
-- [OnePlus Buds Pro](./in-ear/OnePlus%20Buds%20Pro)
-- [OnePlus Buds Pro 2](./in-ear/OnePlus%20Buds%20Pro%202)
-- [OnePlus Buds Z](./in-ear/OnePlus%20Buds%20Z)
-- [Oppo PM3](./over-ear/Oppo%20PM3)
-- [Panasonic RP-HC101](./over-ear/Panasonic%20RP-HC101)
-- [Panasonic RP-HC800](./over-ear/Panasonic%20RP-HC800)
-- [Panasonic RP-HJE120](./in-ear/Panasonic%20RP-HJE120)
-- [Parrot Zik 2.0](./over-ear/Parrot%20Zik%202.0)
-- [Parrot Zik 3.0](./over-ear/Parrot%20Zik%203.0)
-- [Philips Fidelio NC1](./over-ear/Philips%20Fidelio%20NC1)
-- [Philips Fidelio X2HR](./over-ear/Philips%20Fidelio%20X2HR)
-- [Philips Fidelio X3](./over-ear/Philips%20Fidelio%20X3)
-- [Philips SHP9500](./over-ear/Philips%20SHP9500)
-- [Philips SHP9600](./over-ear/Philips%20SHP9600)
-- [Pioneer DJ HDJ-CUE1BT](./over-ear/Pioneer%20DJ%20HDJ-CUE1BT)
-- [Plantronics BackBeat Fit](./earbud/Plantronics%20BackBeat%20Fit)
-- [Plantronics BackBeat Go 600](./over-ear/Plantronics%20BackBeat%20Go%20600)
-- [Plantronics Backbeat Go 810](./over-ear/Plantronics%20Backbeat%20Go%20810)
-- [Plantronics Backbeat Pro](./over-ear/Plantronics%20Backbeat%20Pro)
-- [Plantronics BackBeat Pro 2](./over-ear/Plantronics%20BackBeat%20Pro%202)
-- [Plantronics RIG 800LX](./over-ear/Plantronics%20RIG%20800LX)
-- [Plantronics Voyager 3200](./earbud/Plantronics%20Voyager%203200)
-- [Plantronics Voyager 5200](./earbud/Plantronics%20Voyager%205200)
-- [Plantronics Voyager Legend](./earbud/Plantronics%20Voyager%20Legend)
-- [Polk Audio Buckle](./over-ear/Polk%20Audio%20Buckle)
-- [Polk Audio UltraFocus 8000](./over-ear/Polk%20Audio%20UltraFocus%208000)
-- [Puro JuniorJams](./over-ear/Puro%20JuniorJams)
-- [Raycon E100](./in-ear/Raycon%20E100)
-- [Raycon E25](./in-ear/Raycon%20E25)
-- [Raycon E50](./in-ear/Raycon%20E50)
-- [Raycon E55](./in-ear/Raycon%20E55)
-- [Raycon The Fitness Earbuds (2021 Edition)](./in-ear/Raycon%20The%20Fitness%20Earbuds%20(2021%20Edition))
-- [Razer Barracuda](./over-ear/Razer%20Barracuda)
-- [Razer Barracuda Pro](./over-ear/Razer%20Barracuda%20Pro)
-- [Razer Barracuda X (2021)](./over-ear/Razer%20Barracuda%20X%20(2021))
-- [Razer BlackShark V2](./over-ear/Razer%20BlackShark%20V2)
-- [Razer BlackShark V2 HyperSpeed](./over-ear/Razer%20BlackShark%20V2%20HyperSpeed)
-- [Razer BlackShark V2 Pro](./over-ear/Razer%20BlackShark%20V2%20Pro)
-- [Razer BlackShark V2 Pro 2023](./over-ear/Razer%20BlackShark%20V2%20Pro%202023)
-- [Razer BlackShark V2 X](./over-ear/Razer%20BlackShark%20V2%20X)
-- [Razer Hammerhead Pro HyperSpeed](./in-ear/Razer%20Hammerhead%20Pro%20HyperSpeed)
-- [Razer Hammerhead True Wireless (2019)](./in-ear/Razer%20Hammerhead%20True%20Wireless%20(2019))
-- [Razer Hammerhead True Wireless (2021)](./in-ear/Razer%20Hammerhead%20True%20Wireless%20(2021))
-- [Razer Hammerhead True Wireless Pro](./in-ear/Razer%20Hammerhead%20True%20Wireless%20Pro)
-- [Razer Hammerhead USB-C ANC](./in-ear/Razer%20Hammerhead%20USB-C%20ANC)
-- [Razer Kaira Pro](./over-ear/Razer%20Kaira%20Pro)
-- [Razer Kaira X](./over-ear/Razer%20Kaira%20X)
-- [Razer Kraken Pro V2](./over-ear/Razer%20Kraken%20Pro%20V2)
-- [Razer Kraken Tournament Edition](./over-ear/Razer%20Kraken%20Tournament%20Edition)
-- [Razer Kraken Ultimate](./over-ear/Razer%20Kraken%20Ultimate)
-- [Razer Kraken USB](./over-ear/Razer%20Kraken%20USB)
-- [Razer Kraken V3](./over-ear/Razer%20Kraken%20V3)
-- [Razer Kraken V3 HyperSense](./over-ear/Razer%20Kraken%20V3%20HyperSense)
-- [Razer Kraken V3 Pro](./over-ear/Razer%20Kraken%20V3%20Pro)
-- [Razer Kraken V3 X](./over-ear/Razer%20Kraken%20V3%20X)
-- [Razer Kraken X](./over-ear/Razer%20Kraken%20X)
-- [Razer Man O'War](./over-ear/Razer%20Man%20O'War)
-- [Razer Moray](./in-ear/Razer%20Moray)
-- [Razer Nari Ultimate](./over-ear/Razer%20Nari%20Ultimate)
-- [Razer Opus 2020](./over-ear/Razer%20Opus%202020)
-- [Razer Opus 2021](./over-ear/Razer%20Opus%202021)
-- [Razer Opus X](./over-ear/Razer%20Opus%20X)
-- [RHA TrueConnect](./in-ear/RHA%20TrueConnect)
-- [ROCCAT Elo 7.1 Air](./over-ear/ROCCAT%20Elo%207.1%20Air)
-- [ROCCAT Syn Pro Air](./over-ear/ROCCAT%20Syn%20Pro%20Air)
-- [RUNMUS RGB K1 Gaming Headset](./over-ear/RUNMUS%20RGB%20K1%20Gaming%20Headset)
-- [RØDE NTH-100M](./over-ear/R%C3%98DE%20NTH-100M)
-- [Sabbat E12](./in-ear/Sabbat%20E12)
-- [Samson SR850](./over-ear/Samson%20SR850)
-- [Samsung AKG EO-IG955 Type-C](./in-ear/Samsung%20AKG%20EO-IG955%20Type-C)
-- [Samsung Galaxy Buds](./in-ear/Samsung%20Galaxy%20Buds)
-- [Samsung Galaxy Buds FE](./in-ear/Samsung%20Galaxy%20Buds%20FE)
-- [Samsung Galaxy Buds Live](./earbud/Samsung%20Galaxy%20Buds%20Live)
-- [Samsung Galaxy Buds Plus](./in-ear/Samsung%20Galaxy%20Buds%20Plus)
-- [Samsung Galaxy Buds Pro](./in-ear/Samsung%20Galaxy%20Buds%20Pro)
-- [Samsung Galaxy Buds2](./in-ear/Samsung%20Galaxy%20Buds2)
-- [Samsung Galaxy Buds2 Pro](./in-ear/Samsung%20Galaxy%20Buds2%20Pro)
-- [Samsung Gear IconX](./over-ear/Samsung%20Gear%20IconX)
-- [Samsung Level On Wireless](./over-ear/Samsung%20Level%20On%20Wireless)
-- [Samsung Level Over Wireless](./over-ear/Samsung%20Level%20Over%20Wireless)
-- [Samsung Level U Pro](./in-ear/Samsung%20Level%20U%20Pro)
-- [Samsung U Flex](./in-ear/Samsung%20U%20Flex)
-- [Sennheiser ACCENTUM](./over-ear/Sennheiser%20ACCENTUM)
-- [Sennheiser AMBEO Smart Headset](./in-ear/Sennheiser%20AMBEO%20Smart%20Headset)
-- [Sennheiser CX 400BT](./over-ear/Sennheiser%20CX%20400BT)
-- [Sennheiser CX Plus True Wireless](./in-ear/Sennheiser%20CX%20Plus%20True%20Wireless)
-- [Sennheiser CX True Wireless](./in-ear/Sennheiser%20CX%20True%20Wireless)
-- [Sennheiser CXC-700](./in-ear/Sennheiser%20CXC-700)
-- [Sennheiser GAME ONE](./over-ear/Sennheiser%20GAME%20ONE)
-- [Sennheiser HD 201](./over-ear/Sennheiser%20HD%20201)
-- [Sennheiser HD 25](./over-ear/Sennheiser%20HD%2025)
-- [Sennheiser HD 280 Pro](./over-ear/Sennheiser%20HD%20280%20Pro)
-- [Sennheiser HD 4.40BT](./over-ear/Sennheiser%20HD%204.40BT)
-- [Sennheiser HD 4.50 BTNC](./over-ear/Sennheiser%20HD%204.50%20BTNC)
-- [Sennheiser HD 450BT](./over-ear/Sennheiser%20HD%20450BT)
-- [Sennheiser HD 490 PRO](./over-ear/Sennheiser%20HD%20490%20PRO)
-- [Sennheiser HD 518](./over-ear/Sennheiser%20HD%20518)
-- [Sennheiser HD 560S](./over-ear/Sennheiser%20HD%20560S)
-- [Sennheiser HD 58X](./over-ear/Sennheiser%20HD%2058X)
-- [Sennheiser HD 598](./over-ear/Sennheiser%20HD%20598)
-- [Sennheiser HD 598 CS](./over-ear/Sennheiser%20HD%20598%20CS)
-- [Sennheiser HD 599](./over-ear/Sennheiser%20HD%20599)
-- [Sennheiser HD 600](./over-ear/Sennheiser%20HD%20600)
-- [Sennheiser HD 650](./over-ear/Sennheiser%20HD%20650)
-- [Sennheiser HD 660 S](./over-ear/Sennheiser%20HD%20660%20S)
-- [Sennheiser HD 660S2](./over-ear/Sennheiser%20HD%20660S2)
-- [Sennheiser HD 6XX](./over-ear/Sennheiser%20HD%206XX)
-- [Sennheiser HD 700](./over-ear/Sennheiser%20HD%20700)
-- [Sennheiser HD 800 S](./over-ear/Sennheiser%20HD%20800%20S)
-- [Sennheiser HD 820](./over-ear/Sennheiser%20HD%20820)
-- [Sennheiser HD 8XX](./over-ear/Sennheiser%20HD%208XX)
-- [Sennheiser HD1 In-Ear](./in-ear/Sennheiser%20HD1%20In-Ear)
-- [Sennheiser HD1 In-Ear Wireless](./in-ear/Sennheiser%20HD1%20In-Ear%20Wireless)
-- [Sennheiser HD1 On-Ear](./over-ear/Sennheiser%20HD1%20On-Ear)
-- [Sennheiser HD1 Over-Ear](./over-ear/Sennheiser%20HD1%20Over-Ear)
-- [Sennheiser HD1 Wireless](./over-ear/Sennheiser%20HD1%20Wireless)
-- [Sennheiser IE 40 Pro](./in-ear/Sennheiser%20IE%2040%20Pro)
-- [Sennheiser Momentum 3 Wireless](./over-ear/Sennheiser%20Momentum%203%20Wireless)
-- [Sennheiser Momentum 4 Wireless](./over-ear/Sennheiser%20Momentum%204%20Wireless)
-- [Sennheiser Momentum True Wireless](./in-ear/Sennheiser%20Momentum%20True%20Wireless)
-- [Sennheiser Momentum True Wireless 2](./in-ear/Sennheiser%20Momentum%20True%20Wireless%202)
-- [Sennheiser Momentum True Wireless 3](./in-ear/Sennheiser%20Momentum%20True%20Wireless%203)
-- [Sennheiser PC38X](./over-ear/Sennheiser%20PC38X)
-- [Sennheiser PXC 250 II](./over-ear/Sennheiser%20PXC%20250%20II)
-- [Sennheiser PXC 550 Wireless](./over-ear/Sennheiser%20PXC%20550%20Wireless)
-- [Sennheiser PXC 550-II Wireless](./over-ear/Sennheiser%20PXC%20550-II%20Wireless)
-- [Sennheiser RS 165](./over-ear/Sennheiser%20RS%20165)
-- [Sennheiser RS 175](./over-ear/Sennheiser%20RS%20175)
-- [Sennheiser RS 185](./over-ear/Sennheiser%20RS%20185)
-- [Sennheiser RS 195](./over-ear/Sennheiser%20RS%20195)
-- [Sennheiser SC 160 USB-C](./over-ear/Sennheiser%20SC%20160%20USB-C)
-- [SENSO ActivBuds S-250](./in-ear/SENSO%20ActivBuds%20S-250)
-- [Shokz OpenFit](./in-ear/Shokz%20OpenFit)
-- [Shokz OpenRun](./earbud/Shokz%20OpenRun)
-- [Shokz OpenRun Pro](./earbud/Shokz%20OpenRun%20Pro)
-- [Shure AONIC 50](./over-ear/Shure%20AONIC%2050)
-- [Shure AONIC 50 Gen 2](./over-ear/Shure%20AONIC%2050%20Gen%202)
-- [Shure SE215](./in-ear/Shure%20SE215)
-- [Shure SE315](./in-ear/Shure%20SE315)
-- [Shure SE425](./in-ear/Shure%20SE425)
-- [Shure SRH240](./over-ear/Shure%20SRH240)
-- [Shure SRH440](./over-ear/Shure%20SRH440)
-- [Skullcandy Crusher](./over-ear/Skullcandy%20Crusher)
-- [Skullcandy Crusher 360](./over-ear/Skullcandy%20Crusher%20360)
-- [Skullcandy Crusher Evo](./over-ear/Skullcandy%20Crusher%20Evo)
-- [Skullcandy Crusher Wireless](./over-ear/Skullcandy%20Crusher%20Wireless)
-- [Skullcandy Dime](./in-ear/Skullcandy%20Dime)
-- [Skullcandy Dime 2](./in-ear/Skullcandy%20Dime%202)
-- [Skullcandy Dime 3](./in-ear/Skullcandy%20Dime%203)
-- [Skullcandy Grind](./over-ear/Skullcandy%20Grind)
-- [Skullcandy Grind Fuel](./in-ear/Skullcandy%20Grind%20Fuel)
-- [Skullcandy Hesh 2](./over-ear/Skullcandy%20Hesh%202)
-- [Skullcandy Hesh 3](./over-ear/Skullcandy%20Hesh%203)
-- [Skullcandy Hesh ANC](./over-ear/Skullcandy%20Hesh%20ANC)
-- [Skullcandy Hesh Evo](./over-ear/Skullcandy%20Hesh%20Evo)
-- [Skullcandy Indy](./in-ear/Skullcandy%20Indy)
-- [Skullcandy Indy ANC](./in-ear/Skullcandy%20Indy%20ANC)
-- [Skullcandy Indy Evo](./in-ear/Skullcandy%20Indy%20Evo)
-- [Skullcandy Indy Fuel](./in-ear/Skullcandy%20Indy%20Fuel)
-- [Skullcandy Jib](./in-ear/Skullcandy%20Jib)
-- [Skullcandy Jib True](./in-ear/Skullcandy%20Jib%20True)
-- [Skullcandy Push](./in-ear/Skullcandy%20Push)
-- [Skullcandy Push Active](./in-ear/Skullcandy%20Push%20Active)
-- [Skullcandy Push Ultra](./in-ear/Skullcandy%20Push%20Ultra)
-- [Skullcandy Riff Wireless 2](./over-ear/Skullcandy%20Riff%20Wireless%202)
-- [Skullcandy Sesh](./in-ear/Skullcandy%20Sesh)
-- [Skullcandy Sesh ANC](./in-ear/Skullcandy%20Sesh%20ANC)
-- [Skullcandy Sesh Evo](./in-ear/Skullcandy%20Sesh%20Evo)
-- [Skullcandy Smokin Buds](./in-ear/Skullcandy%20Smokin%20Buds)
-- [Skullcandy Spoke](./in-ear/Skullcandy%20Spoke)
-- [Skullcandy Venue](./over-ear/Skullcandy%20Venue)
-- [Sony Float Run](./earbud/Sony%20Float%20Run)
-- [Sony h.ear on](./over-ear/Sony%20h.ear%20on)
-- [Sony INZONE Buds](./in-ear/Sony%20INZONE%20Buds)
-- [Sony INZONE H3](./over-ear/Sony%20INZONE%20H3)
-- [Sony INZONE H7](./over-ear/Sony%20INZONE%20H7)
-- [Sony INZONE H9](./over-ear/Sony%20INZONE%20H9)
-- [Sony LinkBuds](./earbud/Sony%20LinkBuds)
-- [Sony LinkBuds S](./in-ear/Sony%20LinkBuds%20S)
-- [Sony MDR-1000X](./over-ear/Sony%20MDR-1000X)
-- [Sony MDR-1A](./over-ear/Sony%20MDR-1A)
-- [Sony MDR-7506](./over-ear/Sony%20MDR-7506)
-- [Sony MDR-7520](./over-ear/Sony%20MDR-7520)
-- [Sony MDR-MV1](./over-ear/Sony%20MDR-MV1)
-- [Sony MDR-XB50AP](./in-ear/Sony%20MDR-XB50AP)
-- [Sony MDR-XB950B1](./over-ear/Sony%20MDR-XB950B1)
-- [Sony MDR-XB950N1](./over-ear/Sony%20MDR-XB950N1)
-- [Sony MDR-ZX110NC](./over-ear/Sony%20MDR-ZX110NC)
-- [Sony MDR-ZX770BN](./over-ear/Sony%20MDR-ZX770BN)
-- [Sony MH755](./in-ear/Sony%20MH755)
-- [Sony PULSE 3D](./over-ear/Sony%20PULSE%203D)
-- [Sony PULSE Explore](./in-ear/Sony%20PULSE%20Explore)
-- [Sony WF-1000X](./in-ear/Sony%20WF-1000X)
-- [Sony WF-1000XM3](./in-ear/Sony%20WF-1000XM3)
-- [Sony WF-1000XM4](./in-ear/Sony%20WF-1000XM4)
-- [Sony WF-1000XM5](./in-ear/Sony%20WF-1000XM5)
-- [Sony WF-C500](./in-ear/Sony%20WF-C500)
-- [Sony WF-C700N](./in-ear/Sony%20WF-C700N)
-- [Sony WF-SP700N](./in-ear/Sony%20WF-SP700N)
-- [Sony WF-SP800N](./in-ear/Sony%20WF-SP800N)
-- [Sony WF-XB700](./in-ear/Sony%20WF-XB700)
-- [Sony WH-1000XM2](./over-ear/Sony%20WH-1000XM2)
-- [Sony WH-1000XM3](./over-ear/Sony%20WH-1000XM3)
-- [Sony WH-1000XM4](./over-ear/Sony%20WH-1000XM4)
-- [Sony WH-1000XM5](./over-ear/Sony%20WH-1000XM5)
-- [Sony WH-CH400](./over-ear/Sony%20WH-CH400)
-- [Sony WH-CH500](./over-ear/Sony%20WH-CH500)
-- [Sony WH-CH510](./over-ear/Sony%20WH-CH510)
-- [Sony WH-CH520](./over-ear/Sony%20WH-CH520)
-- [Sony WH-CH700N](./over-ear/Sony%20WH-CH700N)
-- [Sony WH-CH710N](./over-ear/Sony%20WH-CH710N)
-- [Sony WH-CH720N](./over-ear/Sony%20WH-CH720N)
-- [Sony WH-H900N](./over-ear/Sony%20WH-H900N)
-- [Sony WH-H910N](./over-ear/Sony%20WH-H910N)
-- [Sony WH-XB700](./over-ear/Sony%20WH-XB700)
-- [Sony WH-XB900N](./over-ear/Sony%20WH-XB900N)
-- [Sony WH-XB910N](./over-ear/Sony%20WH-XB910N)
-- [Sony WI-1000X](./in-ear/Sony%20WI-1000X)
-- [Sony WI-1000XM2](./in-ear/Sony%20WI-1000XM2)
-- [Sony WI-C200](./in-ear/Sony%20WI-C200)
-- [Sony WI-C300](./in-ear/Sony%20WI-C300)
-- [Sony WI-C310](./in-ear/Sony%20WI-C310)
-- [Sony WI-C400](./in-ear/Sony%20WI-C400)
-- [Sony WI-C600N](./in-ear/Sony%20WI-C600N)
-- [Sony WI-SP500](./in-ear/Sony%20WI-SP500)
-- [Sony WI-SP600N](./in-ear/Sony%20WI-SP600N)
-- [Sony WI-XB400](./in-ear/Sony%20WI-XB400)
-- [Sound Intone CX-05](./over-ear/Sound%20Intone%20CX-05)
-- [SoundPeats Q9A](./in-ear/SoundPeats%20Q9A)
-- [SoundPeats TrueFree](./in-ear/SoundPeats%20TrueFree)
-- [SoundPeats TrueFree 2](./in-ear/SoundPeats%20TrueFree%202)
-- [Status Audio Between 3ANC](./in-ear/Status%20Audio%20Between%203ANC)
-- [Status Audio Between Pro](./in-ear/Status%20Audio%20Between%20Pro)
-- [Status Audio BT One](./over-ear/Status%20Audio%20BT%20One)
-- [Stax SR-L300](./over-ear/Stax%20SR-L300)
-- [SteelSeries Arctis 1](./over-ear/SteelSeries%20Arctis%201)
-- [SteelSeries Arctis 1 Wireless](./over-ear/SteelSeries%20Arctis%201%20Wireless)
-- [SteelSeries Arctis 3 2019 Edition](./over-ear/SteelSeries%20Arctis%203%202019%20Edition)
-- [SteelSeries Arctis 5 2019 Edition](./over-ear/SteelSeries%20Arctis%205%202019%20Edition)
-- [SteelSeries Arctis 7](./over-ear/SteelSeries%20Arctis%207)
-- [SteelSeries Arctis 7 2019 Edition](./over-ear/SteelSeries%20Arctis%207%202019%20Edition)
-- [SteelSeries Arctis 7+](./over-ear/SteelSeries%20Arctis%207+)
-- [SteelSeries Arctis 7P](./over-ear/SteelSeries%20Arctis%207P)
-- [SteelSeries Arctis 7P+](./over-ear/SteelSeries%20Arctis%207P+)
-- [SteelSeries Arctis 7X](./over-ear/SteelSeries%20Arctis%207X)
-- [SteelSeries Arctis 9](./over-ear/SteelSeries%20Arctis%209)
-- [SteelSeries Arctis 9X](./over-ear/SteelSeries%20Arctis%209X)
-- [SteelSeries Arctis Nova 1](./over-ear/SteelSeries%20Arctis%20Nova%201)
-- [SteelSeries Arctis Nova 3](./over-ear/SteelSeries%20Arctis%20Nova%203)
-- [SteelSeries Arctis Nova 7](./over-ear/SteelSeries%20Arctis%20Nova%207)
-- [SteelSeries Arctis Nova Pro](./over-ear/SteelSeries%20Arctis%20Nova%20Pro)
-- [SteelSeries Arctis Nova Pro Wireless](./over-ear/SteelSeries%20Arctis%20Nova%20Pro%20Wireless)
-- [SteelSeries Arctis Prime](./over-ear/SteelSeries%20Arctis%20Prime)
-- [SteelSeries Arctis Pro GameDAC](./over-ear/SteelSeries%20Arctis%20Pro%20GameDAC)
-- [SteelSeries Arctis Pro Wireless](./over-ear/SteelSeries%20Arctis%20Pro%20Wireless)
-- [SteelSeries Siberia 200](./over-ear/SteelSeries%20Siberia%20200)
-- [SteelSeries Tusq](./in-ear/SteelSeries%20Tusq)
-- [Superlux HD 668B](./over-ear/Superlux%20HD%20668B)
-- [Superlux HD 681](./over-ear/Superlux%20HD%20681)
-- [Superlux HD 681 EVO](./over-ear/Superlux%20HD%20681%20EVO)
-- [Swimbuds Waterproof Headphones](./in-ear/Swimbuds%20Waterproof%20Headphones)
-- [Symphonized NRG 3.0](./in-ear/Symphonized%20NRG%203.0)
-- [TaoTronics SoundLiberty 79](./in-ear/TaoTronics%20SoundLiberty%2079)
-- [TaoTronics SoundLiberty 92](./in-ear/TaoTronics%20SoundLiberty%2092)
-- [TaoTronics SoundLiberty 94](./in-ear/TaoTronics%20SoundLiberty%2094)
-- [TaoTronics SoundLiberty 95](./earbud/TaoTronics%20SoundLiberty%2095)
-- [TaoTronics SoundSurge 60](./over-ear/TaoTronics%20SoundSurge%2060)
-- [TaoTronics TT-BH041 Bluetooth Headset](./over-ear/TaoTronics%20TT-BH041%20Bluetooth%20Headset)
-- [Tascam TH-02](./over-ear/Tascam%20TH-02)
-- [Tin HiFi T2](./in-ear/Tin%20HiFi%20T2)
-- [Tin HiFi T3](./in-ear/Tin%20HiFi%20T3)
-- [TOZO NC2](./in-ear/TOZO%20NC2)
-- [TOZO NC7](./in-ear/TOZO%20NC7)
-- [TOZO NC9](./in-ear/TOZO%20NC9)
-- [TOZO T10](./in-ear/TOZO%20T10)
-- [TOZO T12](./in-ear/TOZO%20T12)
-- [TOZO T6](./in-ear/TOZO%20T6)
-- [Tranya T10](./in-ear/Tranya%20T10)
-- [TREBLAB X5](./in-ear/TREBLAB%20X5)
-- [TREBLAB Z2](./over-ear/TREBLAB%20Z2)
-- [TREBLAB Z7 Pro](./over-ear/TREBLAB%20Z7%20Pro)
-- [Truthear x Crinacle Zero](./in-ear/Truthear%20x%20Crinacle%20Zero)
-- [Turtle Beach Battle Buds](./in-ear/Turtle%20Beach%20Battle%20Buds)
-- [Turtle Beach Elite 800](./over-ear/Turtle%20Beach%20Elite%20800)
-- [Turtle Beach Elite Atlas](./over-ear/Turtle%20Beach%20Elite%20Atlas)
-- [Turtle Beach Elite Atlas Aero](./over-ear/Turtle%20Beach%20Elite%20Atlas%20Aero)
-- [Turtle Beach Elite Pro 2 SuperAmp](./over-ear/Turtle%20Beach%20Elite%20Pro%202%20SuperAmp)
-- [Turtle Beach Recon 200](./over-ear/Turtle%20Beach%20Recon%20200)
-- [Turtle Beach Recon 200 Gen 2](./over-ear/Turtle%20Beach%20Recon%20200%20Gen%202)
-- [Turtle Beach Recon 500](./over-ear/Turtle%20Beach%20Recon%20500)
-- [Turtle Beach Recon 50X](./over-ear/Turtle%20Beach%20Recon%2050X)
-- [Turtle Beach Recon 70](./over-ear/Turtle%20Beach%20Recon%2070)
-- [Turtle Beach Stealth 300](./over-ear/Turtle%20Beach%20Stealth%20300)
-- [Turtle Beach Stealth 600](./over-ear/Turtle%20Beach%20Stealth%20600)
-- [Turtle Beach Stealth 600 Gen 2](./over-ear/Turtle%20Beach%20Stealth%20600%20Gen%202)
-- [Turtle Beach Stealth 700](./over-ear/Turtle%20Beach%20Stealth%20700)
-- [Turtle Beach Stealth 700 Gen 2](./over-ear/Turtle%20Beach%20Stealth%20700%20Gen%202)
-- [Turtle Beach Stealth Pro](./over-ear/Turtle%20Beach%20Stealth%20Pro)
-- [Ultimate Ears FITS](./in-ear/Ultimate%20Ears%20FITS)
-- [Under Armour True Wireless Flash](./in-ear/Under%20Armour%20True%20Wireless%20Flash)
-- [V-MODA BassFit Wireless](./in-ear/V-MODA%20BassFit%20Wireless)
-- [V-MODA Crossfade 2 Wireless](./over-ear/V-MODA%20Crossfade%202%20Wireless)
-- [V-MODA Crossfade 3 Wireless](./over-ear/V-MODA%20Crossfade%203%20Wireless)
-- [V-MODA Crossfade M-100](./over-ear/V-MODA%20Crossfade%20M-100)
-- [Westone W40](./in-ear/Westone%20W40)
-- [Wyze Buds](./in-ear/Wyze%20Buds)
-- [Wyze Buds Pro](./in-ear/Wyze%20Buds%20Pro)
-- [Wyze Noise-Cancelling Headphones](./over-ear/Wyze%20Noise-Cancelling%20Headphones)
-- [Wyze Wireless Gaming Headset](./over-ear/Wyze%20Wireless%20Gaming%20Headset)
-- [Xbox Stereo Headset](./over-ear/Xbox%20Stereo%20Headset)
-- [Xbox Wireless Headset](./over-ear/Xbox%20Wireless%20Headset)
-- [XFYRO xS2](./in-ear/XFYRO%20xS2)
-- [Ylife True Wireless Earbuds](./in-ear/Ylife%20True%20Wireless%20Earbuds)
+- [1MORE Piston Classic](./HMS%20II.3%20in-ear/1MORE%20Piston%20Classic) on HMS II.3
+- [1MORE Piston Fit](./HMS%20II.3%20in-ear/1MORE%20Piston%20Fit) on HMS II.3
+- [1MORE Quad Driver](./HMS%20II.3%20in-ear/1MORE%20Quad%20Driver) on HMS II.3
+- [1MORE Triple Driver](./HMS%20II.3%20in-ear/1MORE%20Triple%20Driver) on HMS II.3
+- [7Hz Timeless](./HMS%20II.3%20in-ear/7Hz%20Timeless) on HMS II.3
+- [AfterShokz Aeropex](./HMS%20II.3%20earbud/AfterShokz%20Aeropex) on HMS II.3
+- [AfterShokz Trekz Air](./HMS%20II.3%20earbud/AfterShokz%20Trekz%20Air) on HMS II.3
+- [Aiaiai TMA-2 DJ](./Bruel%20&%20Kjaer%205128%20over-ear/Aiaiai%20TMA-2%20DJ) on Bruel & Kjaer 5128
+- [AKG K240 MKII](./HMS%20II.3%20over-ear/AKG%20K240%20MKII) on HMS II.3
+- [AKG K361](./Bruel%20&%20Kjaer%205128%20over-ear/AKG%20K361) on Bruel & Kjaer 5128
+- [AKG K371](./HMS%20II.3%20over-ear/AKG%20K371) on HMS II.3
+- [AKG K44](./HMS%20II.3%20over-ear/AKG%20K44) on HMS II.3
+- [AKG K701](./HMS%20II.3%20over-ear/AKG%20K701) on HMS II.3
+- [AKG K702](./HMS%20II.3%20over-ear/AKG%20K702) on HMS II.3
+- [AKG K712 PRO](./HMS%20II.3%20over-ear/AKG%20K712%20PRO) on HMS II.3
+- [AKG N200](./HMS%20II.3%20in-ear/AKG%20N200) on HMS II.3
+- [AKG N60 NC Wireless](./HMS%20II.3%20over-ear/AKG%20N60%20NC%20Wireless) on HMS II.3
+- [AKG N700NC](./HMS%20II.3%20over-ear/AKG%20N700NC) on HMS II.3
+- [AKG N700NC M2](./HMS%20II.3%20over-ear/AKG%20N700NC%20M2) on HMS II.3
+- [AKG Q701](./HMS%20II.3%20over-ear/AKG%20Q701) on HMS II.3
+- [Altec Lansing True Evo](./HMS%20II.3%20in-ear/Altec%20Lansing%20True%20Evo) on HMS II.3
+- [Amazon Echo Buds](./HMS%20II.3%20in-ear/Amazon%20Echo%20Buds) on HMS II.3
+- [Amazon Echo Buds Gen 2](./HMS%20II.3%20in-ear/Amazon%20Echo%20Buds%20Gen%202) on HMS II.3
+- [Amazon Echo Buds Gen 3](./HMS%20II.3%20in-ear/Amazon%20Echo%20Buds%20Gen%203) on HMS II.3
+- [AmazonBasics Lightweight On Ear](./HMS%20II.3%20over-ear/AmazonBasics%20Lightweight%20On%20Ear) on HMS II.3
+- [Anker SoundBuds Curve](./HMS%20II.3%20in-ear/Anker%20SoundBuds%20Curve) on HMS II.3
+- [Anker SoundBuds Curve Upgraded 2019](./HMS%20II.3%20in-ear/Anker%20SoundBuds%20Curve%20Upgraded%202019) on HMS II.3
+- [Anker SoundBuds Life](./HMS%20II.3%20in-ear/Anker%20SoundBuds%20Life) on HMS II.3
+- [Anker SoundBuds Sport](./HMS%20II.3%20in-ear/Anker%20SoundBuds%20Sport) on HMS II.3
+- [Anker Soundcore C30i](./Bruel%20&%20Kjaer%205128%20in-ear/Anker%20Soundcore%20C30i) on Bruel & Kjaer 5128
+- [Anker Soundcore Liberty 2 Pro](./HMS%20II.3%20in-ear/Anker%20Soundcore%20Liberty%202%20Pro) on HMS II.3
+- [Anker Soundcore Liberty 3 Pro](./HMS%20II.3%20in-ear/Anker%20Soundcore%20Liberty%203%20Pro) on HMS II.3
+- [Anker Soundcore Liberty 4](./HMS%20II.3%20in-ear/Anker%20Soundcore%20Liberty%204) on HMS II.3
+- [Anker Soundcore Liberty 4 NC](./Bruel%20&%20Kjaer%205128%20in-ear/Anker%20Soundcore%20Liberty%204%20NC) on Bruel & Kjaer 5128
+- [Anker Soundcore Liberty Air](./HMS%20II.3%20in-ear/Anker%20Soundcore%20Liberty%20Air) on HMS II.3
+- [Anker Soundcore Liberty Air 2](./HMS%20II.3%20in-ear/Anker%20Soundcore%20Liberty%20Air%202) on HMS II.3
+- [Anker Soundcore Liberty Air 2 Pro](./HMS%20II.3%20in-ear/Anker%20Soundcore%20Liberty%20Air%202%20Pro) on HMS II.3
+- [Anker Soundcore Liberty Lite](./HMS%20II.3%20in-ear/Anker%20Soundcore%20Liberty%20Lite) on HMS II.3
+- [Anker Soundcore Life 2](./HMS%20II.3%20over-ear/Anker%20Soundcore%20Life%202) on HMS II.3
+- [Anker Soundcore Life A2 NC](./HMS%20II.3%20in-ear/Anker%20Soundcore%20Life%20A2%20NC) on HMS II.3
+- [Anker Soundcore Life Dot 2](./HMS%20II.3%20in-ear/Anker%20Soundcore%20Life%20Dot%202) on HMS II.3
+- [Anker Soundcore Life P2](./HMS%20II.3%20in-ear/Anker%20Soundcore%20Life%20P2) on HMS II.3
+- [Anker Soundcore Life P3](./HMS%20II.3%20in-ear/Anker%20Soundcore%20Life%20P3) on HMS II.3
+- [Anker Soundcore Life Q20](./HMS%20II.3%20over-ear/Anker%20Soundcore%20Life%20Q20) on HMS II.3
+- [Anker Soundcore Life Q30](./Bruel%20&%20Kjaer%205128%20over-ear/Anker%20Soundcore%20Life%20Q30) on Bruel & Kjaer 5128
+- [Anker Soundcore Life Q35](./HMS%20II.3%20over-ear/Anker%20Soundcore%20Life%20Q35) on HMS II.3
+- [Anker Soundcore P25i](./Bruel%20&%20Kjaer%205128%20in-ear/Anker%20Soundcore%20P25i) on Bruel & Kjaer 5128
+- [Anker Soundcore P40i](./Bruel%20&%20Kjaer%205128%20in-ear/Anker%20Soundcore%20P40i) on Bruel & Kjaer 5128
+- [Anker Soundcore Space A40](./Bruel%20&%20Kjaer%205128%20in-ear/Anker%20Soundcore%20Space%20A40) on Bruel & Kjaer 5128
+- [Anker Soundcore Space NC](./HMS%20II.3%20over-ear/Anker%20Soundcore%20Space%20NC) on HMS II.3
+- [Anker Soundcore Space One](./HMS%20II.3%20over-ear/Anker%20Soundcore%20Space%20One) on HMS II.3
+- [Anker Soundcore Space Q45](./Bruel%20&%20Kjaer%205128%20over-ear/Anker%20Soundcore%20Space%20Q45) on Bruel & Kjaer 5128
+- [Anker Soundcore Spirit X](./HMS%20II.3%20in-ear/Anker%20Soundcore%20Spirit%20X) on HMS II.3
+- [Anker Zolo Liberty+](./HMS%20II.3%20in-ear/Anker%20Zolo%20Liberty+) on HMS II.3
+- [Apple AirPods (1st generation)](./HMS%20II.3%20earbud/Apple%20AirPods%20(1st%20generation)) on HMS II.3
+- [Apple AirPods (2nd generation)](./HMS%20II.3%20earbud/Apple%20AirPods%20(2nd%20generation)) on HMS II.3
+- [Apple AirPods (3rd generation)](./Bruel%20&%20Kjaer%205128%20earbud/Apple%20AirPods%20(3rd%20generation)) on Bruel & Kjaer 5128
+- [Apple AirPods 4](./Bruel%20&%20Kjaer%205128%20earbud/Apple%20AirPods%204) on Bruel & Kjaer 5128
+- [Apple AirPods 4 (ANC on)](./Bruel%20&%20Kjaer%205128%20earbud/Apple%20AirPods%204%20(ANC%20on)) on Bruel & Kjaer 5128
+- [Apple AirPods Max](./Bruel%20&%20Kjaer%205128%20over-ear/Apple%20AirPods%20Max) on Bruel & Kjaer 5128
+- [Apple AirPods Pro](./HMS%20II.3%20in-ear/Apple%20AirPods%20Pro) on HMS II.3
+- [Apple AirPods Pro2](./Bruel%20&%20Kjaer%205128%20in-ear/Apple%20AirPods%20Pro2) on Bruel & Kjaer 5128
+- [Apple EarPods](./HMS%20II.3%20earbud/Apple%20EarPods) on HMS II.3
+- [ASTRO Gaming A10](./HMS%20II.3%20over-ear/ASTRO%20Gaming%20A10) on HMS II.3
+- [ASTRO Gaming A10 (Gen 2)](./HMS%20II.3%20over-ear/ASTRO%20Gaming%20A10%20(Gen%202)) on HMS II.3
+- [ASTRO Gaming A20](./HMS%20II.3%20over-ear/ASTRO%20Gaming%20A20) on HMS II.3
+- [ASTRO Gaming A20 (Gen 2)](./HMS%20II.3%20over-ear/ASTRO%20Gaming%20A20%20(Gen%202)) on HMS II.3
+- [ASTRO Gaming A30](./HMS%20II.3%20over-ear/ASTRO%20Gaming%20A30) on HMS II.3
+- [ASTRO Gaming A40 TR](./Bruel%20&%20Kjaer%205128%20over-ear/ASTRO%20Gaming%20A40%20TR) on Bruel & Kjaer 5128
+- [ASTRO Gaming A50 (Gen 3 2017)](./HMS%20II.3%20over-ear/ASTRO%20Gaming%20A50%20(Gen%203%202017)) on HMS II.3
+- [ASTRO Gaming A50 (Gen 4 2019)](./Bruel%20&%20Kjaer%205128%20over-ear/ASTRO%20Gaming%20A50%20(Gen%204%202019)) on Bruel & Kjaer 5128
+- [ASTRO Gaming A50 X](./Bruel%20&%20Kjaer%205128%20over-ear/ASTRO%20Gaming%20A50%20X) on Bruel & Kjaer 5128
+- [ASUS ROG Cetra True Wireless SpeedNova](./Bruel%20&%20Kjaer%205128%20in-ear/ASUS%20ROG%20Cetra%20True%20Wireless%20SpeedNova) on Bruel & Kjaer 5128
+- [Audeze LCD-1](./HMS%20II.3%20over-ear/Audeze%20LCD-1) on HMS II.3
+- [Audeze LCD-2 Classic](./HMS%20II.3%20over-ear/Audeze%20LCD-2%20Classic) on HMS II.3
+- [Audeze Maxwell](./Bruel%20&%20Kjaer%205128%20over-ear/Audeze%20Maxwell) on Bruel & Kjaer 5128
+- [Audeze MM-100](./Bruel%20&%20Kjaer%205128%20over-ear/Audeze%20MM-100) on Bruel & Kjaer 5128
+- [Audeze Mobius](./HMS%20II.3%20over-ear/Audeze%20Mobius) on HMS II.3
+- [Audeze Penrose](./HMS%20II.3%20over-ear/Audeze%20Penrose) on HMS II.3
+- [Audio-Technica ATH-AD700X (2013)](./HMS%20II.3%20over-ear/Audio-Technica%20ATH-AD700X%20(2013)) on HMS II.3
+- [Audio-Technica ATH-ADX3000](./Bruel%20&%20Kjaer%205128%20over-ear/Audio-Technica%20ATH-ADX3000) on Bruel & Kjaer 5128
+- [Audio-Technica ATH-ANC23](./HMS%20II.3%20in-ear/Audio-Technica%20ATH-ANC23) on HMS II.3
+- [Audio-Technica ATH-ANC33iS](./HMS%20II.3%20in-ear/Audio-Technica%20ATH-ANC33iS) on HMS II.3
+- [Audio-Technica ATH-ANC70](./HMS%20II.3%20over-ear/Audio-Technica%20ATH-ANC70) on HMS II.3
+- [Audio-Technica ATH-ANC7B](./HMS%20II.3%20over-ear/Audio-Technica%20ATH-ANC7B) on HMS II.3
+- [Audio-Technica ATH-ANC9](./HMS%20II.3%20over-ear/Audio-Technica%20ATH-ANC9) on HMS II.3
+- [Audio-Technica ATH-DSR9BT](./HMS%20II.3%20over-ear/Audio-Technica%20ATH-DSR9BT) on HMS II.3
+- [Audio-Technica ATH-M20x](./HMS%20II.3%20over-ear/Audio-Technica%20ATH-M20x) on HMS II.3
+- [Audio-Technica ATH-M30x](./HMS%20II.3%20over-ear/Audio-Technica%20ATH-M30x) on HMS II.3
+- [Audio-Technica ATH-M40x](./HMS%20II.3%20over-ear/Audio-Technica%20ATH-M40x) on HMS II.3
+- [Audio-Technica ATH-M50x](./Bruel%20&%20Kjaer%205128%20over-ear/Audio-Technica%20ATH-M50x) on Bruel & Kjaer 5128
+- [Audio-Technica ATH-M50xBT](./HMS%20II.3%20over-ear/Audio-Technica%20ATH-M50xBT) on HMS II.3
+- [Audio-Technica ATH-M50xBT2](./HMS%20II.3%20over-ear/Audio-Technica%20ATH-M50xBT2) on HMS II.3
+- [Audio-Technica ATH-M60x](./HMS%20II.3%20over-ear/Audio-Technica%20ATH-M60x) on HMS II.3
+- [Audio-Technica ATH-M70x](./HMS%20II.3%20over-ear/Audio-Technica%20ATH-M70x) on HMS II.3
+- [Audio-Technica ATH-MSR7NC](./HMS%20II.3%20over-ear/Audio-Technica%20ATH-MSR7NC) on HMS II.3
+- [Audio-Technica ATH-R70x](./HMS%20II.3%20over-ear/Audio-Technica%20ATH-R70x) on HMS II.3
+- [AUKEY Latitude](./HMS%20II.3%20in-ear/AUKEY%20Latitude) on HMS II.3
+- [Avantree HT5009](./HMS%20II.3%20over-ear/Avantree%20HT5009) on HMS II.3
+- [Bang & Olufsen Beoplay E8](./HMS%20II.3%20in-ear/Bang%20&%20Olufsen%20Beoplay%20E8) on HMS II.3
+- [Bang & Olufsen Beoplay E8 2.0](./HMS%20II.3%20in-ear/Bang%20&%20Olufsen%20Beoplay%20E8%202.0) on HMS II.3
+- [Bang & Olufsen Beoplay Earset 3i](./HMS%20II.3%20earbud/Bang%20&%20Olufsen%20Beoplay%20Earset%203i) on HMS II.3
+- [Bang & Olufsen Beoplay Earset Wireless](./HMS%20II.3%20earbud/Bang%20&%20Olufsen%20Beoplay%20Earset%20Wireless) on HMS II.3
+- [Bang & Olufsen Beoplay H6 (2nd Gen)](./HMS%20II.3%20over-ear/Bang%20&%20Olufsen%20Beoplay%20H6%20(2nd%20Gen)) on HMS II.3
+- [Bang & Olufsen Beoplay H9 (Gen 1)](./HMS%20II.3%20over-ear/Bang%20&%20Olufsen%20Beoplay%20H9%20(Gen%201)) on HMS II.3
+- [Bang & Olufsen Beoplay H95](./Bruel%20&%20Kjaer%205128%20over-ear/Bang%20&%20Olufsen%20Beoplay%20H95) on Bruel & Kjaer 5128
+- [Bang & Olufsen Beoplay H9i](./HMS%20II.3%20over-ear/Bang%20&%20Olufsen%20Beoplay%20H9i) on HMS II.3
+- [Bang & Olufsen Beoplay Portal](./HMS%20II.3%20over-ear/Bang%20&%20Olufsen%20Beoplay%20Portal) on HMS II.3
+- [Bang & Olufsen E8 3.0](./HMS%20II.3%20in-ear/Bang%20&%20Olufsen%20E8%203.0) on HMS II.3
+- [Beats Beats Powerbeats 4](./HMS%20II.3%20in-ear/Beats%20Beats%20Powerbeats%204) on HMS II.3
+- [Beats EP On-Ear](./HMS%20II.3%20over-ear/Beats%20EP%20On-Ear) on HMS II.3
+- [Beats Fit Pro](./HMS%20II.3%20in-ear/Beats%20Fit%20Pro) on HMS II.3
+- [Beats Flex](./HMS%20II.3%20in-ear/Beats%20Flex) on HMS II.3
+- [Beats Powerbeats Pro](./HMS%20II.3%20in-ear/Beats%20Powerbeats%20Pro) on HMS II.3
+- [Beats Powerbeats3 Wireless](./HMS%20II.3%20in-ear/Beats%20Powerbeats3%20Wireless) on HMS II.3
+- [Beats Solo 4](./Bruel%20&%20Kjaer%205128%20over-ear/Beats%20Solo%204) on Bruel & Kjaer 5128
+- [Beats Solo Buds](./Bruel%20&%20Kjaer%205128%20in-ear/Beats%20Solo%20Buds) on Bruel & Kjaer 5128
+- [Beats Solo Pro](./HMS%20II.3%20over-ear/Beats%20Solo%20Pro) on HMS II.3
+- [Beats Solo3 (wireless, 2019)](./HMS%20II.3%20over-ear/Beats%20Solo3%20(wireless,%202019)) on HMS II.3
+- [Beats Solo3 Wireless (2018)](./HMS%20II.3%20over-ear/Beats%20Solo3%20Wireless%20(2018)) on HMS II.3
+- [Beats Studio Buds](./HMS%20II.3%20in-ear/Beats%20Studio%20Buds) on HMS II.3
+- [Beats Studio Buds +](./HMS%20II.3%20in-ear/Beats%20Studio%20Buds%20+) on HMS II.3
+- [Beats Studio Pro](./Bruel%20&%20Kjaer%205128%20over-ear/Beats%20Studio%20Pro) on Bruel & Kjaer 5128
+- [Beats Studio Wireless](./HMS%20II.3%20over-ear/Beats%20Studio%20Wireless) on HMS II.3
+- [Beats Studio3 Wireless](./HMS%20II.3%20over-ear/Beats%20Studio3%20Wireless) on HMS II.3
+- [Beats urBeats](./HMS%20II.3%20in-ear/Beats%20urBeats) on HMS II.3
+- [Beats urBeats3](./HMS%20II.3%20in-ear/Beats%20urBeats3) on HMS II.3
+- [Beats X](./HMS%20II.3%20in-ear/Beats%20X) on HMS II.3
+- [Betron YSM1000](./HMS%20II.3%20in-ear/Betron%20YSM1000) on HMS II.3
+- [Beyerdynamic Amiron Wireless](./HMS%20II.3%20over-ear/Beyerdynamic%20Amiron%20Wireless) on HMS II.3
+- [Beyerdynamic DT 1770 (velour earpads)](./HMS%20II.3%20over-ear/Beyerdynamic%20DT%201770%20(velour%20earpads)) on HMS II.3
+- [Beyerdynamic DT 1990 (balanced earpads)](./HMS%20II.3%20over-ear/Beyerdynamic%20DT%201990%20(balanced%20earpads)) on HMS II.3
+- [Beyerdynamic DT 1990 Pro MKII](./Bruel%20&%20Kjaer%205128%20over-ear/Beyerdynamic%20DT%201990%20Pro%20MKII) on Bruel & Kjaer 5128
+- [Beyerdynamic DT 700 Pro X](./HMS%20II.3%20over-ear/Beyerdynamic%20DT%20700%20Pro%20X) on HMS II.3
+- [Beyerdynamic DT 770 Pro](./Bruel%20&%20Kjaer%205128%20over-ear/Beyerdynamic%20DT%20770%20Pro) on Bruel & Kjaer 5128
+- [Beyerdynamic DT 880](./HMS%20II.3%20over-ear/Beyerdynamic%20DT%20880) on HMS II.3
+- [Beyerdynamic DT 900 Pro X](./HMS%20II.3%20over-ear/Beyerdynamic%20DT%20900%20Pro%20X) on HMS II.3
+- [Beyerdynamic DT 990 Pro](./Bruel%20&%20Kjaer%205128%20over-ear/Beyerdynamic%20DT%20990%20Pro) on Bruel & Kjaer 5128
+- [Beyerdynamic MMX 300 (2nd Generation)](./Bruel%20&%20Kjaer%205128%20over-ear/Beyerdynamic%20MMX%20300%20(2nd%20Generation)) on Bruel & Kjaer 5128
+- [Beyerdynamic T1 (2nd Gen)](./HMS%20II.3%20over-ear/Beyerdynamic%20T1%20(2nd%20Gen)) on HMS II.3
+- [BGVP DM6](./HMS%20II.3%20in-ear/BGVP%20DM6) on HMS II.3
+- [Bluedio T2S](./HMS%20II.3%20over-ear/Bluedio%20T2S) on HMS II.3
+- [Bluedio T3 Plus](./HMS%20II.3%20over-ear/Bluedio%20T3%20Plus) on HMS II.3
+- [Bluedio T4 Turbine](./HMS%20II.3%20over-ear/Bluedio%20T4%20Turbine) on HMS II.3
+- [Bluedio U Plus](./HMS%20II.3%20over-ear/Bluedio%20U%20Plus) on HMS II.3
+- [BlueParrott B450-XT](./HMS%20II.3%20over-ear/BlueParrott%20B450-XT) on HMS II.3
+- [Boltune BT-BH024](./HMS%20II.3%20in-ear/Boltune%20BT-BH024) on HMS II.3
+- [Bose Hearphones](./HMS%20II.3%20in-ear/Bose%20Hearphones) on HMS II.3
+- [Bose Noise Cancelling Headphones 700](./Bruel%20&%20Kjaer%205128%20over-ear/Bose%20Noise%20Cancelling%20Headphones%20700) on Bruel & Kjaer 5128
+- [Bose QuietComfort](./Bruel%20&%20Kjaer%205128%20over-ear/Bose%20QuietComfort) on Bruel & Kjaer 5128
+- [Bose QuietComfort 20](./HMS%20II.3%20in-ear/Bose%20QuietComfort%2020) on HMS II.3
+- [Bose QuietComfort 25](./HMS%20II.3%20over-ear/Bose%20QuietComfort%2025) on HMS II.3
+- [Bose QuietComfort 35](./HMS%20II.3%20over-ear/Bose%20QuietComfort%2035) on HMS II.3
+- [Bose QuietComfort 35 II](./HMS%20II.3%20over-ear/Bose%20QuietComfort%2035%20II) on HMS II.3
+- [Bose QuietComfort 35 II Gaming Headset​](./HMS%20II.3%20over-ear/Bose%20QuietComfort%2035%20II%20Gaming%20Headset%E2%80%8B) on HMS II.3
+- [Bose QuietComfort 45](./Bruel%20&%20Kjaer%205128%20over-ear/Bose%20QuietComfort%2045) on Bruel & Kjaer 5128
+- [Bose QuietComfort Earbuds](./HMS%20II.3%20in-ear/Bose%20QuietComfort%20Earbuds) on HMS II.3
+- [Bose QuietComfort Earbuds II](./Bruel%20&%20Kjaer%205128%20in-ear/Bose%20QuietComfort%20Earbuds%20II) on Bruel & Kjaer 5128
+- [Bose QuietComfort Ultra Earbuds](./Bruel%20&%20Kjaer%205128%20in-ear/Bose%20QuietComfort%20Ultra%20Earbuds) on Bruel & Kjaer 5128
+- [Bose QuietComfort Ultra Headphones](./Bruel%20&%20Kjaer%205128%20over-ear/Bose%20QuietComfort%20Ultra%20Headphones) on Bruel & Kjaer 5128
+- [Bose QuietControl 30](./HMS%20II.3%20over-ear/Bose%20QuietControl%2030) on HMS II.3
+- [Bose SoundLink Around-Ear II](./HMS%20II.3%20over-ear/Bose%20SoundLink%20Around-Ear%20II) on HMS II.3
+- [Bose SoundLink On-Ear](./HMS%20II.3%20over-ear/Bose%20SoundLink%20On-Ear) on HMS II.3
+- [Bose SoundSport Free](./HMS%20II.3%20in-ear/Bose%20SoundSport%20Free) on HMS II.3
+- [Bose SoundSport In-Ear](./HMS%20II.3%20in-ear/Bose%20SoundSport%20In-Ear) on HMS II.3
+- [Bose SoundSport Wireless](./HMS%20II.3%20in-ear/Bose%20SoundSport%20Wireless) on HMS II.3
+- [Bose SoundTrue Around-Ear II](./HMS%20II.3%20over-ear/Bose%20SoundTrue%20Around-Ear%20II) on HMS II.3
+- [Bose SoundTrue Ultra In-Ear](./HMS%20II.3%20in-ear/Bose%20SoundTrue%20Ultra%20In-Ear) on HMS II.3
+- [Bose Sport Earbuds](./HMS%20II.3%20in-ear/Bose%20Sport%20Earbuds) on HMS II.3
+- [Bose Sport Open Earbuds](./HMS%20II.3%20earbud/Bose%20Sport%20Open%20Earbuds) on HMS II.3
+- [Bose Ultra Open Earbuds](./Bruel%20&%20Kjaer%205128%20earbud/Bose%20Ultra%20Open%20Earbuds) on Bruel & Kjaer 5128
+- [Bowers & Wilkins P5 Series 2](./HMS%20II.3%20over-ear/Bowers%20&%20Wilkins%20P5%20Series%202) on HMS II.3
+- [Bowers & Wilkins P5 Wireless](./HMS%20II.3%20over-ear/Bowers%20&%20Wilkins%20P5%20Wireless) on HMS II.3
+- [Bowers & Wilkins P7](./HMS%20II.3%20over-ear/Bowers%20&%20Wilkins%20P7) on HMS II.3
+- [Bowers & Wilkins Pi7](./HMS%20II.3%20in-ear/Bowers%20&%20Wilkins%20Pi7) on HMS II.3
+- [Bowers & Wilkins Pi7 S2](./HMS%20II.3%20in-ear/Bowers%20&%20Wilkins%20Pi7%20S2) on HMS II.3
+- [Bowers & Wilkins PX](./HMS%20II.3%20over-ear/Bowers%20&%20Wilkins%20PX) on HMS II.3
+- [Bowers & Wilkins PX5](./HMS%20II.3%20over-ear/Bowers%20&%20Wilkins%20PX5) on HMS II.3
+- [Bowers & Wilkins PX7](./HMS%20II.3%20over-ear/Bowers%20&%20Wilkins%20PX7) on HMS II.3
+- [Bowers & Wilkins Px7 S2](./Bruel%20&%20Kjaer%205128%20over-ear/Bowers%20&%20Wilkins%20Px7%20S2) on Bruel & Kjaer 5128
+- [Bowers & Wilkins Px8](./Bruel%20&%20Kjaer%205128%20over-ear/Bowers%20&%20Wilkins%20Px8) on Bruel & Kjaer 5128
+- [Brainwavz HM5](./HMS%20II.3%20over-ear/Brainwavz%20HM5) on HMS II.3
+- [BÖHM B-66](./HMS%20II.3%20over-ear/B%C3%96HM%20B-66) on HMS II.3
+- [Cambridge Audio Melomania 1](./HMS%20II.3%20in-ear/Cambridge%20Audio%20Melomania%201) on HMS II.3
+- [Cambridge Audio Melomania 1+](./HMS%20II.3%20in-ear/Cambridge%20Audio%20Melomania%201+) on HMS II.3
+- [CMF by Nothing Buds Pro 2](./Bruel%20&%20Kjaer%205128%20in-ear/CMF%20by%20Nothing%20Buds%20Pro%202) on Bruel & Kjaer 5128
+- [Cooler Master MH630](./HMS%20II.3%20over-ear/Cooler%20Master%20MH630) on HMS II.3
+- [Cooler Master MH751](./HMS%20II.3%20over-ear/Cooler%20Master%20MH751) on HMS II.3
+- [Corsair HS35](./HMS%20II.3%20over-ear/Corsair%20HS35) on HMS II.3
+- [Corsair HS50](./HMS%20II.3%20over-ear/Corsair%20HS50) on HMS II.3
+- [Corsair HS60](./HMS%20II.3%20over-ear/Corsair%20HS60) on HMS II.3
+- [Corsair HS60 HAPTIC](./HMS%20II.3%20over-ear/Corsair%20HS60%20HAPTIC) on HMS II.3
+- [Corsair HS60 PRO SURROUND](./HMS%20II.3%20over-ear/Corsair%20HS60%20PRO%20SURROUND) on HMS II.3
+- [Corsair HS70 Bluetooth](./HMS%20II.3%20over-ear/Corsair%20HS70%20Bluetooth) on HMS II.3
+- [Corsair HS70 Wireless](./HMS%20II.3%20over-ear/Corsair%20HS70%20Wireless) on HMS II.3
+- [Corsair HS75 XB WIRELESS](./HMS%20II.3%20over-ear/Corsair%20HS75%20XB%20WIRELESS) on HMS II.3
+- [Corsair HS80 MAX WIRELESS](./HMS%20II.3%20over-ear/Corsair%20HS80%20MAX%20WIRELESS) on HMS II.3
+- [Corsair HS80 RGB WIRELESS](./HMS%20II.3%20over-ear/Corsair%20HS80%20RGB%20WIRELESS) on HMS II.3
+- [Corsair VIRTUOSO PRO](./Bruel%20&%20Kjaer%205128%20over-ear/Corsair%20VIRTUOSO%20PRO) on Bruel & Kjaer 5128
+- [Corsair Virtuoso RGB Wireless SE](./HMS%20II.3%20over-ear/Corsair%20Virtuoso%20RGB%20Wireless%20SE) on HMS II.3
+- [Corsair VIRTUOSO RGB Wireless XT](./HMS%20II.3%20over-ear/Corsair%20VIRTUOSO%20RGB%20Wireless%20XT) on HMS II.3
+- [Corsair Void Elite](./HMS%20II.3%20over-ear/Corsair%20Void%20Elite) on HMS II.3
+- [Corsair Void PRO RGB](./HMS%20II.3%20over-ear/Corsair%20Void%20PRO%20RGB) on HMS II.3
+- [Cougar Immersa](./HMS%20II.3%20over-ear/Cougar%20Immersa) on HMS II.3
+- [Cowin Apex Elite](./HMS%20II.3%20in-ear/Cowin%20Apex%20Elite) on HMS II.3
+- [Cowin E7](./HMS%20II.3%20over-ear/Cowin%20E7) on HMS II.3
+- [Cowin E7 Pro](./HMS%20II.3%20over-ear/Cowin%20E7%20Pro) on HMS II.3
+- [Cowin E8](./HMS%20II.3%20over-ear/Cowin%20E8) on HMS II.3
+- [Cowin SE7](./HMS%20II.3%20over-ear/Cowin%20SE7) on HMS II.3
+- [Creative Aurvana Ace 2](./HMS%20II.3%20in-ear/Creative%20Aurvana%20Ace%202) on HMS II.3
+- [Creative Aurvana Gold](./HMS%20II.3%20over-ear/Creative%20Aurvana%20Gold) on HMS II.3
+- [Creative Outlier Air](./HMS%20II.3%20in-ear/Creative%20Outlier%20Air) on HMS II.3
+- [Creative Outlier Air V2](./HMS%20II.3%20in-ear/Creative%20Outlier%20Air%20V2) on HMS II.3
+- [Creative Sound Blaster EVO ZxR](./HMS%20II.3%20over-ear/Creative%20Sound%20Blaster%20EVO%20ZxR) on HMS II.3
+- [Creative Sound BlasterX H5](./HMS%20II.3%20over-ear/Creative%20Sound%20BlasterX%20H5) on HMS II.3
+- [Creative SXFI Air](./HMS%20II.3%20over-ear/Creative%20SXFI%20Air) on HMS II.3
+- [Denon AHGC20 Globe Cruiser](./HMS%20II.3%20over-ear/Denon%20AHGC20%20Globe%20Cruiser) on HMS II.3
+- [Denon PerL Pro](./HMS%20II.3%20in-ear/Denon%20PerL%20Pro) on HMS II.3
+- [Devialet Gemini II](./Bruel%20&%20Kjaer%205128%20in-ear/Devialet%20Gemini%20II) on Bruel & Kjaer 5128
+- [Diskin DH3](./HMS%20II.3%20over-ear/Diskin%20DH3) on HMS II.3
+- [Dolby Dimension](./HMS%20II.3%20over-ear/Dolby%20Dimension) on HMS II.3
+- [Dyson OnTrac](./Bruel%20&%20Kjaer%205128%20over-ear/Dyson%20OnTrac) on Bruel & Kjaer 5128
+- [Dyson Zone](./HMS%20II.3%20over-ear/Dyson%20Zone) on HMS II.3
+- [EarFun Air Pro](./HMS%20II.3%20in-ear/EarFun%20Air%20Pro) on HMS II.3
+- [EarFun Air Pro 2 (2021)](./HMS%20II.3%20in-ear/EarFun%20Air%20Pro%202%20(2021)) on HMS II.3
+- [EarFun Air Pro 3](./HMS%20II.3%20in-ear/EarFun%20Air%20Pro%203) on HMS II.3
+- [EarFun Free](./HMS%20II.3%20in-ear/EarFun%20Free) on HMS II.3
+- [ENACFIRE E60](./HMS%20II.3%20in-ear/ENACFIRE%20E60) on HMS II.3
+- [EPOS GTW 270 Hybrid](./HMS%20II.3%20in-ear/EPOS%20GTW%20270%20Hybrid) on HMS II.3
+- [EPOS Sennheiser GSP 600](./HMS%20II.3%20over-ear/EPOS%20Sennheiser%20GSP%20600) on HMS II.3
+- [Etymotic ER4XR](./HMS%20II.3%20in-ear/Etymotic%20ER4XR) on HMS II.3
+- [Etymotic hf5](./HMS%20II.3%20in-ear/Etymotic%20hf5) on HMS II.3
+- [Fairphone Fairbuds](./Bruel%20&%20Kjaer%205128%20in-ear/Fairphone%20Fairbuds) on Bruel & Kjaer 5128
+- [Fairphone Fairbuds XL](./HMS%20II.3%20over-ear/Fairphone%20Fairbuds%20XL) on HMS II.3
+- [FIIL T1X](./HMS%20II.3%20in-ear/FIIL%20T1X) on HMS II.3
+- [Fitbit Flyer](./HMS%20II.3%20in-ear/Fitbit%20Flyer) on HMS II.3
+- [Focal Bathys](./Bruel%20&%20Kjaer%205128%20over-ear/Focal%20Bathys) on Bruel & Kjaer 5128
+- [Focal Celestee](./HMS%20II.3%20over-ear/Focal%20Celestee) on HMS II.3
+- [Focal Clear Mg](./HMS%20II.3%20over-ear/Focal%20Clear%20Mg) on HMS II.3
+- [Focal Elear](./HMS%20II.3%20over-ear/Focal%20Elear) on HMS II.3
+- [Focal Elegia](./HMS%20II.3%20over-ear/Focal%20Elegia) on HMS II.3
+- [Focal Stellia](./HMS%20II.3%20over-ear/Focal%20Stellia) on HMS II.3
+- [Google Pixel Buds (2017)](./HMS%20II.3%20in-ear/Google%20Pixel%20Buds%20(2017)) on HMS II.3
+- [Google Pixel Buds (2020)](./HMS%20II.3%20in-ear/Google%20Pixel%20Buds%20(2020)) on HMS II.3
+- [Google Pixel Buds A-Series](./HMS%20II.3%20in-ear/Google%20Pixel%20Buds%20A-Series) on HMS II.3
+- [Google Pixel Buds Pro](./Bruel%20&%20Kjaer%205128%20in-ear/Google%20Pixel%20Buds%20Pro) on Bruel & Kjaer 5128
+- [Google Pixel Buds Pro 2](./Bruel%20&%20Kjaer%205128%20in-ear/Google%20Pixel%20Buds%20Pro%202) on Bruel & Kjaer 5128
+- [Google Pixel USB-C Earbuds](./HMS%20II.3%20earbud/Google%20Pixel%20USB-C%20Earbuds) on HMS II.3
+- [Grado GW100](./HMS%20II.3%20over-ear/Grado%20GW100) on HMS II.3
+- [Grado SR125e](./HMS%20II.3%20over-ear/Grado%20SR125e) on HMS II.3
+- [Grado SR225e](./HMS%20II.3%20over-ear/Grado%20SR225e) on HMS II.3
+- [Grado SR325e](./HMS%20II.3%20over-ear/Grado%20SR325e) on HMS II.3
+- [Grado SR60e](./HMS%20II.3%20over-ear/Grado%20SR60e) on HMS II.3
+- [Grado SR80e](./HMS%20II.3%20over-ear/Grado%20SR80e) on HMS II.3
+- [Grado The Hemp Headphone](./HMS%20II.3%20over-ear/Grado%20The%20Hemp%20Headphone) on HMS II.3
+- [HIFIMAN Ananda](./HMS%20II.3%20over-ear/HIFIMAN%20Ananda) on HMS II.3
+- [HIFIMAN Ananda BT](./HMS%20II.3%20over-ear/HIFIMAN%20Ananda%20BT) on HMS II.3
+- [HIFIMAN Arya](./HMS%20II.3%20over-ear/HIFIMAN%20Arya) on HMS II.3
+- [HIFIMAN Arya Stealth Magnet Version](./Bruel%20&%20Kjaer%205128%20over-ear/HIFIMAN%20Arya%20Stealth%20Magnet%20Version) on Bruel & Kjaer 5128
+- [HIFIMAN Edition X](./HMS%20II.3%20over-ear/HIFIMAN%20Edition%20X) on HMS II.3
+- [HIFIMAN Edition XS](./Bruel%20&%20Kjaer%205128%20over-ear/HIFIMAN%20Edition%20XS) on Bruel & Kjaer 5128
+- [HIFIMAN HE400i](./HMS%20II.3%20over-ear/HIFIMAN%20HE400i) on HMS II.3
+- [HIFIMAN HE400se](./HMS%20II.3%20over-ear/HIFIMAN%20HE400se) on HMS II.3
+- [HIFIMAN Sundara (post-2020 earpads)](./Bruel%20&%20Kjaer%205128%20over-ear/HIFIMAN%20Sundara%20(post-2020%20earpads)) on Bruel & Kjaer 5128
+- [HIFIMAN Sundara (pre-2020 earpads)](./HMS%20II.3%20over-ear/HIFIMAN%20Sundara%20(pre-2020%20earpads)) on HMS II.3
+- [HyperX Cloud Alpha](./HMS%20II.3%20over-ear/HyperX%20Cloud%20Alpha) on HMS II.3
+- [HyperX Cloud Alpha S](./HMS%20II.3%20over-ear/HyperX%20Cloud%20Alpha%20S) on HMS II.3
+- [HyperX Cloud Alpha Wireless](./HMS%20II.3%20over-ear/HyperX%20Cloud%20Alpha%20Wireless) on HMS II.3
+- [HyperX Cloud Core](./HMS%20II.3%20over-ear/HyperX%20Cloud%20Core) on HMS II.3
+- [HyperX Cloud Flight](./HMS%20II.3%20over-ear/HyperX%20Cloud%20Flight) on HMS II.3
+- [HyperX Cloud Flight S](./HMS%20II.3%20over-ear/HyperX%20Cloud%20Flight%20S) on HMS II.3
+- [HyperX Cloud II](./HMS%20II.3%20over-ear/HyperX%20Cloud%20II) on HMS II.3
+- [HyperX Cloud II Wireless](./HMS%20II.3%20over-ear/HyperX%20Cloud%20II%20Wireless) on HMS II.3
+- [HyperX Cloud III](./HMS%20II.3%20over-ear/HyperX%20Cloud%20III) on HMS II.3
+- [HyperX Cloud III Wireless](./Bruel%20&%20Kjaer%205128%20over-ear/HyperX%20Cloud%20III%20Wireless) on Bruel & Kjaer 5128
+- [HyperX Cloud Mix](./HMS%20II.3%20over-ear/HyperX%20Cloud%20Mix) on HMS II.3
+- [HyperX Cloud Revolver](./HMS%20II.3%20over-ear/HyperX%20Cloud%20Revolver) on HMS II.3
+- [HyperX Cloud Revolver + 7.1](./HMS%20II.3%20over-ear/HyperX%20Cloud%20Revolver%20+%207.1) on HMS II.3
+- [HyperX Cloud Stinger](./HMS%20II.3%20over-ear/HyperX%20Cloud%20Stinger) on HMS II.3
+- [HyperX Cloud Stinger 2](./HMS%20II.3%20over-ear/HyperX%20Cloud%20Stinger%202) on HMS II.3
+- [HyperX Cloud Stinger S](./HMS%20II.3%20over-ear/HyperX%20Cloud%20Stinger%20S) on HMS II.3
+- [iClever Boostcare](./HMS%20II.3%20over-ear/iClever%20Boostcare) on HMS II.3
+- [iClever BTH02](./HMS%20II.3%20over-ear/iClever%20BTH02) on HMS II.3
+- [Insignia Digital Wireless Headphones](./HMS%20II.3%20over-ear/Insignia%20Digital%20Wireless%20Headphones) on HMS II.3
+- [Jabra Elite 10](./Bruel%20&%20Kjaer%205128%20in-ear/Jabra%20Elite%2010) on Bruel & Kjaer 5128
+- [Jabra Elite 10 Gen 2](./Bruel%20&%20Kjaer%205128%20in-ear/Jabra%20Elite%2010%20Gen%202) on Bruel & Kjaer 5128
+- [Jabra Elite 25e](./HMS%20II.3%20in-ear/Jabra%20Elite%2025e) on HMS II.3
+- [Jabra Elite 3](./HMS%20II.3%20in-ear/Jabra%20Elite%203) on HMS II.3
+- [Jabra Elite 4](./HMS%20II.3%20in-ear/Jabra%20Elite%204) on HMS II.3
+- [Jabra Elite 4 Active](./HMS%20II.3%20in-ear/Jabra%20Elite%204%20Active) on HMS II.3
+- [Jabra Elite 45e](./HMS%20II.3%20in-ear/Jabra%20Elite%2045e) on HMS II.3
+- [Jabra Elite 5](./HMS%20II.3%20in-ear/Jabra%20Elite%205) on HMS II.3
+- [Jabra Elite 65e](./HMS%20II.3%20in-ear/Jabra%20Elite%2065e) on HMS II.3
+- [Jabra Elite 65t](./HMS%20II.3%20in-ear/Jabra%20Elite%2065t) on HMS II.3
+- [Jabra Elite 7 Active](./HMS%20II.3%20in-ear/Jabra%20Elite%207%20Active) on HMS II.3
+- [Jabra Elite 7 Pro](./HMS%20II.3%20in-ear/Jabra%20Elite%207%20Pro) on HMS II.3
+- [Jabra Elite 75t](./HMS%20II.3%20in-ear/Jabra%20Elite%2075t) on HMS II.3
+- [Jabra Elite 8 Active](./Bruel%20&%20Kjaer%205128%20in-ear/Jabra%20Elite%208%20Active) on Bruel & Kjaer 5128
+- [Jabra Elite 8 Active Gen 2](./Bruel%20&%20Kjaer%205128%20in-ear/Jabra%20Elite%208%20Active%20Gen%202) on Bruel & Kjaer 5128
+- [Jabra Elite 85h](./HMS%20II.3%20over-ear/Jabra%20Elite%2085h) on HMS II.3
+- [Jabra Elite 85t](./HMS%20II.3%20in-ear/Jabra%20Elite%2085t) on HMS II.3
+- [Jabra Elite Active 45e](./HMS%20II.3%20in-ear/Jabra%20Elite%20Active%2045e) on HMS II.3
+- [Jabra Elite Active 65t](./HMS%20II.3%20in-ear/Jabra%20Elite%20Active%2065t) on HMS II.3
+- [Jabra Elite Active 75t](./HMS%20II.3%20in-ear/Jabra%20Elite%20Active%2075t) on HMS II.3
+- [Jabra Elite Sport](./HMS%20II.3%20in-ear/Jabra%20Elite%20Sport) on HMS II.3
+- [Jabra Evolve 65t](./HMS%20II.3%20in-ear/Jabra%20Evolve%2065t) on HMS II.3
+- [Jabra Evolve2 65](./HMS%20II.3%20over-ear/Jabra%20Evolve2%2065) on HMS II.3
+- [Jabra Evolve2 85](./HMS%20II.3%20over-ear/Jabra%20Evolve2%2085) on HMS II.3
+- [Jabra Steel](./HMS%20II.3%20earbud/Jabra%20Steel) on HMS II.3
+- [Jabra Talk 45](./HMS%20II.3%20earbud/Jabra%20Talk%2045) on HMS II.3
+- [Jaybird Freedom 2](./HMS%20II.3%20in-ear/Jaybird%20Freedom%202) on HMS II.3
+- [Jaybird Freedom F5 (2016)](./HMS%20II.3%20in-ear/Jaybird%20Freedom%20F5%20(2016)) on HMS II.3
+- [Jaybird Run](./HMS%20II.3%20in-ear/Jaybird%20Run) on HMS II.3
+- [Jaybird Run XT](./HMS%20II.3%20in-ear/Jaybird%20Run%20XT) on HMS II.3
+- [Jaybird Tarah](./HMS%20II.3%20in-ear/Jaybird%20Tarah) on HMS II.3
+- [Jaybird Tarah Pro](./HMS%20II.3%20in-ear/Jaybird%20Tarah%20Pro) on HMS II.3
+- [Jaybird Vista](./HMS%20II.3%20in-ear/Jaybird%20Vista) on HMS II.3
+- [Jaybird Vista 2](./HMS%20II.3%20in-ear/Jaybird%20Vista%202) on HMS II.3
+- [Jaybird X2](./HMS%20II.3%20in-ear/Jaybird%20X2) on HMS II.3
+- [Jaybird X3](./HMS%20II.3%20in-ear/Jaybird%20X3) on HMS II.3
+- [Jaybird X4](./HMS%20II.3%20in-ear/Jaybird%20X4) on HMS II.3
+- [JBL CLUB 700BT](./HMS%20II.3%20over-ear/JBL%20CLUB%20700BT) on HMS II.3
+- [JBL CLUB 950NC](./HMS%20II.3%20over-ear/JBL%20CLUB%20950NC) on HMS II.3
+- [JBL CLUB ONE](./HMS%20II.3%20over-ear/JBL%20CLUB%20ONE) on HMS II.3
+- [JBL CLUB PRO Plus TWS](./HMS%20II.3%20in-ear/JBL%20CLUB%20PRO%20Plus%20TWS) on HMS II.3
+- [JBL E25BT](./HMS%20II.3%20in-ear/JBL%20E25BT) on HMS II.3
+- [JBL E45BT](./HMS%20II.3%20over-ear/JBL%20E45BT) on HMS II.3
+- [JBL E55BT](./HMS%20II.3%20over-ear/JBL%20E55BT) on HMS II.3
+- [JBL E65BTNC](./HMS%20II.3%20over-ear/JBL%20E65BTNC) on HMS II.3
+- [JBL Endurance Dive](./HMS%20II.3%20in-ear/JBL%20Endurance%20Dive) on HMS II.3
+- [JBL Endurance Peak](./HMS%20II.3%20in-ear/JBL%20Endurance%20Peak) on HMS II.3
+- [JBL Endurance Peak 3](./HMS%20II.3%20in-ear/JBL%20Endurance%20Peak%203) on HMS II.3
+- [JBL Endurance Peak II](./HMS%20II.3%20in-ear/JBL%20Endurance%20Peak%20II) on HMS II.3
+- [JBL Endurance Sprint](./HMS%20II.3%20in-ear/JBL%20Endurance%20Sprint) on HMS II.3
+- [JBL Everest 110](./HMS%20II.3%20in-ear/JBL%20Everest%20110) on HMS II.3
+- [JBL Everest 310](./HMS%20II.3%20over-ear/JBL%20Everest%20310) on HMS II.3
+- [JBL Everest 710](./HMS%20II.3%20over-ear/JBL%20Everest%20710) on HMS II.3
+- [JBL Everest Elite 700](./HMS%20II.3%20over-ear/JBL%20Everest%20Elite%20700) on HMS II.3
+- [JBL Free 2018](./HMS%20II.3%20in-ear/JBL%20Free%202018) on HMS II.3
+- [JBL Free X](./HMS%20II.3%20in-ear/JBL%20Free%20X) on HMS II.3
+- [JBL JR300BT](./HMS%20II.3%20over-ear/JBL%20JR300BT) on HMS II.3
+- [JBL Live 200BT](./HMS%20II.3%20in-ear/JBL%20Live%20200BT) on HMS II.3
+- [JBL Live 300TWS](./HMS%20II.3%20in-ear/JBL%20Live%20300TWS) on HMS II.3
+- [JBL Live 400BT](./HMS%20II.3%20over-ear/JBL%20Live%20400BT) on HMS II.3
+- [JBL Live 460NC](./HMS%20II.3%20over-ear/JBL%20Live%20460NC) on HMS II.3
+- [JBL Live 500BT](./HMS%20II.3%20over-ear/JBL%20Live%20500BT) on HMS II.3
+- [JBL Live 650BTNC](./HMS%20II.3%20over-ear/JBL%20Live%20650BTNC) on HMS II.3
+- [JBL Live 660NC](./HMS%20II.3%20over-ear/JBL%20Live%20660NC) on HMS II.3
+- [JBL Live 670NC](./Bruel%20&%20Kjaer%205128%20over-ear/JBL%20Live%20670NC) on Bruel & Kjaer 5128
+- [JBL Live 770NC](./Bruel%20&%20Kjaer%205128%20over-ear/JBL%20Live%20770NC) on Bruel & Kjaer 5128
+- [JBL Live Free NC+ TWS](./HMS%20II.3%20in-ear/JBL%20Live%20Free%20NC+%20TWS) on HMS II.3
+- [JBL Live Pro 2 TWS](./HMS%20II.3%20in-ear/JBL%20Live%20Pro%202%20TWS) on HMS II.3
+- [JBL Live Pro+ TWS](./HMS%20II.3%20in-ear/JBL%20Live%20Pro+%20TWS) on HMS II.3
+- [JBL Quantum 100](./HMS%20II.3%20over-ear/JBL%20Quantum%20100) on HMS II.3
+- [JBL Quantum 400](./HMS%20II.3%20over-ear/JBL%20Quantum%20400) on HMS II.3
+- [JBL Quantum 800](./HMS%20II.3%20over-ear/JBL%20Quantum%20800) on HMS II.3
+- [JBL Quantum ONE](./HMS%20II.3%20over-ear/JBL%20Quantum%20ONE) on HMS II.3
+- [JBL Reflect Flow](./HMS%20II.3%20in-ear/JBL%20Reflect%20Flow) on HMS II.3
+- [JBL Reflect Mini 2](./HMS%20II.3%20in-ear/JBL%20Reflect%20Mini%202) on HMS II.3
+- [JBL Synchros E50BT](./HMS%20II.3%20over-ear/JBL%20Synchros%20E50BT) on HMS II.3
+- [JBL T450BT](./HMS%20II.3%20over-ear/JBL%20T450BT) on HMS II.3
+- [JBL Tour One](./HMS%20II.3%20over-ear/JBL%20Tour%20One) on HMS II.3
+- [JBL Tour Pro+ TWS](./HMS%20II.3%20in-ear/JBL%20Tour%20Pro+%20TWS) on HMS II.3
+- [JBL TUNE 120TWS](./HMS%20II.3%20in-ear/JBL%20TUNE%20120TWS) on HMS II.3
+- [JBL Tune 125TWS](./HMS%20II.3%20in-ear/JBL%20Tune%20125TWS) on HMS II.3
+- [JBL Tune 130NC TWS](./HMS%20II.3%20in-ear/JBL%20Tune%20130NC%20TWS) on HMS II.3
+- [JBL TUNE 220TWS](./HMS%20II.3%20in-ear/JBL%20TUNE%20220TWS) on HMS II.3
+- [JBL Tune 225TWS](./HMS%20II.3%20in-ear/JBL%20Tune%20225TWS) on HMS II.3
+- [JBL Tune 230NC TWS](./HMS%20II.3%20in-ear/JBL%20Tune%20230NC%20TWS) on HMS II.3
+- [JBL Tune 510BT](./HMS%20II.3%20over-ear/JBL%20Tune%20510BT) on HMS II.3
+- [JBL Tune 520BT](./Bruel%20&%20Kjaer%205128%20over-ear/JBL%20Tune%20520BT) on Bruel & Kjaer 5128
+- [JBL Tune 660NC](./HMS%20II.3%20over-ear/JBL%20Tune%20660NC) on HMS II.3
+- [JBL TUNE 750BTNC](./HMS%20II.3%20over-ear/JBL%20TUNE%20750BTNC) on HMS II.3
+- [JBL Tune 760NC](./Bruel%20&%20Kjaer%205128%20over-ear/JBL%20Tune%20760NC) on Bruel & Kjaer 5128
+- [JBL Tune 770NC](./Bruel%20&%20Kjaer%205128%20over-ear/JBL%20Tune%20770NC) on Bruel & Kjaer 5128
+- [JBL Tune Buds](./Bruel%20&%20Kjaer%205128%20in-ear/JBL%20Tune%20Buds) on Bruel & Kjaer 5128
+- [JBL Tune Flex](./HMS%20II.3%20in-ear/JBL%20Tune%20Flex) on HMS II.3
+- [JBL Vibe 100TWS](./HMS%20II.3%20in-ear/JBL%20Vibe%20100TWS) on HMS II.3
+- [JBL Vibe Beam](./Bruel%20&%20Kjaer%205128%20in-ear/JBL%20Vibe%20Beam) on Bruel & Kjaer 5128
+- [JBL Vibe Buds](./Bruel%20&%20Kjaer%205128%20in-ear/JBL%20Vibe%20Buds) on Bruel & Kjaer 5128
+- [JLab Audio GO Air POP](./HMS%20II.3%20in-ear/JLab%20Audio%20GO%20Air%20POP) on HMS II.3
+- [JLab Audio JBuds Air](./HMS%20II.3%20in-ear/JLab%20Audio%20JBuds%20Air) on HMS II.3
+- [JLab Audio JBuds Air ANC](./HMS%20II.3%20in-ear/JLab%20Audio%20JBuds%20Air%20ANC) on HMS II.3
+- [JLab Audio JBuds Air Executive](./HMS%20II.3%20in-ear/JLab%20Audio%20JBuds%20Air%20Executive) on HMS II.3
+- [JLab Audio JBuds ANC 3](./HMS%20II.3%20in-ear/JLab%20Audio%20JBuds%20ANC%203) on HMS II.3
+- [Klipsch T5 II True Wireless ANC](./HMS%20II.3%20in-ear/Klipsch%20T5%20II%20True%20Wireless%20ANC) on HMS II.3
+- [Klipsch T5 II True Wireless Sport](./HMS%20II.3%20in-ear/Klipsch%20T5%20II%20True%20Wireless%20Sport) on HMS II.3
+- [Klipsch T5 True Wireless](./HMS%20II.3%20in-ear/Klipsch%20T5%20True%20Wireless) on HMS II.3
+- [Koss KSC75](./HMS%20II.3%20over-ear/Koss%20KSC75) on HMS II.3
+- [Koss Porta Pro KTC](./HMS%20II.3%20over-ear/Koss%20Porta%20Pro%20KTC) on HMS II.3
+- [Koss Porta Pro Wireless](./HMS%20II.3%20over-ear/Koss%20Porta%20Pro%20Wireless) on HMS II.3
+- [Koss QZPro](./HMS%20II.3%20over-ear/Koss%20QZPro) on HMS II.3
+- [Koss UR20](./HMS%20II.3%20over-ear/Koss%20UR20) on HMS II.3
+- [KZ AS10](./HMS%20II.3%20in-ear/KZ%20AS10) on HMS II.3
+- [KZ ZS10](./HMS%20II.3%20in-ear/KZ%20ZS10) on HMS II.3
+- [KZ ZSN](./HMS%20II.3%20in-ear/KZ%20ZSN) on HMS II.3
+- [KZ ZST](./HMS%20II.3%20in-ear/KZ%20ZST) on HMS II.3
+- [Logitech G Pro Gaming Headset](./HMS%20II.3%20over-ear/Logitech%20G%20Pro%20Gaming%20Headset) on HMS II.3
+- [Logitech G PRO X 2 LIGHTSPEED](./Bruel%20&%20Kjaer%205128%20over-ear/Logitech%20G%20PRO%20X%202%20LIGHTSPEED) on Bruel & Kjaer 5128
+- [Logitech G Pro X Gaming Headset](./HMS%20II.3%20over-ear/Logitech%20G%20Pro%20X%20Gaming%20Headset) on HMS II.3
+- [Logitech G PRO X LIGHTSPEED](./HMS%20II.3%20over-ear/Logitech%20G%20PRO%20X%20LIGHTSPEED) on HMS II.3
+- [Logitech G333](./HMS%20II.3%20in-ear/Logitech%20G333) on HMS II.3
+- [Logitech G335](./HMS%20II.3%20over-ear/Logitech%20G335) on HMS II.3
+- [Logitech G430](./HMS%20II.3%20over-ear/Logitech%20G430) on HMS II.3
+- [Logitech G432](./HMS%20II.3%20over-ear/Logitech%20G432) on HMS II.3
+- [Logitech G433](./HMS%20II.3%20over-ear/Logitech%20G433) on HMS II.3
+- [Logitech G435 LIGHTSPEED](./HMS%20II.3%20over-ear/Logitech%20G435%20LIGHTSPEED) on HMS II.3
+- [Logitech G533](./HMS%20II.3%20over-ear/Logitech%20G533) on HMS II.3
+- [Logitech G535 LIGHTSPEED](./Bruel%20&%20Kjaer%205128%20over-ear/Logitech%20G535%20LIGHTSPEED) on Bruel & Kjaer 5128
+- [Logitech G635](./HMS%20II.3%20over-ear/Logitech%20G635) on HMS II.3
+- [Logitech G733 LIGHTSPEED](./HMS%20II.3%20over-ear/Logitech%20G733%20LIGHTSPEED) on HMS II.3
+- [Logitech G735](./HMS%20II.3%20over-ear/Logitech%20G735) on HMS II.3
+- [Logitech G930](./HMS%20II.3%20over-ear/Logitech%20G930) on HMS II.3
+- [Logitech G933](./HMS%20II.3%20over-ear/Logitech%20G933) on HMS II.3
+- [Logitech G935](./HMS%20II.3%20over-ear/Logitech%20G935) on HMS II.3
+- [Logitech Zone Wired](./HMS%20II.3%20over-ear/Logitech%20Zone%20Wired) on HMS II.3
+- [LucidSound LS31](./HMS%20II.3%20over-ear/LucidSound%20LS31) on HMS II.3
+- [Marshall Major II](./HMS%20II.3%20over-ear/Marshall%20Major%20II) on HMS II.3
+- [Marshall MID ANC](./HMS%20II.3%20over-ear/Marshall%20MID%20ANC) on HMS II.3
+- [Massdrop Panda](./HMS%20II.3%20over-ear/Massdrop%20Panda) on HMS II.3
+- [MEE Audio M6 Pro](./HMS%20II.3%20in-ear/MEE%20Audio%20M6%20Pro) on HMS II.3
+- [MEE Audio M9B](./HMS%20II.3%20in-ear/MEE%20Audio%20M9B) on HMS II.3
+- [MEE Audio Sport-Fi M6](./HMS%20II.3%20in-ear/MEE%20Audio%20Sport-Fi%20M6) on HMS II.3
+- [MEE Audio X6 Plus](./HMS%20II.3%20in-ear/MEE%20Audio%20X6%20Plus) on HMS II.3
+- [MEE Audio X7](./HMS%20II.3%20in-ear/MEE%20Audio%20X7) on HMS II.3
+- [Meze Empyrean](./HMS%20II.3%20over-ear/Meze%20Empyrean) on HMS II.3
+- [Microsoft Surface Earbuds](./HMS%20II.3%20earbud/Microsoft%20Surface%20Earbuds) on HMS II.3
+- [Microsoft Surface Headphones](./HMS%20II.3%20over-ear/Microsoft%20Surface%20Headphones) on HMS II.3
+- [Microsoft Surface Headphones 2](./HMS%20II.3%20over-ear/Microsoft%20Surface%20Headphones%202) on HMS II.3
+- [Mixcder E9](./HMS%20II.3%20over-ear/Mixcder%20E9) on HMS II.3
+- [Monoprice 110010](./HMS%20II.3%20over-ear/Monoprice%20110010) on HMS II.3
+- [Monster Clarity 101 AirLinks](./HMS%20II.3%20in-ear/Monster%20Clarity%20101%20AirLinks) on HMS II.3
+- [Moondrop Aria](./HMS%20II.3%20in-ear/Moondrop%20Aria) on HMS II.3
+- [Moondrop Blessing 3](./Bruel%20&%20Kjaer%205128%20in-ear/Moondrop%20Blessing%203) on Bruel & Kjaer 5128
+- [Moondrop KATO](./HMS%20II.3%20in-ear/Moondrop%20KATO) on HMS II.3
+- [Moondrop x Crinacle DUSK](./Bruel%20&%20Kjaer%205128%20in-ear/Moondrop%20x%20Crinacle%20DUSK) on Bruel & Kjaer 5128
+- [Motorola Squads 200](./HMS%20II.3%20over-ear/Motorola%20Squads%20200) on HMS II.3
+- [Mpow 059](./HMS%20II.3%20over-ear/Mpow%20059) on HMS II.3
+- [Mpow CH1](./HMS%20II.3%20over-ear/Mpow%20CH1) on HMS II.3
+- [Mpow CH6](./HMS%20II.3%20over-ear/Mpow%20CH6) on HMS II.3
+- [Mpow CH9](./HMS%20II.3%20over-ear/Mpow%20CH9) on HMS II.3
+- [Mpow EM12](./HMS%20II.3%20in-ear/Mpow%20EM12) on HMS II.3
+- [Mpow Flame Pro](./HMS%20II.3%20in-ear/Mpow%20Flame%20Pro) on HMS II.3
+- [Mpow H10](./HMS%20II.3%20over-ear/Mpow%20H10) on HMS II.3
+- [Mpow H5](./HMS%20II.3%20over-ear/Mpow%20H5) on HMS II.3
+- [Mpow Jaws (4.1)](./HMS%20II.3%20in-ear/Mpow%20Jaws%20(4.1)) on HMS II.3
+- [Mpow M30](./HMS%20II.3%20in-ear/Mpow%20M30) on HMS II.3
+- [Mpow MDots](./HMS%20II.3%20in-ear/Mpow%20MDots) on HMS II.3
+- [Mpow Pro Trucker](./HMS%20II.3%20over-ear/Mpow%20Pro%20Trucker) on HMS II.3
+- [Mpow X3](./HMS%20II.3%20in-ear/Mpow%20X3) on HMS II.3
+- [Mpow X5](./HMS%20II.3%20in-ear/Mpow%20X5) on HMS II.3
+- [Mpow X6](./HMS%20II.3%20in-ear/Mpow%20X6) on HMS II.3
+- [NAD VISO HP50](./HMS%20II.3%20over-ear/NAD%20VISO%20HP50) on HMS II.3
+- [Nothing ear](./Bruel%20&%20Kjaer%205128%20in-ear/Nothing%20ear) on Bruel & Kjaer 5128
+- [Nothing ear (1)](./HMS%20II.3%20in-ear/Nothing%20ear%20(1)) on HMS II.3
+- [Nothing ear (2)](./HMS%20II.3%20in-ear/Nothing%20ear%20(2)) on HMS II.3
+- [Nothing ear (a)](./Bruel%20&%20Kjaer%205128%20in-ear/Nothing%20ear%20(a)) on Bruel & Kjaer 5128
+- [Nothing ear (stick)](./HMS%20II.3%20in-ear/Nothing%20ear%20(stick)) on HMS II.3
+- [Nura NuraLoop](./HMS%20II.3%20in-ear/Nura%20NuraLoop) on HMS II.3
+- [Nura Nuraphone](./HMS%20II.3%20over-ear/Nura%20Nuraphone) on HMS II.3
+- [OnePlus Buds](./HMS%20II.3%20in-ear/OnePlus%20Buds) on HMS II.3
+- [OnePlus Buds 3](./Bruel%20&%20Kjaer%205128%20in-ear/OnePlus%20Buds%203) on Bruel & Kjaer 5128
+- [OnePlus Buds Pro](./HMS%20II.3%20in-ear/OnePlus%20Buds%20Pro) on HMS II.3
+- [OnePlus Buds Pro 2](./HMS%20II.3%20in-ear/OnePlus%20Buds%20Pro%202) on HMS II.3
+- [OnePlus Buds Z](./HMS%20II.3%20in-ear/OnePlus%20Buds%20Z) on HMS II.3
+- [Oppo PM3](./HMS%20II.3%20over-ear/Oppo%20PM3) on HMS II.3
+- [Panasonic RP-HC101](./HMS%20II.3%20over-ear/Panasonic%20RP-HC101) on HMS II.3
+- [Panasonic RP-HC800](./HMS%20II.3%20over-ear/Panasonic%20RP-HC800) on HMS II.3
+- [Panasonic RP-HJE120](./HMS%20II.3%20in-ear/Panasonic%20RP-HJE120) on HMS II.3
+- [Parrot Zik 2.0](./HMS%20II.3%20over-ear/Parrot%20Zik%202.0) on HMS II.3
+- [Parrot Zik 3.0](./HMS%20II.3%20over-ear/Parrot%20Zik%203.0) on HMS II.3
+- [Philips Fidelio NC1](./HMS%20II.3%20over-ear/Philips%20Fidelio%20NC1) on HMS II.3
+- [Philips Fidelio X2HR](./Bruel%20&%20Kjaer%205128%20over-ear/Philips%20Fidelio%20X2HR) on Bruel & Kjaer 5128
+- [Philips Fidelio X3](./HMS%20II.3%20over-ear/Philips%20Fidelio%20X3) on HMS II.3
+- [Philips SHP9500](./Bruel%20&%20Kjaer%205128%20over-ear/Philips%20SHP9500) on Bruel & Kjaer 5128
+- [Philips SHP9600](./HMS%20II.3%20over-ear/Philips%20SHP9600) on HMS II.3
+- [Pioneer DJ HDJ-CUE1BT](./HMS%20II.3%20over-ear/Pioneer%20DJ%20HDJ-CUE1BT) on HMS II.3
+- [Plantronics BackBeat Fit](./HMS%20II.3%20earbud/Plantronics%20BackBeat%20Fit) on HMS II.3
+- [Plantronics BackBeat Go 600](./HMS%20II.3%20over-ear/Plantronics%20BackBeat%20Go%20600) on HMS II.3
+- [Plantronics Backbeat Go 810](./HMS%20II.3%20over-ear/Plantronics%20Backbeat%20Go%20810) on HMS II.3
+- [Plantronics Backbeat Pro](./HMS%20II.3%20over-ear/Plantronics%20Backbeat%20Pro) on HMS II.3
+- [Plantronics BackBeat Pro 2](./HMS%20II.3%20over-ear/Plantronics%20BackBeat%20Pro%202) on HMS II.3
+- [Plantronics RIG 800LX](./HMS%20II.3%20over-ear/Plantronics%20RIG%20800LX) on HMS II.3
+- [Plantronics Voyager 3200](./HMS%20II.3%20earbud/Plantronics%20Voyager%203200) on HMS II.3
+- [Plantronics Voyager 5200](./HMS%20II.3%20earbud/Plantronics%20Voyager%205200) on HMS II.3
+- [Plantronics Voyager Legend](./HMS%20II.3%20earbud/Plantronics%20Voyager%20Legend) on HMS II.3
+- [Polk Audio Buckle](./HMS%20II.3%20over-ear/Polk%20Audio%20Buckle) on HMS II.3
+- [Polk Audio UltraFocus 8000](./HMS%20II.3%20over-ear/Polk%20Audio%20UltraFocus%208000) on HMS II.3
+- [Puro JuniorJams](./HMS%20II.3%20over-ear/Puro%20JuniorJams) on HMS II.3
+- [Raycon E100](./HMS%20II.3%20in-ear/Raycon%20E100) on HMS II.3
+- [Raycon E25](./HMS%20II.3%20in-ear/Raycon%20E25) on HMS II.3
+- [Raycon E50](./HMS%20II.3%20in-ear/Raycon%20E50) on HMS II.3
+- [Raycon E55](./HMS%20II.3%20in-ear/Raycon%20E55) on HMS II.3
+- [Raycon The Fitness Earbuds (2021 Edition)](./HMS%20II.3%20in-ear/Raycon%20The%20Fitness%20Earbuds%20(2021%20Edition)) on HMS II.3
+- [Razer Barracuda](./HMS%20II.3%20over-ear/Razer%20Barracuda) on HMS II.3
+- [Razer Barracuda Pro](./HMS%20II.3%20over-ear/Razer%20Barracuda%20Pro) on HMS II.3
+- [Razer Barracuda X (2021)](./HMS%20II.3%20over-ear/Razer%20Barracuda%20X%20(2021)) on HMS II.3
+- [Razer BlackShark V2](./HMS%20II.3%20over-ear/Razer%20BlackShark%20V2) on HMS II.3
+- [Razer BlackShark V2 HyperSpeed](./Bruel%20&%20Kjaer%205128%20over-ear/Razer%20BlackShark%20V2%20HyperSpeed) on Bruel & Kjaer 5128
+- [Razer BlackShark V2 Pro](./HMS%20II.3%20over-ear/Razer%20BlackShark%20V2%20Pro) on HMS II.3
+- [Razer BlackShark V2 Pro 2023](./HMS%20II.3%20over-ear/Razer%20BlackShark%20V2%20Pro%202023) on HMS II.3
+- [Razer BlackShark V2 X](./HMS%20II.3%20over-ear/Razer%20BlackShark%20V2%20X) on HMS II.3
+- [Razer Hammerhead Pro HyperSpeed](./HMS%20II.3%20in-ear/Razer%20Hammerhead%20Pro%20HyperSpeed) on HMS II.3
+- [Razer Hammerhead True Wireless (2019)](./HMS%20II.3%20in-ear/Razer%20Hammerhead%20True%20Wireless%20(2019)) on HMS II.3
+- [Razer Hammerhead True Wireless (2021)](./HMS%20II.3%20in-ear/Razer%20Hammerhead%20True%20Wireless%20(2021)) on HMS II.3
+- [Razer Hammerhead True Wireless Pro](./HMS%20II.3%20in-ear/Razer%20Hammerhead%20True%20Wireless%20Pro) on HMS II.3
+- [Razer Hammerhead USB-C ANC](./HMS%20II.3%20in-ear/Razer%20Hammerhead%20USB-C%20ANC) on HMS II.3
+- [Razer Kaira Pro](./HMS%20II.3%20over-ear/Razer%20Kaira%20Pro) on HMS II.3
+- [Razer Kaira X](./HMS%20II.3%20over-ear/Razer%20Kaira%20X) on HMS II.3
+- [Razer Kraken Pro V2](./HMS%20II.3%20over-ear/Razer%20Kraken%20Pro%20V2) on HMS II.3
+- [Razer Kraken Tournament Edition](./HMS%20II.3%20over-ear/Razer%20Kraken%20Tournament%20Edition) on HMS II.3
+- [Razer Kraken Ultimate](./HMS%20II.3%20over-ear/Razer%20Kraken%20Ultimate) on HMS II.3
+- [Razer Kraken USB](./HMS%20II.3%20over-ear/Razer%20Kraken%20USB) on HMS II.3
+- [Razer Kraken V3](./HMS%20II.3%20over-ear/Razer%20Kraken%20V3) on HMS II.3
+- [Razer Kraken V3 HyperSense](./HMS%20II.3%20over-ear/Razer%20Kraken%20V3%20HyperSense) on HMS II.3
+- [Razer Kraken V3 Pro](./HMS%20II.3%20over-ear/Razer%20Kraken%20V3%20Pro) on HMS II.3
+- [Razer Kraken V3 X](./HMS%20II.3%20over-ear/Razer%20Kraken%20V3%20X) on HMS II.3
+- [Razer Kraken X](./HMS%20II.3%20over-ear/Razer%20Kraken%20X) on HMS II.3
+- [Razer Man O'War](./HMS%20II.3%20over-ear/Razer%20Man%20O'War) on HMS II.3
+- [Razer Moray](./HMS%20II.3%20in-ear/Razer%20Moray) on HMS II.3
+- [Razer Nari Ultimate](./HMS%20II.3%20over-ear/Razer%20Nari%20Ultimate) on HMS II.3
+- [Razer Opus 2020](./HMS%20II.3%20over-ear/Razer%20Opus%202020) on HMS II.3
+- [Razer Opus 2021](./HMS%20II.3%20over-ear/Razer%20Opus%202021) on HMS II.3
+- [Razer Opus X](./HMS%20II.3%20over-ear/Razer%20Opus%20X) on HMS II.3
+- [RHA TrueConnect](./HMS%20II.3%20in-ear/RHA%20TrueConnect) on HMS II.3
+- [ROCCAT Elo 7.1 Air](./HMS%20II.3%20over-ear/ROCCAT%20Elo%207.1%20Air) on HMS II.3
+- [ROCCAT Syn Pro Air](./HMS%20II.3%20over-ear/ROCCAT%20Syn%20Pro%20Air) on HMS II.3
+- [RUNMUS RGB K1 Gaming Headset](./HMS%20II.3%20over-ear/RUNMUS%20RGB%20K1%20Gaming%20Headset) on HMS II.3
+- [RØDE NTH-100M](./HMS%20II.3%20over-ear/R%C3%98DE%20NTH-100M) on HMS II.3
+- [Sabbat E12](./HMS%20II.3%20in-ear/Sabbat%20E12) on HMS II.3
+- [Samson SR850](./HMS%20II.3%20over-ear/Samson%20SR850) on HMS II.3
+- [Samsung AKG EO-IG955 Type-C](./HMS%20II.3%20in-ear/Samsung%20AKG%20EO-IG955%20Type-C) on HMS II.3
+- [Samsung Galaxy Buds](./HMS%20II.3%20in-ear/Samsung%20Galaxy%20Buds) on HMS II.3
+- [Samsung Galaxy Buds FE](./Bruel%20&%20Kjaer%205128%20in-ear/Samsung%20Galaxy%20Buds%20FE) on Bruel & Kjaer 5128
+- [Samsung Galaxy Buds Live](./HMS%20II.3%20earbud/Samsung%20Galaxy%20Buds%20Live) on HMS II.3
+- [Samsung Galaxy Buds Plus](./HMS%20II.3%20in-ear/Samsung%20Galaxy%20Buds%20Plus) on HMS II.3
+- [Samsung Galaxy Buds Pro](./HMS%20II.3%20in-ear/Samsung%20Galaxy%20Buds%20Pro) on HMS II.3
+- [Samsung Galaxy Buds2](./HMS%20II.3%20in-ear/Samsung%20Galaxy%20Buds2) on HMS II.3
+- [Samsung Galaxy Buds2 Pro](./Bruel%20&%20Kjaer%205128%20in-ear/Samsung%20Galaxy%20Buds2%20Pro) on Bruel & Kjaer 5128
+- [Samsung Galaxy Buds3](./Bruel%20&%20Kjaer%205128%20in-ear/Samsung%20Galaxy%20Buds3) on Bruel & Kjaer 5128
+- [Samsung Galaxy Buds3 Pro](./Bruel%20&%20Kjaer%205128%20in-ear/Samsung%20Galaxy%20Buds3%20Pro) on Bruel & Kjaer 5128
+- [Samsung Gear IconX](./HMS%20II.3%20over-ear/Samsung%20Gear%20IconX) on HMS II.3
+- [Samsung Level On Wireless](./HMS%20II.3%20over-ear/Samsung%20Level%20On%20Wireless) on HMS II.3
+- [Samsung Level Over Wireless](./HMS%20II.3%20over-ear/Samsung%20Level%20Over%20Wireless) on HMS II.3
+- [Samsung Level U Pro](./HMS%20II.3%20in-ear/Samsung%20Level%20U%20Pro) on HMS II.3
+- [Samsung U Flex](./HMS%20II.3%20in-ear/Samsung%20U%20Flex) on HMS II.3
+- [Sennheiser ACCENTUM](./Bruel%20&%20Kjaer%205128%20over-ear/Sennheiser%20ACCENTUM) on Bruel & Kjaer 5128
+- [Sennheiser ACCENTUM Plus](./Bruel%20&%20Kjaer%205128%20over-ear/Sennheiser%20ACCENTUM%20Plus) on Bruel & Kjaer 5128
+- [Sennheiser AMBEO Smart Headset](./HMS%20II.3%20in-ear/Sennheiser%20AMBEO%20Smart%20Headset) on HMS II.3
+- [Sennheiser CX 400BT](./HMS%20II.3%20over-ear/Sennheiser%20CX%20400BT) on HMS II.3
+- [Sennheiser CX Plus True Wireless](./HMS%20II.3%20in-ear/Sennheiser%20CX%20Plus%20True%20Wireless) on HMS II.3
+- [Sennheiser CX True Wireless](./HMS%20II.3%20in-ear/Sennheiser%20CX%20True%20Wireless) on HMS II.3
+- [Sennheiser CXC-700](./HMS%20II.3%20in-ear/Sennheiser%20CXC-700) on HMS II.3
+- [Sennheiser GAME ONE](./HMS%20II.3%20over-ear/Sennheiser%20GAME%20ONE) on HMS II.3
+- [Sennheiser HD 201](./HMS%20II.3%20over-ear/Sennheiser%20HD%20201) on HMS II.3
+- [Sennheiser HD 25](./Bruel%20&%20Kjaer%205128%20over-ear/Sennheiser%20HD%2025) on Bruel & Kjaer 5128
+- [Sennheiser HD 280 Pro](./HMS%20II.3%20over-ear/Sennheiser%20HD%20280%20Pro) on HMS II.3
+- [Sennheiser HD 4.40BT](./HMS%20II.3%20over-ear/Sennheiser%20HD%204.40BT) on HMS II.3
+- [Sennheiser HD 4.50 BTNC](./HMS%20II.3%20over-ear/Sennheiser%20HD%204.50%20BTNC) on HMS II.3
+- [Sennheiser HD 450BT](./HMS%20II.3%20over-ear/Sennheiser%20HD%20450BT) on HMS II.3
+- [Sennheiser HD 490 Pro](./Bruel%20&%20Kjaer%205128%20over-ear/Sennheiser%20HD%20490%20Pro) on Bruel & Kjaer 5128
+- [Sennheiser HD 518](./HMS%20II.3%20over-ear/Sennheiser%20HD%20518) on HMS II.3
+- [Sennheiser HD 560S](./Bruel%20&%20Kjaer%205128%20over-ear/Sennheiser%20HD%20560S) on Bruel & Kjaer 5128
+- [Sennheiser HD 58X](./HMS%20II.3%20over-ear/Sennheiser%20HD%2058X) on HMS II.3
+- [Sennheiser HD 598](./HMS%20II.3%20over-ear/Sennheiser%20HD%20598) on HMS II.3
+- [Sennheiser HD 598 CS](./HMS%20II.3%20over-ear/Sennheiser%20HD%20598%20CS) on HMS II.3
+- [Sennheiser HD 599](./HMS%20II.3%20over-ear/Sennheiser%20HD%20599) on HMS II.3
+- [Sennheiser HD 600](./Bruel%20&%20Kjaer%205128%20over-ear/Sennheiser%20HD%20600) on Bruel & Kjaer 5128
+- [Sennheiser HD 620S](./Bruel%20&%20Kjaer%205128%20over-ear/Sennheiser%20HD%20620S) on Bruel & Kjaer 5128
+- [Sennheiser HD 650](./HMS%20II.3%20over-ear/Sennheiser%20HD%20650) on HMS II.3
+- [Sennheiser HD 660 S](./HMS%20II.3%20over-ear/Sennheiser%20HD%20660%20S) on HMS II.3
+- [Sennheiser HD 660S2](./HMS%20II.3%20over-ear/Sennheiser%20HD%20660S2) on HMS II.3
+- [Sennheiser HD 6XX](./HMS%20II.3%20over-ear/Sennheiser%20HD%206XX) on HMS II.3
+- [Sennheiser HD 700](./HMS%20II.3%20over-ear/Sennheiser%20HD%20700) on HMS II.3
+- [Sennheiser HD 800 S](./Bruel%20&%20Kjaer%205128%20over-ear/Sennheiser%20HD%20800%20S) on Bruel & Kjaer 5128
+- [Sennheiser HD 820](./HMS%20II.3%20over-ear/Sennheiser%20HD%20820) on HMS II.3
+- [Sennheiser HD 8XX](./HMS%20II.3%20over-ear/Sennheiser%20HD%208XX) on HMS II.3
+- [Sennheiser HD1 In-Ear](./HMS%20II.3%20in-ear/Sennheiser%20HD1%20In-Ear) on HMS II.3
+- [Sennheiser HD1 In-Ear Wireless](./HMS%20II.3%20in-ear/Sennheiser%20HD1%20In-Ear%20Wireless) on HMS II.3
+- [Sennheiser HD1 On-Ear](./HMS%20II.3%20over-ear/Sennheiser%20HD1%20On-Ear) on HMS II.3
+- [Sennheiser HD1 Over-Ear](./HMS%20II.3%20over-ear/Sennheiser%20HD1%20Over-Ear) on HMS II.3
+- [Sennheiser HD1 Wireless](./HMS%20II.3%20over-ear/Sennheiser%20HD1%20Wireless) on HMS II.3
+- [Sennheiser IE 200](./Bruel%20&%20Kjaer%205128%20in-ear/Sennheiser%20IE%20200) on Bruel & Kjaer 5128
+- [Sennheiser IE 40 Pro](./HMS%20II.3%20in-ear/Sennheiser%20IE%2040%20Pro) on HMS II.3
+- [Sennheiser Momentum 3 Wireless](./HMS%20II.3%20over-ear/Sennheiser%20Momentum%203%20Wireless) on HMS II.3
+- [Sennheiser Momentum 4 Wireless](./Bruel%20&%20Kjaer%205128%20over-ear/Sennheiser%20Momentum%204%20Wireless) on Bruel & Kjaer 5128
+- [Sennheiser MOMENTUM Sport](./Bruel%20&%20Kjaer%205128%20in-ear/Sennheiser%20MOMENTUM%20Sport) on Bruel & Kjaer 5128
+- [Sennheiser Momentum True Wireless](./HMS%20II.3%20in-ear/Sennheiser%20Momentum%20True%20Wireless) on HMS II.3
+- [Sennheiser Momentum True Wireless 2](./HMS%20II.3%20in-ear/Sennheiser%20Momentum%20True%20Wireless%202) on HMS II.3
+- [Sennheiser Momentum True Wireless 3](./HMS%20II.3%20in-ear/Sennheiser%20Momentum%20True%20Wireless%203) on HMS II.3
+- [Sennheiser MOMENTUM True Wireless 4](./Bruel%20&%20Kjaer%205128%20in-ear/Sennheiser%20MOMENTUM%20True%20Wireless%204) on Bruel & Kjaer 5128
+- [Sennheiser PC38X](./Bruel%20&%20Kjaer%205128%20over-ear/Sennheiser%20PC38X) on Bruel & Kjaer 5128
+- [Sennheiser PXC 250 II](./HMS%20II.3%20over-ear/Sennheiser%20PXC%20250%20II) on HMS II.3
+- [Sennheiser PXC 550 Wireless](./HMS%20II.3%20over-ear/Sennheiser%20PXC%20550%20Wireless) on HMS II.3
+- [Sennheiser PXC 550-II Wireless](./HMS%20II.3%20over-ear/Sennheiser%20PXC%20550-II%20Wireless) on HMS II.3
+- [Sennheiser RS 165](./HMS%20II.3%20over-ear/Sennheiser%20RS%20165) on HMS II.3
+- [Sennheiser RS 175](./HMS%20II.3%20over-ear/Sennheiser%20RS%20175) on HMS II.3
+- [Sennheiser RS 185](./HMS%20II.3%20over-ear/Sennheiser%20RS%20185) on HMS II.3
+- [Sennheiser RS 195](./HMS%20II.3%20over-ear/Sennheiser%20RS%20195) on HMS II.3
+- [Sennheiser SC 160 USB-C](./HMS%20II.3%20over-ear/Sennheiser%20SC%20160%20USB-C) on HMS II.3
+- [SENSO ActivBuds S-250](./HMS%20II.3%20in-ear/SENSO%20ActivBuds%20S-250) on HMS II.3
+- [Shokz OpenFit](./HMS%20II.3%20in-ear/Shokz%20OpenFit) on HMS II.3
+- [Shokz OpenFit Air](./Bruel%20&%20Kjaer%205128%20earbud/Shokz%20OpenFit%20Air) on Bruel & Kjaer 5128
+- [Shokz OpenRun](./HMS%20II.3%20earbud/Shokz%20OpenRun) on HMS II.3
+- [Shokz OpenRun Pro](./HMS%20II.3%20earbud/Shokz%20OpenRun%20Pro) on HMS II.3
+- [Shokz OpenRun Pro 2 Bone Conduction](./Bruel%20&%20Kjaer%205128%20earbud/Shokz%20OpenRun%20Pro%202%20Bone%20Conduction) on Bruel & Kjaer 5128
+- [Shure AONIC 50](./HMS%20II.3%20over-ear/Shure%20AONIC%2050) on HMS II.3
+- [Shure AONIC 50 Gen 2](./HMS%20II.3%20over-ear/Shure%20AONIC%2050%20Gen%202) on HMS II.3
+- [Shure SE215](./HMS%20II.3%20in-ear/Shure%20SE215) on HMS II.3
+- [Shure SE315](./HMS%20II.3%20in-ear/Shure%20SE315) on HMS II.3
+- [Shure SE425](./HMS%20II.3%20in-ear/Shure%20SE425) on HMS II.3
+- [Shure SRH240](./HMS%20II.3%20over-ear/Shure%20SRH240) on HMS II.3
+- [Shure SRH440](./HMS%20II.3%20over-ear/Shure%20SRH440) on HMS II.3
+- [Skullcandy Crusher](./HMS%20II.3%20over-ear/Skullcandy%20Crusher) on HMS II.3
+- [Skullcandy Crusher 360](./HMS%20II.3%20over-ear/Skullcandy%20Crusher%20360) on HMS II.3
+- [Skullcandy Crusher Evo](./HMS%20II.3%20over-ear/Skullcandy%20Crusher%20Evo) on HMS II.3
+- [Skullcandy Crusher Wireless](./HMS%20II.3%20over-ear/Skullcandy%20Crusher%20Wireless) on HMS II.3
+- [Skullcandy Dime](./HMS%20II.3%20in-ear/Skullcandy%20Dime) on HMS II.3
+- [Skullcandy Dime 2](./HMS%20II.3%20in-ear/Skullcandy%20Dime%202) on HMS II.3
+- [Skullcandy Dime 3](./Bruel%20&%20Kjaer%205128%20in-ear/Skullcandy%20Dime%203) on Bruel & Kjaer 5128
+- [Skullcandy Grind](./HMS%20II.3%20over-ear/Skullcandy%20Grind) on HMS II.3
+- [Skullcandy Grind Fuel](./HMS%20II.3%20in-ear/Skullcandy%20Grind%20Fuel) on HMS II.3
+- [Skullcandy Hesh 2](./HMS%20II.3%20over-ear/Skullcandy%20Hesh%202) on HMS II.3
+- [Skullcandy Hesh 3](./HMS%20II.3%20over-ear/Skullcandy%20Hesh%203) on HMS II.3
+- [Skullcandy Hesh ANC](./HMS%20II.3%20over-ear/Skullcandy%20Hesh%20ANC) on HMS II.3
+- [Skullcandy Hesh Evo](./HMS%20II.3%20over-ear/Skullcandy%20Hesh%20Evo) on HMS II.3
+- [Skullcandy Indy](./HMS%20II.3%20in-ear/Skullcandy%20Indy) on HMS II.3
+- [Skullcandy Indy ANC](./HMS%20II.3%20in-ear/Skullcandy%20Indy%20ANC) on HMS II.3
+- [Skullcandy Indy Evo](./HMS%20II.3%20in-ear/Skullcandy%20Indy%20Evo) on HMS II.3
+- [Skullcandy Indy Fuel](./HMS%20II.3%20in-ear/Skullcandy%20Indy%20Fuel) on HMS II.3
+- [Skullcandy Jib](./HMS%20II.3%20in-ear/Skullcandy%20Jib) on HMS II.3
+- [Skullcandy Jib True](./HMS%20II.3%20in-ear/Skullcandy%20Jib%20True) on HMS II.3
+- [Skullcandy Push](./HMS%20II.3%20in-ear/Skullcandy%20Push) on HMS II.3
+- [Skullcandy Push Active](./HMS%20II.3%20in-ear/Skullcandy%20Push%20Active) on HMS II.3
+- [Skullcandy Push Ultra](./HMS%20II.3%20in-ear/Skullcandy%20Push%20Ultra) on HMS II.3
+- [Skullcandy Riff Wireless 2](./HMS%20II.3%20over-ear/Skullcandy%20Riff%20Wireless%202) on HMS II.3
+- [Skullcandy Sesh](./HMS%20II.3%20in-ear/Skullcandy%20Sesh) on HMS II.3
+- [Skullcandy Sesh ANC](./HMS%20II.3%20in-ear/Skullcandy%20Sesh%20ANC) on HMS II.3
+- [Skullcandy Sesh Evo](./HMS%20II.3%20in-ear/Skullcandy%20Sesh%20Evo) on HMS II.3
+- [Skullcandy Smokin Buds](./HMS%20II.3%20in-ear/Skullcandy%20Smokin%20Buds) on HMS II.3
+- [Skullcandy Spoke](./HMS%20II.3%20in-ear/Skullcandy%20Spoke) on HMS II.3
+- [Skullcandy Venue](./HMS%20II.3%20over-ear/Skullcandy%20Venue) on HMS II.3
+- [Sonos Ace](./Bruel%20&%20Kjaer%205128%20over-ear/Sonos%20Ace) on Bruel & Kjaer 5128
+- [Sony Float Run](./HMS%20II.3%20earbud/Sony%20Float%20Run) on HMS II.3
+- [Sony h.ear on](./HMS%20II.3%20over-ear/Sony%20h.ear%20on) on HMS II.3
+- [Sony INZONE Buds](./Bruel%20&%20Kjaer%205128%20in-ear/Sony%20INZONE%20Buds) on Bruel & Kjaer 5128
+- [Sony INZONE H3](./HMS%20II.3%20over-ear/Sony%20INZONE%20H3) on HMS II.3
+- [Sony INZONE H7](./HMS%20II.3%20over-ear/Sony%20INZONE%20H7) on HMS II.3
+- [Sony INZONE H9](./HMS%20II.3%20over-ear/Sony%20INZONE%20H9) on HMS II.3
+- [Sony LinkBuds](./HMS%20II.3%20earbud/Sony%20LinkBuds) on HMS II.3
+- [Sony LinkBuds S](./Bruel%20&%20Kjaer%205128%20in-ear/Sony%20LinkBuds%20S) on Bruel & Kjaer 5128
+- [Sony MDR-1000X](./HMS%20II.3%20over-ear/Sony%20MDR-1000X) on HMS II.3
+- [Sony MDR-1A](./HMS%20II.3%20over-ear/Sony%20MDR-1A) on HMS II.3
+- [Sony MDR-7506](./HMS%20II.3%20over-ear/Sony%20MDR-7506) on HMS II.3
+- [Sony MDR-7520](./HMS%20II.3%20over-ear/Sony%20MDR-7520) on HMS II.3
+- [Sony MDR-MV1](./HMS%20II.3%20over-ear/Sony%20MDR-MV1) on HMS II.3
+- [Sony MDR-XB50AP](./HMS%20II.3%20in-ear/Sony%20MDR-XB50AP) on HMS II.3
+- [Sony MDR-XB950B1](./HMS%20II.3%20over-ear/Sony%20MDR-XB950B1) on HMS II.3
+- [Sony MDR-XB950N1](./HMS%20II.3%20over-ear/Sony%20MDR-XB950N1) on HMS II.3
+- [Sony MDR-ZX110NC](./HMS%20II.3%20over-ear/Sony%20MDR-ZX110NC) on HMS II.3
+- [Sony MDR-ZX770BN](./HMS%20II.3%20over-ear/Sony%20MDR-ZX770BN) on HMS II.3
+- [Sony MH755](./HMS%20II.3%20in-ear/Sony%20MH755) on HMS II.3
+- [Sony PULSE 3D](./HMS%20II.3%20over-ear/Sony%20PULSE%203D) on HMS II.3
+- [Sony Pulse Elite](./Bruel%20&%20Kjaer%205128%20over-ear/Sony%20Pulse%20Elite) on Bruel & Kjaer 5128
+- [Sony PULSE Explore](./Bruel%20&%20Kjaer%205128%20in-ear/Sony%20PULSE%20Explore) on Bruel & Kjaer 5128
+- [Sony ULT WEAR](./Bruel%20&%20Kjaer%205128%20over-ear/Sony%20ULT%20WEAR) on Bruel & Kjaer 5128
+- [Sony WF-1000X](./HMS%20II.3%20in-ear/Sony%20WF-1000X) on HMS II.3
+- [Sony WF-1000XM3](./HMS%20II.3%20in-ear/Sony%20WF-1000XM3) on HMS II.3
+- [Sony WF-1000XM4](./HMS%20II.3%20in-ear/Sony%20WF-1000XM4) on HMS II.3
+- [Sony WF-1000XM5](./Bruel%20&%20Kjaer%205128%20in-ear/Sony%20WF-1000XM5) on Bruel & Kjaer 5128
+- [Sony WF-C500](./HMS%20II.3%20in-ear/Sony%20WF-C500) on HMS II.3
+- [Sony WF-C700N](./HMS%20II.3%20in-ear/Sony%20WF-C700N) on HMS II.3
+- [Sony WF-SP700N](./HMS%20II.3%20in-ear/Sony%20WF-SP700N) on HMS II.3
+- [Sony WF-SP800N](./HMS%20II.3%20in-ear/Sony%20WF-SP800N) on HMS II.3
+- [Sony WF-XB700](./HMS%20II.3%20in-ear/Sony%20WF-XB700) on HMS II.3
+- [Sony WH-1000XM2](./HMS%20II.3%20over-ear/Sony%20WH-1000XM2) on HMS II.3
+- [Sony WH-1000XM3](./HMS%20II.3%20over-ear/Sony%20WH-1000XM3) on HMS II.3
+- [Sony WH-1000XM4](./Bruel%20&%20Kjaer%205128%20over-ear/Sony%20WH-1000XM4) on Bruel & Kjaer 5128
+- [Sony WH-1000XM5](./Bruel%20&%20Kjaer%205128%20over-ear/Sony%20WH-1000XM5) on Bruel & Kjaer 5128
+- [Sony WH-CH400](./HMS%20II.3%20over-ear/Sony%20WH-CH400) on HMS II.3
+- [Sony WH-CH500](./HMS%20II.3%20over-ear/Sony%20WH-CH500) on HMS II.3
+- [Sony WH-CH510](./HMS%20II.3%20over-ear/Sony%20WH-CH510) on HMS II.3
+- [Sony WH-CH520](./HMS%20II.3%20over-ear/Sony%20WH-CH520) on HMS II.3
+- [Sony WH-CH700N](./HMS%20II.3%20over-ear/Sony%20WH-CH700N) on HMS II.3
+- [Sony WH-CH710N](./HMS%20II.3%20over-ear/Sony%20WH-CH710N) on HMS II.3
+- [Sony WH-CH720N](./Bruel%20&%20Kjaer%205128%20over-ear/Sony%20WH-CH720N) on Bruel & Kjaer 5128
+- [Sony WH-H900N](./HMS%20II.3%20over-ear/Sony%20WH-H900N) on HMS II.3
+- [Sony WH-H910N](./HMS%20II.3%20over-ear/Sony%20WH-H910N) on HMS II.3
+- [Sony WH-XB700](./HMS%20II.3%20over-ear/Sony%20WH-XB700) on HMS II.3
+- [Sony WH-XB900N](./HMS%20II.3%20over-ear/Sony%20WH-XB900N) on HMS II.3
+- [Sony WH-XB910N](./Bruel%20&%20Kjaer%205128%20over-ear/Sony%20WH-XB910N) on Bruel & Kjaer 5128
+- [Sony WI-1000X](./HMS%20II.3%20in-ear/Sony%20WI-1000X) on HMS II.3
+- [Sony WI-1000XM2](./HMS%20II.3%20in-ear/Sony%20WI-1000XM2) on HMS II.3
+- [Sony WI-C200](./HMS%20II.3%20in-ear/Sony%20WI-C200) on HMS II.3
+- [Sony WI-C300](./HMS%20II.3%20in-ear/Sony%20WI-C300) on HMS II.3
+- [Sony WI-C310](./HMS%20II.3%20in-ear/Sony%20WI-C310) on HMS II.3
+- [Sony WI-C400](./HMS%20II.3%20in-ear/Sony%20WI-C400) on HMS II.3
+- [Sony WI-C600N](./HMS%20II.3%20in-ear/Sony%20WI-C600N) on HMS II.3
+- [Sony WI-SP500](./HMS%20II.3%20in-ear/Sony%20WI-SP500) on HMS II.3
+- [Sony WI-SP600N](./HMS%20II.3%20in-ear/Sony%20WI-SP600N) on HMS II.3
+- [Sony WI-XB400](./HMS%20II.3%20in-ear/Sony%20WI-XB400) on HMS II.3
+- [Sound Intone CX-05](./HMS%20II.3%20over-ear/Sound%20Intone%20CX-05) on HMS II.3
+- [SoundPeats Q9A](./HMS%20II.3%20in-ear/SoundPeats%20Q9A) on HMS II.3
+- [SoundPeats TrueFree](./HMS%20II.3%20in-ear/SoundPeats%20TrueFree) on HMS II.3
+- [SoundPeats TrueFree 2](./HMS%20II.3%20in-ear/SoundPeats%20TrueFree%202) on HMS II.3
+- [Status Audio Between 3ANC](./HMS%20II.3%20in-ear/Status%20Audio%20Between%203ANC) on HMS II.3
+- [Status Audio Between Pro](./HMS%20II.3%20in-ear/Status%20Audio%20Between%20Pro) on HMS II.3
+- [Status Audio BT One](./HMS%20II.3%20over-ear/Status%20Audio%20BT%20One) on HMS II.3
+- [Stax SR-L300](./HMS%20II.3%20over-ear/Stax%20SR-L300) on HMS II.3
+- [SteelSeries Arctis 1](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%201) on HMS II.3
+- [SteelSeries Arctis 1 Wireless](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%201%20Wireless) on HMS II.3
+- [SteelSeries Arctis 3 2019 Edition](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%203%202019%20Edition) on HMS II.3
+- [SteelSeries Arctis 5 2019 Edition](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%205%202019%20Edition) on HMS II.3
+- [SteelSeries Arctis 7 2019 Edition](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%207%202019%20Edition) on HMS II.3
+- [SteelSeries Arctis 7 Wireless 2017](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%207%20Wireless%202017) on HMS II.3
+- [SteelSeries Arctis 7+](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%207+) on HMS II.3
+- [SteelSeries Arctis 7P](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%207P) on HMS II.3
+- [SteelSeries Arctis 7P+](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%207P+) on HMS II.3
+- [SteelSeries Arctis 7X](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%207X) on HMS II.3
+- [SteelSeries Arctis 9](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%209) on HMS II.3
+- [SteelSeries Arctis 9X](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%209X) on HMS II.3
+- [SteelSeries Arctis Nova 1](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%20Nova%201) on HMS II.3
+- [SteelSeries Arctis Nova 3](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%20Nova%203) on HMS II.3
+- [SteelSeries Arctis Nova 5](./Bruel%20&%20Kjaer%205128%20over-ear/SteelSeries%20Arctis%20Nova%205) on Bruel & Kjaer 5128
+- [SteelSeries Arctis Nova 7](./Bruel%20&%20Kjaer%205128%20over-ear/SteelSeries%20Arctis%20Nova%207) on Bruel & Kjaer 5128
+- [SteelSeries Arctis Nova Pro](./Bruel%20&%20Kjaer%205128%20over-ear/SteelSeries%20Arctis%20Nova%20Pro) on Bruel & Kjaer 5128
+- [SteelSeries Arctis Nova Pro Wireless](./Bruel%20&%20Kjaer%205128%20over-ear/SteelSeries%20Arctis%20Nova%20Pro%20Wireless) on Bruel & Kjaer 5128
+- [SteelSeries Arctis Prime](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%20Prime) on HMS II.3
+- [SteelSeries Arctis Pro](./Bruel%20&%20Kjaer%205128%20over-ear/SteelSeries%20Arctis%20Pro) on Bruel & Kjaer 5128
+- [SteelSeries Arctis Pro GameDAC](./HMS%20II.3%20over-ear/SteelSeries%20Arctis%20Pro%20GameDAC) on HMS II.3
+- [SteelSeries Siberia 200](./HMS%20II.3%20over-ear/SteelSeries%20Siberia%20200) on HMS II.3
+- [SteelSeries Tusq](./HMS%20II.3%20in-ear/SteelSeries%20Tusq) on HMS II.3
+- [Superlux HD 668B](./HMS%20II.3%20over-ear/Superlux%20HD%20668B) on HMS II.3
+- [Superlux HD 681](./Bruel%20&%20Kjaer%205128%20over-ear/Superlux%20HD%20681) on Bruel & Kjaer 5128
+- [Superlux HD 681 EVO](./HMS%20II.3%20over-ear/Superlux%20HD%20681%20EVO) on HMS II.3
+- [Swimbuds Waterproof Headphones](./HMS%20II.3%20in-ear/Swimbuds%20Waterproof%20Headphones) on HMS II.3
+- [Symphonized NRG 3.0](./HMS%20II.3%20in-ear/Symphonized%20NRG%203.0) on HMS II.3
+- [TaoTronics SoundLiberty 79](./HMS%20II.3%20in-ear/TaoTronics%20SoundLiberty%2079) on HMS II.3
+- [TaoTronics SoundLiberty 92](./HMS%20II.3%20in-ear/TaoTronics%20SoundLiberty%2092) on HMS II.3
+- [TaoTronics SoundLiberty 94](./HMS%20II.3%20in-ear/TaoTronics%20SoundLiberty%2094) on HMS II.3
+- [TaoTronics SoundLiberty 95](./HMS%20II.3%20earbud/TaoTronics%20SoundLiberty%2095) on HMS II.3
+- [TaoTronics SoundSurge 60](./HMS%20II.3%20over-ear/TaoTronics%20SoundSurge%2060) on HMS II.3
+- [TaoTronics TT-BH041 Bluetooth Headset](./HMS%20II.3%20over-ear/TaoTronics%20TT-BH041%20Bluetooth%20Headset) on HMS II.3
+- [Tascam TH-02](./HMS%20II.3%20over-ear/Tascam%20TH-02) on HMS II.3
+- [Technics EAH-AZ80](./Bruel%20&%20Kjaer%205128%20in-ear/Technics%20EAH-AZ80) on Bruel & Kjaer 5128
+- [ThieAudio Monarch MKIII](./Bruel%20&%20Kjaer%205128%20in-ear/ThieAudio%20Monarch%20MKIII) on Bruel & Kjaer 5128
+- [Tin HiFi T2](./HMS%20II.3%20in-ear/Tin%20HiFi%20T2) on HMS II.3
+- [Tin HiFi T3](./HMS%20II.3%20in-ear/Tin%20HiFi%20T3) on HMS II.3
+- [TOZO NC2](./HMS%20II.3%20in-ear/TOZO%20NC2) on HMS II.3
+- [TOZO NC7](./HMS%20II.3%20in-ear/TOZO%20NC7) on HMS II.3
+- [TOZO NC9](./HMS%20II.3%20in-ear/TOZO%20NC9) on HMS II.3
+- [TOZO T10](./HMS%20II.3%20in-ear/TOZO%20T10) on HMS II.3
+- [TOZO T12](./HMS%20II.3%20in-ear/TOZO%20T12) on HMS II.3
+- [TOZO T6](./HMS%20II.3%20in-ear/TOZO%20T6) on HMS II.3
+- [Tranya T10](./HMS%20II.3%20in-ear/Tranya%20T10) on HMS II.3
+- [TREBLAB X5](./HMS%20II.3%20in-ear/TREBLAB%20X5) on HMS II.3
+- [TREBLAB Z2](./HMS%20II.3%20over-ear/TREBLAB%20Z2) on HMS II.3
+- [TREBLAB Z7 Pro](./HMS%20II.3%20over-ear/TREBLAB%20Z7%20Pro) on HMS II.3
+- [Truthear Hexa](./Bruel%20&%20Kjaer%205128%20in-ear/Truthear%20Hexa) on Bruel & Kjaer 5128
+- [Truthear x Crinacle Zero](./Bruel%20&%20Kjaer%205128%20in-ear/Truthear%20x%20Crinacle%20Zero) on Bruel & Kjaer 5128
+- [Truthear x Crinacle Zero RED](./Bruel%20&%20Kjaer%205128%20in-ear/Truthear%20x%20Crinacle%20Zero%20RED) on Bruel & Kjaer 5128
+- [Turtle Beach Atlas Air](./Bruel%20&%20Kjaer%205128%20over-ear/Turtle%20Beach%20Atlas%20Air) on Bruel & Kjaer 5128
+- [Turtle Beach Battle Buds](./HMS%20II.3%20in-ear/Turtle%20Beach%20Battle%20Buds) on HMS II.3
+- [Turtle Beach Elite 800](./HMS%20II.3%20over-ear/Turtle%20Beach%20Elite%20800) on HMS II.3
+- [Turtle Beach Elite Atlas](./HMS%20II.3%20over-ear/Turtle%20Beach%20Elite%20Atlas) on HMS II.3
+- [Turtle Beach Elite Atlas Aero](./HMS%20II.3%20over-ear/Turtle%20Beach%20Elite%20Atlas%20Aero) on HMS II.3
+- [Turtle Beach Elite Pro 2 SuperAmp](./HMS%20II.3%20over-ear/Turtle%20Beach%20Elite%20Pro%202%20SuperAmp) on HMS II.3
+- [Turtle Beach Recon 200](./HMS%20II.3%20over-ear/Turtle%20Beach%20Recon%20200) on HMS II.3
+- [Turtle Beach Recon 200 Gen 2](./HMS%20II.3%20over-ear/Turtle%20Beach%20Recon%20200%20Gen%202) on HMS II.3
+- [Turtle Beach Recon 500](./HMS%20II.3%20over-ear/Turtle%20Beach%20Recon%20500) on HMS II.3
+- [Turtle Beach Recon 50X](./HMS%20II.3%20over-ear/Turtle%20Beach%20Recon%2050X) on HMS II.3
+- [Turtle Beach Recon 70](./HMS%20II.3%20over-ear/Turtle%20Beach%20Recon%2070) on HMS II.3
+- [Turtle Beach Stealth 300](./HMS%20II.3%20over-ear/Turtle%20Beach%20Stealth%20300) on HMS II.3
+- [Turtle Beach Stealth 500](./Bruel%20&%20Kjaer%205128%20over-ear/Turtle%20Beach%20Stealth%20500) on Bruel & Kjaer 5128
+- [Turtle Beach Stealth 600](./HMS%20II.3%20over-ear/Turtle%20Beach%20Stealth%20600) on HMS II.3
+- [Turtle Beach Stealth 600 Gen 2](./HMS%20II.3%20over-ear/Turtle%20Beach%20Stealth%20600%20Gen%202) on HMS II.3
+- [Turtle Beach Stealth 600 Gen 3](./Bruel%20&%20Kjaer%205128%20over-ear/Turtle%20Beach%20Stealth%20600%20Gen%203) on Bruel & Kjaer 5128
+- [Turtle Beach Stealth 700](./HMS%20II.3%20over-ear/Turtle%20Beach%20Stealth%20700) on HMS II.3
+- [Turtle Beach Stealth 700 Gen 2](./HMS%20II.3%20over-ear/Turtle%20Beach%20Stealth%20700%20Gen%202) on HMS II.3
+- [Turtle Beach Stealth Pro](./HMS%20II.3%20over-ear/Turtle%20Beach%20Stealth%20Pro) on HMS II.3
+- [Ultimate Ears FITS](./HMS%20II.3%20in-ear/Ultimate%20Ears%20FITS) on HMS II.3
+- [Under Armour True Wireless Flash](./HMS%20II.3%20in-ear/Under%20Armour%20True%20Wireless%20Flash) on HMS II.3
+- [V-MODA BassFit Wireless](./HMS%20II.3%20in-ear/V-MODA%20BassFit%20Wireless) on HMS II.3
+- [V-MODA Crossfade 2 Wireless](./HMS%20II.3%20over-ear/V-MODA%20Crossfade%202%20Wireless) on HMS II.3
+- [V-MODA Crossfade 3 Wireless](./Bruel%20&%20Kjaer%205128%20over-ear/V-MODA%20Crossfade%203%20Wireless) on Bruel & Kjaer 5128
+- [V-MODA Crossfade M-100](./HMS%20II.3%20over-ear/V-MODA%20Crossfade%20M-100) on HMS II.3
+- [Westone W40](./HMS%20II.3%20in-ear/Westone%20W40) on HMS II.3
+- [Wyze Buds](./HMS%20II.3%20in-ear/Wyze%20Buds) on HMS II.3
+- [Wyze Buds Pro](./HMS%20II.3%20in-ear/Wyze%20Buds%20Pro) on HMS II.3
+- [Wyze Noise-Cancelling Headphones](./HMS%20II.3%20over-ear/Wyze%20Noise-Cancelling%20Headphones) on HMS II.3
+- [Wyze Wireless Gaming Headset](./HMS%20II.3%20over-ear/Wyze%20Wireless%20Gaming%20Headset) on HMS II.3
+- [Xbox Stereo Headset](./HMS%20II.3%20over-ear/Xbox%20Stereo%20Headset) on HMS II.3
+- [Xbox Wireless Headset](./HMS%20II.3%20over-ear/Xbox%20Wireless%20Headset) on HMS II.3
+- [XFYRO xS2](./HMS%20II.3%20in-ear/XFYRO%20xS2) on HMS II.3
+- [Ylife True Wireless Earbuds](./HMS%20II.3%20in-ear/Ylife%20True%20Wireless%20Earbuds) on HMS II.3
