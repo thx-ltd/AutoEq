@@ -110,20 +110,24 @@ class NamePrompt:
     def name(self):
         return self.guessed_name or urllib.parse.unquote(self.item.url.split('/')[-1])
 
+    def create_query(self):
+        return re.sub(r'\s\(.*\)$', '', self.text_field.value).strip()
+
     def handle_search(self, btn):
-        self.search_images()
         self.reload_ui()
-        quoted = urllib.parse.quote_plus(self.text_field.value)
+        quoted = urllib.parse.quote_plus(self.create_query())
         url = f'https://google.com/search?q={quoted}&tbm=isch'
         webbrowser.open(url)
+        self.search_images()
 
     def search_images(self):
         if not self.text_field.value:
             return
-        img_dir = ROOT_PATH.joinpath('dbtools', 'google-image-search', re.sub(r'\(.*\)$', '', self.text_field.value).strip())
+        img_dir = ROOT_PATH.joinpath(
+            'dbtools', 'google-image-search', self.create_query())
         if not img_dir.exists():
             google_crawler = GoogleImageCrawler(storage={'root_dir': img_dir})
-            google_crawler.crawl(keyword=self.text_field.value, max_num=4)
+            google_crawler.crawl(keyword=img_dir.name, max_num=4)
         # Create image widgets
         images = []
         for fp in img_dir.glob('*'):

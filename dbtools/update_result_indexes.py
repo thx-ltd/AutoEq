@@ -401,7 +401,7 @@ def write_webapp_entries_and_measurements(paths):
 
 def update_all_indexes():
     paths = [ResultPath(readme_path.parent) for readme_path in Path(RESULTS_PATH).glob('*/*/**/*.md')]
-    #write_ranking_table(paths)
+    write_ranking_table(paths)
     write_recommendations(paths)
     write_full_index(paths)
     write_source_indexes(paths)
