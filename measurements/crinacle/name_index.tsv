@@ -3043,8 +3043,8 @@ file://measurements/crinacle/raw_data/GRAS 43AG-7/Zeus L3.txt	HarmonicDyne Zeus	
 file://measurements/crinacle/raw_data/GRAS 43AG-7/Zeus R1.txt	HarmonicDyne Zeus	HarmonicDyne Zeus	over-ear	GRAS 43AG-7
 file://measurements/crinacle/raw_data/GRAS 43AG-7/Zeus R2.txt	HarmonicDyne Zeus	HarmonicDyne Zeus	over-ear	GRAS 43AG-7
 file://measurements/crinacle/raw_data/GRAS 43AG-7/Zeus R3.txt	HarmonicDyne Zeus	HarmonicDyne Zeus	over-ear	GRAS 43AG-7
-file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Acoustic Deer R.txt	Heartfield Acoustic Deer	Heartfield Acoustic Deer	in-ear	711
-file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Acoustic Deer L.txt	Heartfield Acoustic Deer	Heartfield Acoustic Deer	in-ear	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Acoustic Deer R.txt	Heartfield Acoustic Deer	HeartField Deer	in-ear	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Acoustic Deer L.txt	Heartfield Acoustic Deer	HeartField Deer	in-ear	711
 file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Tzar 350 R.txt	Heir Audio Tzar 350	Heir Audio Tzar 350	in-ear	711
 file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Tzar 350 L.txt	Heir Audio Tzar 350	Heir Audio Tzar 350	in-ear	711
 file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Crystal6 L.txt	HiBy Crystal6	HiBy Crystal 6	in-ear	711
@@ -3962,12 +3962,12 @@ file://measurements/crinacle/raw_data/GRAS 43AG-7/MYSPHERE 3.2 L2.txt	LB-acousti
 file://measurements/crinacle/raw_data/GRAS 43AG-7/MYSPHERE 3.2 L3.txt	LB-acoustics MYSPHERE 3.2	MySphere 3.2	over-ear	GRAS 43AG-7
 file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Bella L.txt	NCM (Nguyen Custom Monitors) Bella	NCM Bella	in-ear	711
 file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Bella R.txt	NCM (Nguyen Custom Monitors) Bella	NCM Bella	in-ear	711
-file://measurements/crinacle/raw_data/4620 IEM Measurements/NF-2U R.txt	NF-2U	NF Audio NF2u	in-ear	Bruel & Kjaer 4620
-file://measurements/crinacle/raw_data/4620 IEM Measurements/NF-2U L.txt	NF-2U	NF Audio NF2u	in-ear	Bruel & Kjaer 4620
-file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/NM2 Plus L.txt	NF Audio NM2+	NF Audio NM2+	in-ear	711
-file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/NM2 Plus R.txt	NF Audio NM2+	NF Audio NM2+	in-ear	711
-file://measurements/crinacle/raw_data/4620 IEM Measurements/NM2+ R.txt	NM2+	NF Audio NM2+	in-ear	Bruel & Kjaer 4620
-file://measurements/crinacle/raw_data/4620 IEM Measurements/NM2+ L.txt	NM2+	NF Audio NM2+	in-ear	Bruel & Kjaer 4620
+file://measurements/crinacle/raw_data/4620 IEM Measurements/NF-2U R.txt	NF-2U	NF ACOUS NF2u	in-ear	Bruel & Kjaer 4620
+file://measurements/crinacle/raw_data/4620 IEM Measurements/NF-2U L.txt	NF-2U	NF ACOUS NF2u	in-ear	Bruel & Kjaer 4620
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/NM2 Plus L.txt	NF Audio NM2+	NF ACOUS NM2	in-ear	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/NM2 Plus R.txt	NF Audio NM2+	NF ACOUS NM2	in-ear	711
+file://measurements/crinacle/raw_data/4620 IEM Measurements/NM2+ R.txt	NM2+	NF ACOUS NM2	in-ear	Bruel & Kjaer 4620
+file://measurements/crinacle/raw_data/4620 IEM Measurements/NM2+ L.txt	NM2+	NF ACOUS NM2	in-ear	Bruel & Kjaer 4620
 file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Basso NXEars R.txt	NXEars Basso	NXEars Basso	in-ear	711
 file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Basso NXEars L.txt	NXEars Basso	NXEars Basso	in-ear	711
 file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Opera R.txt	NXEars Opera	NXEars Opera	in-ear	711

@@ -82,7 +82,6 @@ def write_targets():
         {
             'file': TARGETS_PATH.joinpath('Diffuse field 5128 -1dB per octave.csv'),
             'label': 'Diffuse Field 5128 (-1 dB/oct)',
-            'compatible': [{'source': 'crinacle', 'form': 'in-ear', 'rig': 'Bruel & Kjaer 4620'}],
             'bassBoost': {'fc': 105, 'q': 0.7, 'gain': 0}
         },
         {
@@ -154,16 +153,16 @@ def write_targets():
                 {'source': 'Headphone.com Legacy', 'form': 'earbud'},
                 {'source': 'Innerfidelity', 'form': 'in-ear'},
                 {'source': 'Innerfidelity', 'form': 'earbud'},
-                {'source': 'Rtings', 'form': 'in-ear'},
-                {'source': 'Rtings', 'form': 'earbud'},
+                {'source': 'Rtings', 'form': 'in-ear', 'rig': 'HMS II.3'},
+                {'source': 'Rtings', 'form': 'earbud', 'rig': 'HMS II.3'},
             ],
             'recommended': [
                 {'source': 'Headphone.com Legacy', 'form': 'in-ear'},
                 {'source': 'Headphone.com Legacy', 'form': 'earbud'},
                 {'source': 'Innerfidelity', 'form': 'in-ear'},
                 {'source': 'Innerfidelity', 'form': 'earbud'},
-                {'source': 'Rtings', 'form': 'in-ear'},
-                {'source': 'Rtings', 'form': 'earbud'},
+                {'source': 'Rtings', 'form': 'in-ear', 'rig': 'HMS II.3'},
+                {'source': 'Rtings', 'form': 'earbud', 'rig': 'HMS II.3'},
             ],
             'bassBoost': {'fc': 105, 'q': 0.7, 'gain': 8}
         },
@@ -175,8 +174,8 @@ def write_targets():
                 {'source': 'Headphone.com Legacy', 'form': 'earbud'},
                 {'source': 'Innerfidelity', 'form': 'in-ear'},
                 {'source': 'Innerfidelity', 'form': 'earbud'},
-                {'source': 'Rtings', 'form': 'in-ear'},
-                {'source': 'Rtings', 'form': 'earbud'},
+                {'source': 'Rtings', 'form': 'in-ear', 'rig': 'HMS II.3'},
+                {'source': 'Rtings', 'form': 'earbud', 'rig': 'HMS II.3'},
             ],
             'bassBoost': {'fc': 105, 'q': 0.7, 'gain': 9.5}
         },
@@ -186,12 +185,12 @@ def write_targets():
             'compatible': [
                 {'source': 'Headphone.com Legacy', 'form': 'over-ear'},
                 {'source': 'Innerfidelity', 'form': 'over-ear'},
-                {'source': 'Rtings', 'form': 'over-ear'},
+                {'source': 'Rtings', 'form': 'over-ear', 'rig': 'HMS II.3'},
             ],
             'recommended': [
                 {'source': 'Headphone.com Legacy', 'form': 'over-ear'},
                 {'source': 'Innerfidelity', 'form': 'over-ear'},
-                {'source': 'Rtings', 'form': 'over-ear'},
+                {'source': 'Rtings', 'form': 'over-ear', 'rig': 'HMS II.3'},
             ],
             'bassBoost': {'fc': 105, 'q': 0.7, 'gain': 6}
         },
@@ -201,10 +200,12 @@ def write_targets():
             'compatible': [
                 {'source': 'crinacle', 'form': 'in-ear', 'rig': 'Bruel & Kjaer 4620'},
                 {'source': 'HypetheSonics', 'form': 'in-ear', 'rig': 'Bruel & Kjaer 5128'},
+                {'source': 'Rtings', 'form': 'in-ear', 'rig': 'Bruel & Kjaer 5128'},
             ],
             'recommended': [
                 {'source': 'crinacle', 'form': 'in-ear', 'rig': 'Bruel & Kjaer 4620'},
                 {'source': 'HypetheSonics', 'form': 'in-ear', 'rig': 'Bruel & Kjaer 5128'},
+                {'source': 'Rtings', 'form': 'in-ear', 'rig': 'Bruel & Kjaer 5128'},
             ],
             'bassBoost': {'fc': 105, 'q': 0.7, 'gain': 6.5}
         },
@@ -212,11 +213,15 @@ def write_targets():
             'file': TARGETS_PATH.joinpath('LMG 5128 0.6 without bass.csv'),
             'compatible': [
                 {'source': 'HypetheSonics', 'form': 'over-ear'},
-                {'source': 'HypetheSonics', 'form': 'earbud'}
+                {'source': 'HypetheSonics', 'form': 'earbud'},
+                {'source': 'Rtings', 'form': 'over-ear', 'rig': 'Bruel & Kjaer 5128'},
+                {'source': 'Rtings', 'form': 'earbud', 'rig': 'Bruel & Kjaer 5128'},
             ],
             'recommended': [
                 {'source': 'HypetheSonics', 'form': 'over-ear'},
-                {'source': 'HypetheSonics', 'form': 'earbud'}
+                {'source': 'HypetheSonics', 'form': 'earbud'},
+                {'source': 'Rtings', 'form': 'over-ear', 'rig': 'Bruel & Kjaer 5128'},
+                {'source': 'Rtings', 'form': 'earbud', 'rig': 'Bruel & Kjaer 5128'},
             ],
             'bassBoost': {'fc': 105, 'q': 0.7, 'gain': 6}
         },

@@ -143,7 +143,7 @@ class SquigCrawler(CrinacleCrawlerBase):
                 try:
                     rig = _squig_rigs[self.name][form]
                 except KeyError as err:
-                    print(f'{self.name} has no rig for {form}. Skipping {normalized_file_name}')
+                    #print(f'{self.name} has no rig for {form}. Skipping {normalized_file_name}')
                     continue
                 item = NameItem(
                         url=f'{self.db_url(db)}/{anchor["href"]}',
@@ -172,17 +172,19 @@ class SquigCrawler(CrinacleCrawlerBase):
         if name is None:  # This checks if a known item already exists in name index
             name = self.get_item_from_url(item.url).source_name
         if name is None:  # This looks for a name in the phone book
-            normalized_file_name = self.normalize_file_name(item.url.split('/')[-1])
+            source_name = self.url_to_source_name(item.url.split('/')[-1])
             if item.form is not None:  # Form is known, use the phone book
-                if item.form in self.book_maps and normalized_file_name in self.book_maps[item.form]:
-                    name = self.book_maps[item.form][normalized_file_name]
+                if item.form in self.book_maps and source_name in self.book_maps[item.form]:
+                    name = self.book_maps[item.form][source_name]
             else:  # Form is not know, iterate through all phone books
                 for book_map in self.book_maps.values():
-                    if normalized_file_name in book_map:
-                        name = book_map[normalized_file_name]
+                    if source_name in book_map:
+                        name = book_map[source_name]
                         break
         if name is None:  # Name still not known, resort to (normalized) file name
-            name = self.normalize_file_name(item.url.split('/')[-1])
+            name = self.url_to_source_name(item.url.split('/')[-1])
+        if name is not None:
+            name = self.normalize_file_name(name)
         return name
 
     def process_group(self, items, new_only=True):

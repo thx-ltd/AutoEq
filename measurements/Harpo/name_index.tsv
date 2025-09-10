@@ -67,6 +67,8 @@ https://harpo.squig.link/data/Dunu%20Vulkan%20R.txt	Dunu Vulkan	DUNU Vulkan	in-e
 https://harpo.squig.link/data/Devialet%20Gemini%20flat%20R.txt	Devialet Gemini	Devialet Gemini	in-ear	711
 https://harpo.squig.link/data/EPZ%20G10%20R.txt	EPZ G10	EPZ G10	in-ear	711
 https://harpo.squig.link/data/EPZ%20Q1%20R.txt	EPZ Q1 	EPZ Q1	in-ear	711
+https://harpo.squig.link/data/Elysian%20Pilgrim%20L.txt	Elysian Acoustic Labs Pilgrim	Elysian Pilgrim	in-ear	711
+https://harpo.squig.link/data/Elysian%20Pilgrim%20R.txt	Elysian Acoustic Labs Pilgrim	Elysian Pilgrim	in-ear	711
 https://harpo.squig.link/data/Fiio%20FH5%20L.txt	Fiio FH5	FiiO FH5	in-ear	711
 https://harpo.squig.link/data/Fiio%20FH5%20R.txt	Fiio FH5	FiiO FH5	in-ear	711
 https://harpo.squig.link/data/Final%20Audio%20E3000%20R.txt	Final Audio E3000	Final Audio E3000	in-ear	711
@@ -90,6 +92,8 @@ https://harpo.squig.link/data/ISN%20H40%20R.txt	ISN H40	ISN AUDIO H40	in-ear	711
 https://harpo.squig.link/data/JQ%20Audio%204U%20R.txt	JQ Audio 4U	JQ Audio 4U	in-ear	711
 https://harpo.squig.link/data/Jadeaudio%20EA1%20R.txt	Jadeaudio EA1	Jade Audio EA1	in-ear	711
 https://harpo.squig.link/data/KBear%20Rosefinch%20R.txt	KBear Rosefinch	KBEAR Rosefinch	in-ear	711
+https://harpo.squig.link/data/Kefine%20Delci%20L.txt	Kefine Delci	KEFINE Delci	in-ear	711
+https://harpo.squig.link/data/Kefine%20Delci%20R.txt	Kefine Delci	KEFINE Delci	in-ear	711
 https://harpo.squig.link/data/KZ%20AST%20L.txt	KZ AST	KZ AST	in-ear	711
 https://harpo.squig.link/data/KZ%20Castor%20Black%20DDDD%20R.txt	KZ Castor DDDD	KZ Castor (off-off-off-off)	in-ear	711
 https://harpo.squig.link/data/KZ%20Castor%20Black%20DDUD%20R.txt	KZ Castor DDUD	KZ Castor (off-off-on-off)	in-ear	711
@@ -105,6 +109,16 @@ https://harpo.squig.link/data/KZ%20ESX%20L.txt	KZ ESX	KZ ESX	in-ear	711
 https://harpo.squig.link/data/KZ%20ESX%20R.txt	KZ ESX	KZ ESX	in-ear	711
 https://harpo.squig.link/data/KZ%20PR1%20Balanced%20L.txt	KZ PR1 Balanced	KZ PR1 Balanced	ignore	
 https://harpo.squig.link/data/KZ%20PR2%20R.txt	KZ PR2	KZ PR2	in-ear	711
+https://harpo.squig.link/data/Vader%20DDDD%20R.txt	KZ Vader Balanced DDDD	KZ Vader Balanced (off-off-off-off)	in-ear	711
+https://harpo.squig.link/data/Vader%20DDDU%20R.txt	KZ Vader Balanced DDDU	KZ Vader Balanced (off-off-off-on)	in-ear	711
+https://harpo.squig.link/data/Vader%20DDUD%20R.txt	KZ Vader Balanced DDUD	KZ Vader Balanced (off-off-on-off)	in-ear	711
+https://harpo.squig.link/data/Vader%20DUDD%20R.txt	KZ Vader Balanced DUDD	KZ Vader Balanced (off-on-off-off)	in-ear	711
+https://harpo.squig.link/data/Vader%20DUUD%20R.txt	KZ Vader Balanced DUUD	KZ Vader Balanced (off-on-on-off)	in-ear	711
+https://harpo.squig.link/data/Vader%20UDDD%20R.txt		KZ Vader Balanced (on-off-off-off)	in-ear	711
+https://harpo.squig.link/data/Vader%20UDDU%20R.txt	KZ Vader Balanced UDDU	KZ Vader Balanced (on-off-off-on)	in-ear	711
+https://harpo.squig.link/data/Vader%20UUDD%20R.txt	KZ Vader Balanced UUDD	KZ Vader Balanced (on-on-off-off)	in-ear	711
+https://harpo.squig.link/data/Vader%20UUUD%20R.txt	KZ Vader Balanced UUUD	KZ Vader Balanced (on-on-on-off)	in-ear	711
+https://harpo.squig.link/data/Vader%20UUUU%20R.txt		KZ Vader Balanced (on-on-on-on)	in-ear	711
 https://harpo.squig.link/data/KS%20ZS10%20Pro%20L.txt	KZ ZS10 Pro	KZ ZS10 Pro	in-ear	711
 https://harpo.squig.link/data/KZ%20ZVX%20R.txt	KZ ZVX	KZ ZVX	in-ear	711
 https://harpo.squig.link/data/KiiBOOM%20Allure%20R.txt	KiiBOOM Allure	KiiBOOM Allure	in-ear	711

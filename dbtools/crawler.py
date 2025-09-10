@@ -282,6 +282,8 @@ class Crawler(ABC):
         Returns:
             Normalized file name
         """
+        if file_name is None:
+            return file_name
         file_name = urllib.parse.unquote(file_name)
         file_name = re.sub(r'[<>:"/\\|?*]', '', file_name)
         file_name = re.sub(r'\s{2,}', ' ', file_name)
@@ -330,6 +332,8 @@ class Crawler(ABC):
 
     def search_images(self, source_name):
         dir_name = self.normalize_file_name(source_name)
+        dir_name = re.sub(r' \(.*\)$', '', dir_name)
+        dir_name = dir_name.strip()
         img_dir = ROOT_PATH.joinpath('dbtools', 'google-image-search', dir_name)
         if not img_dir.exists():
             #img_dir.mkdir(parents=True, exist_ok=True)
@@ -338,6 +342,12 @@ class Crawler(ABC):
 
     def search_all_images(self):
         for item in self.crawl_index.items:
+            if not item.source_name:
+                continue
+            if not self.is_prompt_needed(item):
+                continue
+            if not re.search(r'\w', item.source_name):
+                continue
             self.search_images(item.source_name)
 
     # Processing methods
@@ -479,6 +489,8 @@ class Crawler(ABC):
             if self.active_list_item.name_prompt.item.name is not None and self.active_list_item.name_prompt.item.form is not None:
                 # Prompting can resolve AutoEq name and the headphone form, both got resolved here, no need to prompt
                 self.prompt_callback(self.active_list_item.name_prompt.item)
+                return
+            self.active_list_item.name_prompt.search_images()
         self.reload_ui()
 
     def next_prompt(self):
@@ -490,6 +502,7 @@ class Crawler(ABC):
 
     def run(self):
         self.crawl()
+        self.search_all_images()
         self.create_prompts()
         self.reload_ui()
         # Crawler.process() needs to be invoked after user has resolved prompts

@@ -11,6 +11,8 @@ import numpy as np
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from autoeq.frequency_response import FrequencyResponse
+from autoeq.utils import is_file_name_allowed
+
 ROOT_PATH = Path(__file__).parent.parent
 if str(ROOT_PATH) not in sys.path:
     sys.path.insert(1, str(ROOT_PATH))
@@ -196,6 +198,22 @@ class RtingsCrawler(Crawler):
             raw = data[:, 1]
         fr = FrequencyResponse(name='fr', frequency=frequency, raw=raw, target=target)
         return fr
+
+    def target_path(self, item):
+        """Target file path for the item in measurements directory
+
+        Args:
+            item: NameItem for the measurement
+
+        Returns:
+            Target file path, None if necessary props are missing
+        """
+        if item.is_ignored or item.form is None or item.name is None:
+            return None
+        path = self.measurements_path.joinpath('data', item.form, item.rig, f'{item.name}.csv')
+        if not is_file_name_allowed(item.name):
+            raise ValueError(f'Target path cannot be "{path}"')
+        return path
 
     def process_group(self, items, new_only=True):
         if items[0].is_ignored:
