@@ -153,7 +153,7 @@ def process_file(
     if ten_band_eq:
         # Ten band eq is a shortcut for setting Fc and Q values to standard 10-band equalizer filters parameters
         fixed_band_eq = True
-        fixed_band_eq_config = PEQ_CONFIGS['10_BAND_GRAPHIC_EQ']
+        fixed_band_eq_config = PEQ_CONFIGS['THX_EQ_PRESET']
 
     fr.process(
         target=target,
@@ -193,7 +193,10 @@ def process_file(
     if fixed_band_eq:
         fixed_band_peq = fr.optimize_fixed_band_eq(
             fixed_band_eq_config, fs[0], preamp=preamp)[0] if fixed_band_eq else None
-        fr.write_eqapo_parametric_eq(output_file_path.replace('.csv', ' FixedBandEQ.txt'), [fixed_band_peq])
+
+        file_path = 'thx_eq_preset_values_only.json'
+
+        fr.write_thx_graphic_eq_json(output_file_path.replace('flat.csv', file_path), [fixed_band_peq])
     else:
         fixed_band_peq = None
 

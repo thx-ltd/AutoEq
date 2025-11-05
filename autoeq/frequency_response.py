@@ -214,6 +214,43 @@ class FrequencyResponse:
                 s += f'Filter {i + 1}: ON {types[filt.__class__.__name__]} Fc {filt.fc:.0f} Hz Gain {filt.gain:.1f} dB Q {filt.q:.2f}\n'
             f.write(s)
 
+    def write_thx_graphic_eq_json(self, file_path, peqs):
+        """Writes THX_EQ_PRESET 10-band graphic EQ settings to a JSON file with structured parameter format.
+
+        Args:
+            file_path: Path where to write the JSON file
+            peqs: List of PEQ objects containing the parametric equalizer filters
+        """
+        file_path = os.path.abspath(file_path)
+        f = self.generate_frequencies(f_step=DEFAULT_BIQUAD_OPTIMIZATION_F_STEP)
+        compound = PEQ(f, peqs[0].fs, [])
+        for peq in peqs:
+            for filt in peq.filters:
+                compound.add_filter(filt)
+
+        # Create structured parameter list
+        json_data = []
+
+        # Customer-facing graphic EQ bands start with index = 1
+        start_index = 1
+
+                # Add each filter as structured parameters
+        for i, filt in enumerate(compound.filters):
+            band_index = i + start_index
+            band_prefix = f'eq_band_{band_index}'
+
+            # Gain parameter
+            json_data.append({
+                "id": f"{band_prefix}_gain_db",
+                "type": "float",
+                "value": round(filt.gain, 1)
+            })
+
+        # Write JSON to file
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump(json_data, f, indent=1)
+
+
     def write_parametric_eq_json(self, file_path, peqs, prefix='multi'):
         """Writes parametric eq settings to a JSON file with structured parameter format.
 

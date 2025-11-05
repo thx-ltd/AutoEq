@@ -342,6 +342,11 @@ PEQ_CONFIGS = {
             'max_fc': 10000.0,
         }] * 8
     },
+    'THX_EQ_PRESET': {
+        'optimizer': {'min_std': 0.01},
+        'filter_defaults': {'q': math.sqrt(2), 'min_gain': -12.0, 'max_gain': 12.0, 'type': 'PEAKING'},
+        'filters': [{'fc': 31.25 * 2 ** i} for i in range(10)]
+    },
 }
 
 DEFAULT_BASS_BOOST_GAINS = {
